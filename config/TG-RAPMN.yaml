@@ -1,0 +1,72 @@
+name: TGRAPMNet
+seed: 0
+exp_dir: model_checkpoints # Your path to save checkpoints and logs
+eval_tmp_dir: submit # Your path to save temporary evaluation files
+
+dataset:
+  root_path: /media/user/WDC10TB/code/YHD/data/ROD2021 # Your path to CRUW dataset
+  vis_res_dir: vis_results # valid set visual results save path
+  confamaps_save_path: confmaps # Your path to save precomputed confmaps
+  chirps: [0, 64, 128, 192]
+  is_random_chirp: True # if use all chirps
+  calc_all_window_size: False # if calculate all windows
+  use_extra_information: True # if use uncertainty
+  class_names: [pedestrian, cyclist, car]
+  class_sizes:
+    pedestrian: 12 # 0.5 meters
+    cyclist: 18 # 1.0 meters
+    car: 24 # 3.0 meters
+  confmap:
+    conf_threshold: 0.01
+    lnms_threshold: 0.5
+  helper_sensor_config: sensor_config_rod2021
+  helper_object_config: object_config
+  input_size: [128, 128]
+  input_range: [1.0, 25.0, -1.0472, 1.0472] # [r_min, r_max, a_min, a_max]
+  valid_list: # https://github.com/Zhuanglong2/T-RODNet#prepare-data-for-t-rodnet
+    - 2019_04_09_BMS1001
+    - 2019_04_30_MLMS001
+    - 2019_05_23_PM1S013
+    - 2019_09_29_ONRD005
+  test_list:
+    - 2019_05_28_CM1S013
+    - 2019_05_28_MLMS005
+    - 2019_05_28_PBMS006
+    - 2019_05_28_PCMS004
+    - 2019_05_28_PM2S012
+    - 2019_05_28_PM2S014
+    - 2019_09_18_ONRD004
+    - 2019_09_18_ONRD009
+    - 2019_09_29_ONRD012
+    - 2019_10_13_ONRD048
+
+model:
+  encoder:
+    patch_size: [2, 2, 2] # [T, R, A]
+    depths: [2, 2, 2, 1]
+    dims: [48, 96, 192, 384]
+  decoder:
+    depths: [2, 2, 2]
+    embed_dim: 64
+    out_channels: 64
+  mix3d: True # if use the mix3d module
+  cls_uncertainty: False # if use the uncertainty estimate
+  output_size: [128, 128]
+  window_size: 16 # length of sliding temporal window
+  window_step: 4 # skip size of sliding temporal window
+  max_dets: 5
+  peak_thres: 0.6 # det vis thres value
+  ols_thres: 0.3
+  segment_thres: 0
+  loss_weights: 0.001 # extra loss weights
+  clip_model:
+    vector_length: 248 # clip encode vector
+    model_path: "./Long_CLIP/checkpoints/longclip-B.pt" # "longclip-L.pt/longclip-B.pt"
+    clip_vector: 512 # longclip-L=768, longclip-B = 512
+ 
+train:
+  num_epochs: 20
+  batch_size: 4
+  learning_rate: 1.0e-4
+  weight_decay: 0
+  log_step: 100

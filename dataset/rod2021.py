@@ -1,0 +1,278 @@
+import os
+
+import numpy as np
+import torch
+from torch.utils.data import Dataset
+from tqdm import tqdm
+
+from utils.confmap import encode_confmaps
+
+# from CLIP import clip
+from Long_CLIP.model import longclip as clip
+
+class ROD2021Dataset(Dataset):
+    def __init__(self, dataset_cfg: dict, model_cfg: dict, data_flag: str, root_path: str):
+        super().__init__()
+        self.root_dir = root_path
+        self.dataset_cfg = dataset_cfg
+        self.model_cfg = model_cfg
+        self.data_flag = data_flag
+        self.vector_length = model_cfg['clip_model']['vector_length']  # long clip
+
+        # self.clip_model, self.clip_preprocess = clip.load("./Long_CLIP/checkpoints/longclip-B.pt", device='cpu') # New added
+        # seq_path = os.path.join(root_path, 'sequences',
+        #                         'train' if data_flag else 'valid')
+
+        if self.data_flag in ['trainval', 'train', 'valid', 'test']:
+            seq_path = os.path.join(root_path, 'sequences', self.data_flag)
+        else:
+            print("Data Flag Error, not in ['trainval', 'train', 'valid', 'test']!!!")
+        
+        if not os.path.exists(dataset_cfg['confamaps_save_path']):
+            os.makedirs(dataset_cfg['confamaps_save_path'])
+
+        # {seq: {frame: rad_data}}
+        self.rads: dict[str, dict[int, torch.Tensor]] = {}
+        # {seq: {frame: [(r, a, class), ...]}}
+        self.annos: dict[str, dict[int, list[tuple[float, float, str]]]] = {}
+        # {seq: {frame: confmap}}
+        self.confmaps: dict[str, dict[int, torch.Tensor]] = {}
+        seqs = sorted(os.listdir(seq_path))
+        bar = tqdm(total=len(seqs), dynamic_ncols=True)
+
+        # =============================================== #
+        # text describe
+        # self.text_describe: dict[str, dict[str, str]] = {}
+        self.text_describe: dict[str, dict[int, torch.Tensor]] = {}
+        # =============================================== #
+        for seq in seqs:
+            
+            if  self.data_flag in ['trainval', 'train', 'valid']:
+                # find all train or valid frames, read RAD data
+                bar.set_description(f'Reading radar data for {seq}')
+                self.rads[seq] = {}
+                files = list(os.listdir(os.path.join(
+                    seq_path, seq, 'RADAR_RA_H')))
+                frames = sorted(list(set([int(f.split('_')[0]) for f in files])))
+                for frame in frames:
+                    # find image path
+                    # self.img_name = os.path.join(seq_path, seq, 'IMAGES_0', f'{frame:010d}.jpg') # record image path
+                    
+                    num_chirps = len(dataset_cfg['chirps']) # []
+                    self.rads[seq][frame] = torch.zeros(
+                        (num_chirps, dataset_cfg['input_size'][0], dataset_cfg['input_size'][1], 2))
+                    for i, chirp in enumerate(dataset_cfg['chirps']):
+                        radar_name = os.path.join(
+                            seq_path, seq, 'RADAR_RA_H', f'{frame:06d}_{chirp:04d}' + '.npy')
+                        ra = torch.from_numpy(
+                            np.load(radar_name)
+                        )  # [128, 128, 2]
+                        self.rads[seq][frame][i, :, :, :] = ra
+                        # [1, 128, 128, 2] or [4, 128, 128, 2]
+
+                # read annotations
+                bar.set_description(f'Reading annotation for {seq}')
+                self.annos[seq] = {}
+                # ================================================= #
+                # New added
+                self.text_describe[seq] = {}
+                obj_counts = 0 
+                init_frame = 0 
+                class_name_list = []
+                r_list = []
+                a_list = []
+                # ================================================= #
+                # anno_path = os.path.join(
+                #     self.root_dir, 'annotations',
+                #     'train' if data_flag else 'valid', f'{seq}.txt')
+                anno_path = os.path.join(self.root_dir, 'annotations', self.data_flag, f'{seq}.txt')
+                for frame in frames:
+                    self.annos[seq][frame] = []
+                    # self.text_describe[seq][frame] = []
+                    self.text_describe[seq][frame] = torch.zeros((num_chirps, self.vector_length)) # New added
+                    # self.text_describe[seq][frame] = clip.tokenize(['No instances labeled in this frame.']) # New added
+                with open(anno_path, 'r') as f:
+                    data = f.readlines()
+                for line in data:
+                    frame, r, a, class_name = line.rstrip().split()
+                    frame = int(frame)
+                    r = float(r)
+                    a = float(a)
+                    self.annos[seq][frame].append((r, a, class_name))
+
+                    # ================================================================ # 
+                    # text describe version 1
+                    # text_content = f'In this frame, the object {class_name} is located {r} meters away from the sensor, with an azimuth of {a}.'
+                    # text_vector = clip.tokenize([text_content])
+                    # self.annos[seq][frame].append(text_vector)
+
+                    # text describe version 2 (error: 'input text is too long for context length 77')
+                    if init_frame == frame:
+                        obj_counts += 1
+                        class_name_list.append(class_name)
+                        r_list.append(r)
+                        a_list.append(a)
+                    
+                    if init_frame != frame:
+                        # text_content_1 = 'In this frame, there {0} a total of {1} annotated instances.'.format('is' if obj_counts == 1 else 'are', obj_counts) 
+                        text_content_1 = 'In this frame, there {0} {1} instances.'.format('is' if obj_counts == 1 else 'are', obj_counts) 
+                        text_content_2 = ''
+                        for idx in range(obj_counts):
+                            # text_content_2 += f' The object {class_name_list[idx]} is located {r_list[idx]} meters away from the sensor, with an azimuth of {a_list[idx]}.'
+                            text_content_2 += f' The {class_name_list[idx]} is located at {r_list[idx]} with azimuth {a_list[idx]}.'
+                        text_content = text_content_1 + text_content_2
+                    
+                        # text_vector = self.clip_model.encode_text(clip.tokenize([text_content]))
+                        text_vector = clip.tokenize([text_content])
+                        for i, chirp in enumerate(dataset_cfg['chirps']):
+                            self.text_describe[seq][frame][i, : ] = text_vector
+                        init_frame = frame
+                        obj_counts = 0
+                        class_name_list = []
+                        r_list = []
+                        a_list = []
+                    # ================================================================ # 
+
+                confmap_file = os.path.join(dataset_cfg['confamaps_save_path'],
+                                            f'{seq}.pt')
+                
+                if os.path.exists(confmap_file):
+                    self.confmaps[seq] = torch.load(confmap_file,
+                                                    weights_only=False)
+                else:
+                    # generate confmaps
+                    bar.set_description(f'Generating confmap for {seq}')
+                    self.confmaps[seq] = encode_confmaps(
+                        dataset_cfg, model_cfg, self.annos[seq])
+                    torch.save(self.confmaps[seq], confmap_file)
+
+                bar.update(1)
+            else:
+                # find all test frames, read RAD data
+                bar.set_description(f'Reading radar data for {seq}')
+                self.rads[seq] = {}
+                self.text_describe[seq] = {} # new added
+                files = list(os.listdir(os.path.join(
+                    seq_path, seq, 'RADAR_RA_H')))
+                frames = sorted(list(set([int(f.split('_')[0]) for f in files])))
+                # =================================================================================================================== #
+                # text_content = 'In this frame, at a certain distance from the sensor and at a position with a specific azimuth angle, \
+                #                 there are some objects. These objects may be one or more of pedestrians, cyclists, or vehicles, and there may also be no objects at all.'
+                text_content = 'In this frame, there may be some objects located at a certain distance and specific azimuth angle from the sensor. ' \
+                               'These objects may be one or more of pedestrians, cyclists, or cars, or there may be no objects at all.'
+                
+                text_vector = clip.tokenize([text_content])
+                # =================================================================================================================== #
+                for frame in frames:
+                    num_chirps = len(dataset_cfg['chirps'])
+                    self.rads[seq][frame] = torch.zeros(
+                        (num_chirps, dataset_cfg['input_size'][0], dataset_cfg['input_size'][1], 2))
+                    
+                    self.text_describe[seq][frame] = torch.zeros((num_chirps, self.vector_length)) # New added
+                    
+                    for i, chirp in enumerate(dataset_cfg['chirps']):
+                        radar_name = os.path.join(
+                            seq_path, seq, 'RADAR_RA_H', f'{frame:06d}_{chirp:04d}' + '.npy')
+                        ra = torch.from_numpy(
+                            np.load(radar_name)
+                        )  # [128, 128, 2]
+                        self.rads[seq][frame][i, :, :, :] = ra
+                        self.text_describe[seq][frame][i, : ] = text_vector # New added
+                bar.update(1)
+        bar.close()
+
+        # list the starting points of the windows
+        self.window_start_list: list[tuple[str, int]] = []
+        for seq in self.rads.keys():
+            shift_size = model_cfg['window_size']
+            # shift_step = model_cfg['window_step'] if data_flag else model_cfg['window_size'] // 2
+            shift_step = model_cfg['window_step'] if self.data_flag in ['trainval', 'train'] else model_cfg['window_size'] // 2
+           
+            self.window_start_list += [
+                (seq, frame) for frame in
+                range(0, len(self.rads[seq])-shift_size+1, shift_step)]
+            
+            if self.data_flag not in ['trainval', 'train']:
+                self.window_start_list.append(
+                    (seq, len(self.rads[seq]) - shift_size)
+                )  # add the last window to cover the end of the sequence
+
+    def __len__(self) -> int:
+        return len(self.window_start_list)
+
+    def __getitem__(self, index: int) -> dict:
+        # find the frames in the window
+        seq, frame_start = self.window_start_list[index]
+        frames = list(range(
+            frame_start, frame_start + self.model_cfg['window_size']
+        ))
+        data = {}
+        data['seq'] = seq
+        data['frames'] = frames
+        data['rad'] = torch.zeros((self.model_cfg['window_size'],
+                                   len(self.dataset_cfg['chirps']),
+                                   self.dataset_cfg['input_size'][0],
+                                   self.dataset_cfg['input_size'][1],
+                                   2))
+        
+        data['confmap'] = torch.zeros((self.model_cfg['window_size'],
+                                       self.model_cfg['output_size'][0],
+                                       self.model_cfg['output_size'][1],
+                                       len(self.dataset_cfg['class_names'])))
+        
+        data['text_describtion'] = torch.zeros((self.model_cfg['window_size'],
+                                                len(self.dataset_cfg['chirps']),
+                                                self.vector_length
+                                                ))
+        
+        data['annos'] = []
+
+        # data['text_describtion'] = []
+
+        if self.data_flag in ['trainval', 'train', 'valid']:
+            for i, frame in enumerate(frames):
+                data['rad'][i] = self.rads[seq][frame]  # [T, chirps, R, A, 2]
+                data['confmap'][i] = self.confmaps[seq][frame]  # [T, R, A, classes]
+                data['text_describtion'][i] = self.text_describe[seq][frame]
+                data['annos'].append(self.annos[seq][frame])
+                # data['text_describtion'].append(self.text_describe[seq][frame]) # New added
+
+        else:
+            for i, frame in enumerate(frames):
+                data['rad'][i] = self.rads[seq][frame]  # [T, chirps, R, A, 2]
+                data['text_describtion'][i] = self.text_describe[seq][frame] 
+                # data['text_describtion'].append(self.text_describe[seq][frame]) # New added
+                # data['confmap'][i] = torch.zeros()  # [T, R, A, classes]
+                # data['annos'].append(0)
+
+        return data
+
+
+def collate_fn(batch: list[dict]) -> dict:
+    data = {}
+    data['seq'] = [b['seq'] for b in batch]
+    data['frames'] = [b['frames'] for b in batch]
+    data['rad'] = torch.stack([b['rad'] for b in batch], dim=0)
+    data['confmap'] = torch.stack([b['confmap'] for b in batch], dim=0)
+    data['annos'] = [b['annos'] for b in batch]
+    # data['text_describtion'] = [b['text_describtion'] for b in batch] # New added
+    data['text_describtion'] = torch.stack([b['text_describtion'].long() for b in batch], dim=0) # New added
+    return data
+
+
+def data_augment(input_tensor: torch.Tensor, label_tensor: torch.Tensor, rate: float = 0.5) -> tuple[torch.Tensor, torch.Tensor]:
+    # input: [B, T, chirp, R, A, 2]
+    # label: [B, T, R, A, classes]
+    assert len(input_tensor.shape) == 6 and len(label_tensor.shape) == 5, \
+        f"Must be 6D for input and 5D for label, got {input_tensor.shape} and {label_tensor.shape}"
+    # Temporal flipping
+    if np.random.rand() <= rate:
+        input_tensor = torch.flip(input_tensor, dims=[1, 2])
+        label_tensor = torch.flip(label_tensor, dims=[1])
+
+    # Horizontal flipping
+    if np.random.rand() <= rate:
+        input_tensor = torch.flip(input_tensor, dims=[4])
+        label_tensor = torch.flip(label_tensor, dims=[3])
+
+    return input_tensor, label_tensor

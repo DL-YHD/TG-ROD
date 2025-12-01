@@ -1,0 +1,11 @@
+timm
+scipy
+tensorboard
+ftfy
+regex
+matplotlib
+einops
+tqdm
+numpy
+pyyaml
+

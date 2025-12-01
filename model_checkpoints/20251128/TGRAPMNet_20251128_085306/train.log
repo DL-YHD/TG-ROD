@@ -1,0 +1,1729 @@
+epoch  5, iter    1: loss: 0.05655378 | lr: 0.00009755  | spend time: 0 days  0 hours  1 minutes  0 seconds
+epoch  5, iter  101: loss: 0.06120082 | lr: 0.00009755  | spend time: 0 days  0 hours  1 minutes 43 seconds
+epoch  5, iter  201: loss: 0.05664468 | lr: 0.00009755  | spend time: 0 days  0 hours  2 minutes 25 seconds
+epoch  5, iter  301: loss: 0.05533310 | lr: 0.00009755  | spend time: 0 days  0 hours  3 minutes  7 seconds
+epoch  5, iter  401: loss: 0.05668229 | lr: 0.00009755  | spend time: 0 days  0 hours  3 minutes 49 seconds
+epoch  5, iter  501: loss: 0.05435142 | lr: 0.00009755  | spend time: 0 days  0 hours  4 minutes 31 seconds
+epoch  5, iter  601: loss: 0.05635687 | lr: 0.00009755  | spend time: 0 days  0 hours  5 minutes 13 seconds
+epoch  5, iter  701: loss: 0.05659354 | lr: 0.00009755  | spend time: 0 days  0 hours  5 minutes 55 seconds
+epoch  5, iter  801: loss: 0.05642256 | lr: 0.00009755  | spend time: 0 days  0 hours  6 minutes 37 seconds
+epoch  5, iter  901: loss: 0.05485447 | lr: 0.00009755  | spend time: 0 days  0 hours  7 minutes 19 seconds
+epoch  5, iter 1001: loss: 0.05575972 | lr: 0.00009755  | spend time: 0 days  0 hours  8 minutes  2 seconds
+epoch  5, iter 1101: loss: 0.05631357 | lr: 0.00009755  | spend time: 0 days  0 hours  8 minutes 44 seconds
+epoch  5, iter 1201: loss: 0.05543353 | lr: 0.00009755  | spend time: 0 days  0 hours  9 minutes 26 seconds
+epoch  5, iter 1301: loss: 0.05855141 | lr: 0.00009755  | spend time: 0 days  0 hours 10 minutes  8 seconds
+epoch  5, iter 1401: loss: 0.05446753 | lr: 0.00009755  | spend time: 0 days  0 hours 10 minutes 50 seconds
+epoch  5, iter 1501: loss: 0.05565271 | lr: 0.00009755  | spend time: 0 days  0 hours 11 minutes 32 seconds
+epoch  5, iter 1601: loss: 0.05555270 | lr: 0.00009755  | spend time: 0 days  0 hours 12 minutes 14 seconds
+epoch  5, iter 1701: loss: 0.05557187 | lr: 0.00009755  | spend time: 0 days  0 hours 12 minutes 56 seconds
+epoch  5, iter 1801: loss: 0.05786594 | lr: 0.00009755  | spend time: 0 days  0 hours 13 minutes 38 seconds
+epoch  5, iter 1901: loss: 0.05567434 | lr: 0.00009755  | spend time: 0 days  0 hours 14 minutes 21 seconds
+epoch  5, iter 2001: loss: 0.05551661 | lr: 0.00009755  | spend time: 0 days  0 hours 15 minutes  3 seconds
+epoch  5, iter 2101: loss: 0.05577834 | lr: 0.00009755  | spend time: 0 days  0 hours 15 minutes 45 seconds
+epoch  5, iter 2201: loss: 0.05627542 | lr: 0.00009755  | spend time: 0 days  0 hours 16 minutes 27 seconds
+epoch  5, iter 2301: loss: 0.05546498 | lr: 0.00009755  | spend time: 0 days  0 hours 17 minutes  9 seconds
+epoch  5, iter 2401: loss: 0.05556053 | lr: 0.00009755  | spend time: 0 days  0 hours 17 minutes 51 seconds
+epoch  5, iter 2501: loss: 0.05472263 | lr: 0.00009755  | spend time: 0 days  0 hours 18 minutes 33 seconds
+epoch  5, iter 2601: loss: 0.05535498 | lr: 0.00009755  | spend time: 0 days  0 hours 19 minutes 15 seconds
+epoch  5, iter 2701: loss: 0.05555375 | lr: 0.00009755  | spend time: 0 days  0 hours 19 minutes 57 seconds
+epoch  5, iter 2801: loss: 0.05818104 | lr: 0.00009755  | spend time: 0 days  0 hours 20 minutes 39 seconds
+epoch  5, iter 2901: loss: 0.05565410 | lr: 0.00009755  | spend time: 0 days  0 hours 21 minutes 22 seconds
+epoch  5, iter 3001: loss: 0.05627367 | lr: 0.00009755  | spend time: 0 days  0 hours 22 minutes  4 seconds
+epoch  5, iter 3101: loss: 0.05433199 | lr: 0.00009755  | spend time: 0 days  0 hours 22 minutes 45 seconds
+epoch  5, iter 3201: loss: 0.05504304 | lr: 0.00009755  | spend time: 0 days  0 hours 23 minutes 27 seconds
+epoch  5, iter 3301: loss: 0.05671004 | lr: 0.00009755  | spend time: 0 days  0 hours 24 minutes  9 seconds
+epoch  5, iter 3401: loss: 0.05386667 | lr: 0.00009755  | spend time: 0 days  0 hours 24 minutes 51 seconds
+epoch  5, iter 3501: loss: 0.05565630 | lr: 0.00009755  | spend time: 0 days  0 hours 25 minutes 34 seconds
+epoch  5, iter 3601: loss: 0.05545478 | lr: 0.00009755  | spend time: 0 days  0 hours 26 minutes 16 seconds
+epoch  5, iter 3701: loss: 0.05614467 | lr: 0.00009755  | spend time: 0 days  0 hours 26 minutes 58 seconds
+epoch  5, iter 3801: loss: 0.05576905 | lr: 0.00009755  | spend time: 0 days  0 hours 27 minutes 40 seconds
+epoch  5, iter 3901: loss: 0.05410698 | lr: 0.00009755  | spend time: 0 days  0 hours 28 minutes 22 seconds
+epoch  5, iter 4001: loss: 0.05504547 | lr: 0.00009755  | spend time: 0 days  0 hours 29 minutes  4 seconds
+epoch  5, iter 4101: loss: 0.05550162 | lr: 0.00009755  | spend time: 0 days  0 hours 29 minutes 46 seconds
+epoch  5, iter 4201: loss: 0.05627657 | lr: 0.00009755  | spend time: 0 days  0 hours 30 minutes 28 seconds
+epoch  5, iter 4301: loss: 0.05725956 | lr: 0.00009755  | spend time: 0 days  0 hours 31 minutes 10 seconds
+epoch  5, iter 4401: loss: 0.05779945 | lr: 0.00009755  | spend time: 0 days  0 hours 31 minutes 52 seconds
+epoch  5, iter 4501: loss: 0.05526076 | lr: 0.00009755  | spend time: 0 days  0 hours 32 minutes 34 seconds
+epoch  5, iter 4601: loss: 0.05574304 | lr: 0.00009755  | spend time: 0 days  0 hours 33 minutes 16 seconds
+epoch  5, iter 4701: loss: 0.05651933 | lr: 0.00009755  | spend time: 0 days  0 hours 33 minutes 58 seconds
+epoch  5, iter 4801: loss: 0.05532849 | lr: 0.00009755  | spend time: 0 days  0 hours 34 minutes 40 seconds
+epoch  5, iter 4901: loss: 0.05490321 | lr: 0.00009755  | spend time: 0 days  0 hours 35 minutes 22 seconds
+epoch  5, iter 5001: loss: 0.05505986 | lr: 0.00009755  | spend time: 0 days  0 hours 36 minutes  4 seconds
+epoch  5, iter 5101: loss: 0.05542929 | lr: 0.00009755  | spend time: 0 days  0 hours 36 minutes 46 seconds
+epoch  5, iter 5201: loss: 0.05590194 | lr: 0.00009755  | spend time: 0 days  0 hours 37 minutes 28 seconds
+epoch  5, iter 5301: loss: 0.05576524 | lr: 0.00009755  | spend time: 0 days  0 hours 38 minutes 10 seconds
+epoch  5, iter 5401: loss: 0.05699566 | lr: 0.00009755  | spend time: 0 days  0 hours 38 minutes 53 seconds
+epoch  5, iter 5501: loss: 0.05508316 | lr: 0.00009755  | spend time: 0 days  0 hours 39 minutes 35 seconds
+epoch  5, iter 5601: loss: 0.05501445 | lr: 0.00009755  | spend time: 0 days  0 hours 40 minutes 17 seconds
+epoch  5, iter 5701: loss: 0.05756478 | lr: 0.00009755  | spend time: 0 days  0 hours 40 minutes 59 seconds
+epoch  5, iter 5801: loss: 0.05470994 | lr: 0.00009755  | spend time: 0 days  0 hours 41 minutes 41 seconds
+epoch  5, iter 5901: loss: 0.05597655 | lr: 0.00009755  | spend time: 0 days  0 hours 42 minutes 23 seconds
+epoch  5, iter 6001: loss: 0.05574335 | lr: 0.00009755  | spend time: 0 days  0 hours 43 minutes  5 seconds
+epoch  5, iter 6101: loss: 0.05575955 | lr: 0.00009755  | spend time: 0 days  0 hours 43 minutes 47 seconds
+epoch  5, iter 6201: loss: 0.05578423 | lr: 0.00009755  | spend time: 0 days  0 hours 44 minutes 29 seconds
+epoch  5, iter 6301: loss: 0.05636425 | lr: 0.00009755  | spend time: 0 days  0 hours 45 minutes 11 seconds
+epoch  5, iter 6401: loss: 0.05612076 | lr: 0.00009755  | spend time: 0 days  0 hours 45 minutes 53 seconds
+epoch  5, iter 6501: loss: 0.05640852 | lr: 0.00009755  | spend time: 0 days  0 hours 46 minutes 35 seconds
+epoch  5, iter 6601: loss: 0.05482188 | lr: 0.00009755  | spend time: 0 days  0 hours 47 minutes 17 seconds
+epoch  5, iter 6701: loss: 0.05516333 | lr: 0.00009755  | spend time: 0 days  0 hours 47 minutes 59 seconds
+epoch  5, iter 6801: loss: 0.05556591 | lr: 0.00009755  | spend time: 0 days  0 hours 48 minutes 42 seconds
+epoch  5, iter 6901: loss: 0.05540415 | lr: 0.00009755  | spend time: 0 days  0 hours 49 minutes 24 seconds
+epoch  5, iter 7001: loss: 0.05553959 | lr: 0.00009755  | spend time: 0 days  0 hours 50 minutes  6 seconds
+epoch  5, iter 7101: loss: 0.05661760 | lr: 0.00009755  | spend time: 0 days  0 hours 50 minutes 48 seconds
+epoch  5, iter 7201: loss: 0.05654275 | lr: 0.00009755  | spend time: 0 days  0 hours 51 minutes 30 seconds
+epoch  5, iter 7301: loss: 0.05414678 | lr: 0.00009755  | spend time: 0 days  0 hours 52 minutes 12 seconds
+epoch  5, iter 7401: loss: 0.05687916 | lr: 0.00009755  | spend time: 0 days  0 hours 52 minutes 54 seconds
+epoch  5, iter 7501: loss: 0.05672139 | lr: 0.00009755  | spend time: 0 days  0 hours 53 minutes 36 seconds
+epoch  5, iter 7601: loss: 0.05631706 | lr: 0.00009755  | spend time: 0 days  0 hours 54 minutes 18 seconds
+epoch  5, iter 7701: loss: 0.05568074 | lr: 0.00009755  | spend time: 0 days  0 hours 55 minutes  0 seconds
+epoch  5, iter 7801: loss: 0.05556364 | lr: 0.00009755  | spend time: 0 days  0 hours 55 minutes 42 seconds
+epoch  5, iter 7901: loss: 0.05558365 | lr: 0.00009755  | spend time: 0 days  0 hours 56 minutes 24 seconds
+epoch  5, iter 8001: loss: 0.05536149 | lr: 0.00009755  | spend time: 0 days  0 hours 57 minutes  6 seconds
+epoch  5, iter 8101: loss: 0.05629530 | lr: 0.00009755  | spend time: 0 days  0 hours 57 minutes 48 seconds
+epoch  5, iter 8201: loss: 0.05699401 | lr: 0.00009755  | spend time: 0 days  0 hours 58 minutes 31 seconds
+epoch  5, iter 8301: loss: 0.05536180 | lr: 0.00009755  | spend time: 0 days  0 hours 59 minutes 13 seconds
+epoch  5, iter 8401: loss: 0.05612626 | lr: 0.00009755  | spend time: 0 days  0 hours 59 minutes 55 seconds
+epoch  5, iter 8501: loss: 0.05609104 | lr: 0.00009755  | spend time: 0 days  1 hours  0 minutes 37 seconds
+epoch  5, iter 8601: loss: 0.05611612 | lr: 0.00009755  | spend time: 0 days  1 hours  1 minutes 19 seconds
+epoch  5, iter 8701: loss: 0.05582804 | lr: 0.00009755  | spend time: 0 days  1 hours  2 minutes  1 seconds
+epoch  5, iter 8801: loss: 0.05662259 | lr: 0.00009755  | spend time: 0 days  1 hours  2 minutes 43 seconds
+epoch  5, iter 8901: loss: 0.05546894 | lr: 0.00009755  | spend time: 0 days  1 hours  3 minutes 25 seconds
+validing 5/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8040 | AP_pedestrian: 0.8075 | AP_cyclist: 0.7689 | AP_car: 0.8378 
+AR_total: 0.8871 | AR_pedestrian: 0.8815 | AR_cyclist: 0.8723 | AR_car: 0.9129 
+epoch  6, iter    1: loss: 0.05487428 | lr: 0.00009619  | spend time: 0 days  1 hours 10 minutes 56 seconds
+epoch  6, iter  101: loss: 0.05557135 | lr: 0.00009619  | spend time: 0 days  1 hours 11 minutes 38 seconds
+epoch  6, iter  201: loss: 0.05522589 | lr: 0.00009619  | spend time: 0 days  1 hours 12 minutes 20 seconds
+epoch  6, iter  301: loss: 0.05775689 | lr: 0.00009619  | spend time: 0 days  1 hours 13 minutes  2 seconds
+epoch  6, iter  401: loss: 0.05544602 | lr: 0.00009619  | spend time: 0 days  1 hours 13 minutes 44 seconds
+epoch  6, iter  501: loss: 0.05658608 | lr: 0.00009619  | spend time: 0 days  1 hours 14 minutes 27 seconds
+epoch  6, iter  601: loss: 0.05558660 | lr: 0.00009619  | spend time: 0 days  1 hours 15 minutes  9 seconds
+epoch  6, iter  701: loss: 0.05544597 | lr: 0.00009619  | spend time: 0 days  1 hours 15 minutes 51 seconds
+epoch  6, iter  801: loss: 0.05411530 | lr: 0.00009619  | spend time: 0 days  1 hours 16 minutes 33 seconds
+epoch  6, iter  901: loss: 0.05545217 | lr: 0.00009619  | spend time: 0 days  1 hours 17 minutes 15 seconds
+epoch  6, iter 1001: loss: 0.05537203 | lr: 0.00009619  | spend time: 0 days  1 hours 17 minutes 58 seconds
+epoch  6, iter 1101: loss: 0.05487493 | lr: 0.00009619  | spend time: 0 days  1 hours 18 minutes 40 seconds
+epoch  6, iter 1201: loss: 0.05508797 | lr: 0.00009619  | spend time: 0 days  1 hours 19 minutes 22 seconds
+epoch  6, iter 1301: loss: 0.05597977 | lr: 0.00009619  | spend time: 0 days  1 hours 20 minutes  5 seconds
+epoch  6, iter 1401: loss: 0.05561686 | lr: 0.00009619  | spend time: 0 days  1 hours 20 minutes 47 seconds
+epoch  6, iter 1501: loss: 0.05520952 | lr: 0.00009619  | spend time: 0 days  1 hours 21 minutes 29 seconds
+epoch  6, iter 1601: loss: 0.05510669 | lr: 0.00009619  | spend time: 0 days  1 hours 22 minutes 11 seconds
+epoch  6, iter 1701: loss: 0.05565974 | lr: 0.00009619  | spend time: 0 days  1 hours 22 minutes 53 seconds
+epoch  6, iter 1801: loss: 0.05632645 | lr: 0.00009619  | spend time: 0 days  1 hours 23 minutes 35 seconds
+epoch  6, iter 1901: loss: 0.05532886 | lr: 0.00009619  | spend time: 0 days  1 hours 24 minutes 18 seconds
+epoch  6, iter 2001: loss: 0.05548356 | lr: 0.00009619  | spend time: 0 days  1 hours 25 minutes  0 seconds
+epoch  6, iter 2101: loss: 0.05468636 | lr: 0.00009619  | spend time: 0 days  1 hours 25 minutes 42 seconds
+epoch  6, iter 2201: loss: 0.05571322 | lr: 0.00009619  | spend time: 0 days  1 hours 26 minutes 24 seconds
+epoch  6, iter 2301: loss: 0.05658896 | lr: 0.00009619  | spend time: 0 days  1 hours 27 minutes  6 seconds
+epoch  6, iter 2401: loss: 0.05549813 | lr: 0.00009619  | spend time: 0 days  1 hours 27 minutes 48 seconds
+epoch  6, iter 2501: loss: 0.05435114 | lr: 0.00009619  | spend time: 0 days  1 hours 28 minutes 30 seconds
+epoch  6, iter 2601: loss: 0.05684226 | lr: 0.00009619  | spend time: 0 days  1 hours 29 minutes 13 seconds
+epoch  6, iter 2701: loss: 0.05653172 | lr: 0.00009619  | spend time: 0 days  1 hours 29 minutes 55 seconds
+epoch  6, iter 2801: loss: 0.05550253 | lr: 0.00009619  | spend time: 0 days  1 hours 30 minutes 37 seconds
+epoch  6, iter 2901: loss: 0.05572197 | lr: 0.00009619  | spend time: 0 days  1 hours 31 minutes 19 seconds
+epoch  6, iter 3001: loss: 0.05543903 | lr: 0.00009619  | spend time: 0 days  1 hours 32 minutes  1 seconds
+epoch  6, iter 3101: loss: 0.05425037 | lr: 0.00009619  | spend time: 0 days  1 hours 32 minutes 43 seconds
+epoch  6, iter 3201: loss: 0.05660319 | lr: 0.00009619  | spend time: 0 days  1 hours 33 minutes 26 seconds
+epoch  6, iter 3301: loss: 0.05629494 | lr: 0.00009619  | spend time: 0 days  1 hours 34 minutes  8 seconds
+epoch  6, iter 3401: loss: 0.05497695 | lr: 0.00009619  | spend time: 0 days  1 hours 34 minutes 50 seconds
+epoch  6, iter 3501: loss: 0.05656266 | lr: 0.00009619  | spend time: 0 days  1 hours 35 minutes 32 seconds
+epoch  6, iter 3601: loss: 0.05536197 | lr: 0.00009619  | spend time: 0 days  1 hours 36 minutes 15 seconds
+epoch  6, iter 3701: loss: 0.05614367 | lr: 0.00009619  | spend time: 0 days  1 hours 36 minutes 57 seconds
+epoch  6, iter 3801: loss: 0.05539365 | lr: 0.00009619  | spend time: 0 days  1 hours 37 minutes 39 seconds
+epoch  6, iter 3901: loss: 0.05677101 | lr: 0.00009619  | spend time: 0 days  1 hours 38 minutes 21 seconds
+epoch  6, iter 4001: loss: 0.05545752 | lr: 0.00009619  | spend time: 0 days  1 hours 39 minutes  3 seconds
+epoch  6, iter 4101: loss: 0.05523755 | lr: 0.00009619  | spend time: 0 days  1 hours 39 minutes 46 seconds
+epoch  6, iter 4201: loss: 0.05564424 | lr: 0.00009619  | spend time: 0 days  1 hours 40 minutes 28 seconds
+epoch  6, iter 4301: loss: 0.05862763 | lr: 0.00009619  | spend time: 0 days  1 hours 41 minutes 10 seconds
+epoch  6, iter 4401: loss: 0.05554849 | lr: 0.00009619  | spend time: 0 days  1 hours 41 minutes 52 seconds
+epoch  6, iter 4501: loss: 0.05425538 | lr: 0.00009619  | spend time: 0 days  1 hours 42 minutes 34 seconds
+epoch  6, iter 4601: loss: 0.05428428 | lr: 0.00009619  | spend time: 0 days  1 hours 43 minutes 16 seconds
+epoch  6, iter 4701: loss: 0.05544850 | lr: 0.00009619  | spend time: 0 days  1 hours 43 minutes 58 seconds
+epoch  6, iter 4801: loss: 0.05592282 | lr: 0.00009619  | spend time: 0 days  1 hours 44 minutes 40 seconds
+epoch  6, iter 4901: loss: 0.05594251 | lr: 0.00009619  | spend time: 0 days  1 hours 45 minutes 23 seconds
+epoch  6, iter 5001: loss: 0.05497621 | lr: 0.00009619  | spend time: 0 days  1 hours 46 minutes  5 seconds
+epoch  6, iter 5101: loss: 0.05503286 | lr: 0.00009619  | spend time: 0 days  1 hours 46 minutes 47 seconds
+epoch  6, iter 5201: loss: 0.05545696 | lr: 0.00009619  | spend time: 0 days  1 hours 47 minutes 29 seconds
+epoch  6, iter 5301: loss: 0.05594064 | lr: 0.00009619  | spend time: 0 days  1 hours 48 minutes 11 seconds
+epoch  6, iter 5401: loss: 0.05714988 | lr: 0.00009619  | spend time: 0 days  1 hours 48 minutes 54 seconds
+epoch  6, iter 5501: loss: 0.05438947 | lr: 0.00009619  | spend time: 0 days  1 hours 49 minutes 36 seconds
+epoch  6, iter 5601: loss: 0.05599589 | lr: 0.00009619  | spend time: 0 days  1 hours 50 minutes 18 seconds
+epoch  6, iter 5701: loss: 0.05619071 | lr: 0.00009619  | spend time: 0 days  1 hours 51 minutes  0 seconds
+epoch  6, iter 5801: loss: 0.05788387 | lr: 0.00009619  | spend time: 0 days  1 hours 51 minutes 42 seconds
+epoch  6, iter 5901: loss: 0.05548077 | lr: 0.00009619  | spend time: 0 days  1 hours 52 minutes 24 seconds
+epoch  6, iter 6001: loss: 0.05406724 | lr: 0.00009619  | spend time: 0 days  1 hours 53 minutes  6 seconds
+epoch  6, iter 6101: loss: 0.05571708 | lr: 0.00009619  | spend time: 0 days  1 hours 53 minutes 49 seconds
+epoch  6, iter 6201: loss: 0.05564504 | lr: 0.00009619  | spend time: 0 days  1 hours 54 minutes 31 seconds
+epoch  6, iter 6301: loss: 0.05586025 | lr: 0.00009619  | spend time: 0 days  1 hours 55 minutes 13 seconds
+epoch  6, iter 6401: loss: 0.05798558 | lr: 0.00009619  | spend time: 0 days  1 hours 55 minutes 55 seconds
+epoch  6, iter 6501: loss: 0.05403549 | lr: 0.00009619  | spend time: 0 days  1 hours 56 minutes 38 seconds
+epoch  6, iter 6601: loss: 0.05619495 | lr: 0.00009619  | spend time: 0 days  1 hours 57 minutes 20 seconds
+epoch  6, iter 6701: loss: 0.05627826 | lr: 0.00009619  | spend time: 0 days  1 hours 58 minutes  2 seconds
+epoch  6, iter 6801: loss: 0.05534312 | lr: 0.00009619  | spend time: 0 days  1 hours 58 minutes 44 seconds
+epoch  6, iter 6901: loss: 0.05451655 | lr: 0.00009619  | spend time: 0 days  1 hours 59 minutes 26 seconds
+epoch  6, iter 7001: loss: 0.05556376 | lr: 0.00009619  | spend time: 0 days  2 hours  0 minutes  8 seconds
+epoch  6, iter 7101: loss: 0.05566707 | lr: 0.00009619  | spend time: 0 days  2 hours  0 minutes 51 seconds
+epoch  6, iter 7201: loss: 0.05508861 | lr: 0.00009619  | spend time: 0 days  2 hours  1 minutes 33 seconds
+epoch  6, iter 7301: loss: 0.05535768 | lr: 0.00009619  | spend time: 0 days  2 hours  2 minutes 15 seconds
+epoch  6, iter 7401: loss: 0.05531361 | lr: 0.00009619  | spend time: 0 days  2 hours  2 minutes 57 seconds
+epoch  6, iter 7501: loss: 0.05516719 | lr: 0.00009619  | spend time: 0 days  2 hours  3 minutes 39 seconds
+epoch  6, iter 7601: loss: 0.05662858 | lr: 0.00009619  | spend time: 0 days  2 hours  4 minutes 21 seconds
+epoch  6, iter 7701: loss: 0.05575443 | lr: 0.00009619  | spend time: 0 days  2 hours  5 minutes  3 seconds
+epoch  6, iter 7801: loss: 0.05595652 | lr: 0.00009619  | spend time: 0 days  2 hours  5 minutes 45 seconds
+epoch  6, iter 7901: loss: 0.05553558 | lr: 0.00009619  | spend time: 0 days  2 hours  6 minutes 27 seconds
+epoch  6, iter 8001: loss: 0.05681492 | lr: 0.00009619  | spend time: 0 days  2 hours  7 minutes  9 seconds
+epoch  6, iter 8101: loss: 0.05520052 | lr: 0.00009619  | spend time: 0 days  2 hours  7 minutes 52 seconds
+epoch  6, iter 8201: loss: 0.05390430 | lr: 0.00009619  | spend time: 0 days  2 hours  8 minutes 34 seconds
+epoch  6, iter 8301: loss: 0.05785684 | lr: 0.00009619  | spend time: 0 days  2 hours  9 minutes 16 seconds
+epoch  6, iter 8401: loss: 0.05549201 | lr: 0.00009619  | spend time: 0 days  2 hours  9 minutes 58 seconds
+epoch  6, iter 8501: loss: 0.05555248 | lr: 0.00009619  | spend time: 0 days  2 hours 10 minutes 40 seconds
+epoch  6, iter 8601: loss: 0.05537211 | lr: 0.00009619  | spend time: 0 days  2 hours 11 minutes 22 seconds
+epoch  6, iter 8701: loss: 0.05667397 | lr: 0.00009619  | spend time: 0 days  2 hours 12 minutes  5 seconds
+epoch  6, iter 8801: loss: 0.05695900 | lr: 0.00009619  | spend time: 0 days  2 hours 12 minutes 47 seconds
+epoch  6, iter 8901: loss: 0.05598505 | lr: 0.00009619  | spend time: 0 days  2 hours 13 minutes 28 seconds
+validing 6/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8456 | AP_pedestrian: 0.8373 | AP_cyclist: 0.8560 | AP_car: 0.8474 
+AR_total: 0.8936 | AR_pedestrian: 0.8857 | AR_cyclist: 0.8885 | AR_car: 0.9122 
+epoch  7, iter    1: loss: 0.05531253 | lr: 0.00009455  | spend time: 0 days  2 hours 16 minutes 39 seconds
+epoch  7, iter  101: loss: 0.05516401 | lr: 0.00009455  | spend time: 0 days  2 hours 17 minutes 21 seconds
+epoch  7, iter  201: loss: 0.05512409 | lr: 0.00009455  | spend time: 0 days  2 hours 18 minutes  4 seconds
+epoch  7, iter  301: loss: 0.05565874 | lr: 0.00009455  | spend time: 0 days  2 hours 18 minutes 46 seconds
+epoch  7, iter  401: loss: 0.05626458 | lr: 0.00009455  | spend time: 0 days  2 hours 19 minutes 28 seconds
+epoch  7, iter  501: loss: 0.05540302 | lr: 0.00009455  | spend time: 0 days  2 hours 20 minutes 10 seconds
+epoch  7, iter  601: loss: 0.05522583 | lr: 0.00009455  | spend time: 0 days  2 hours 20 minutes 52 seconds
+epoch  7, iter  701: loss: 0.05542145 | lr: 0.00009455  | spend time: 0 days  2 hours 21 minutes 34 seconds
+epoch  7, iter  801: loss: 0.05573456 | lr: 0.00009455  | spend time: 0 days  2 hours 22 minutes 17 seconds
+epoch  7, iter  901: loss: 0.06058924 | lr: 0.00009455  | spend time: 0 days  2 hours 22 minutes 59 seconds
+epoch  7, iter 1001: loss: 0.05641945 | lr: 0.00009455  | spend time: 0 days  2 hours 23 minutes 41 seconds
+epoch  7, iter 1101: loss: 0.05556028 | lr: 0.00009455  | spend time: 0 days  2 hours 24 minutes 23 seconds
+epoch  7, iter 1201: loss: 0.05560417 | lr: 0.00009455  | spend time: 0 days  2 hours 25 minutes  5 seconds
+epoch  7, iter 1301: loss: 0.05689868 | lr: 0.00009455  | spend time: 0 days  2 hours 25 minutes 48 seconds
+epoch  7, iter 1401: loss: 0.05527486 | lr: 0.00009455  | spend time: 0 days  2 hours 26 minutes 30 seconds
+epoch  7, iter 1501: loss: 0.05531334 | lr: 0.00009455  | spend time: 0 days  2 hours 27 minutes 12 seconds
+epoch  7, iter 1601: loss: 0.05452305 | lr: 0.00009455  | spend time: 0 days  2 hours 27 minutes 54 seconds
+epoch  7, iter 1701: loss: 0.05557308 | lr: 0.00009455  | spend time: 0 days  2 hours 28 minutes 36 seconds
+epoch  7, iter 1801: loss: 0.05628932 | lr: 0.00009455  | spend time: 0 days  2 hours 29 minutes 18 seconds
+epoch  7, iter 1901: loss: 0.05520190 | lr: 0.00009455  | spend time: 0 days  2 hours 30 minutes  0 seconds
+epoch  7, iter 2001: loss: 0.05375249 | lr: 0.00009455  | spend time: 0 days  2 hours 30 minutes 42 seconds
+epoch  7, iter 2101: loss: 0.05497559 | lr: 0.00009455  | spend time: 0 days  2 hours 31 minutes 24 seconds
+epoch  7, iter 2201: loss: 0.05551410 | lr: 0.00009455  | spend time: 0 days  2 hours 32 minutes  6 seconds
+epoch  7, iter 2301: loss: 0.05826589 | lr: 0.00009455  | spend time: 0 days  2 hours 32 minutes 48 seconds
+epoch  7, iter 2401: loss: 0.05315662 | lr: 0.00009455  | spend time: 0 days  2 hours 33 minutes 31 seconds
+epoch  7, iter 2501: loss: 0.05549493 | lr: 0.00009455  | spend time: 0 days  2 hours 34 minutes 13 seconds
+epoch  7, iter 2601: loss: 0.05516338 | lr: 0.00009455  | spend time: 0 days  2 hours 34 minutes 55 seconds
+epoch  7, iter 2701: loss: 0.05553588 | lr: 0.00009455  | spend time: 0 days  2 hours 35 minutes 37 seconds
+epoch  7, iter 2801: loss: 0.05528113 | lr: 0.00009455  | spend time: 0 days  2 hours 36 minutes 19 seconds
+epoch  7, iter 2901: loss: 0.05610055 | lr: 0.00009455  | spend time: 0 days  2 hours 37 minutes  1 seconds
+epoch  7, iter 3001: loss: 0.05365247 | lr: 0.00009455  | spend time: 0 days  2 hours 37 minutes 43 seconds
+epoch  7, iter 3101: loss: 0.05597430 | lr: 0.00009455  | spend time: 0 days  2 hours 38 minutes 26 seconds
+epoch  7, iter 3201: loss: 0.05247844 | lr: 0.00009455  | spend time: 0 days  2 hours 39 minutes  8 seconds
+epoch  7, iter 3301: loss: 0.05381678 | lr: 0.00009455  | spend time: 0 days  2 hours 39 minutes 50 seconds
+epoch  7, iter 3401: loss: 0.05551473 | lr: 0.00009455  | spend time: 0 days  2 hours 40 minutes 32 seconds
+epoch  7, iter 3501: loss: 0.05467790 | lr: 0.00009455  | spend time: 0 days  2 hours 41 minutes 14 seconds
+epoch  7, iter 3601: loss: 0.05648031 | lr: 0.00009455  | spend time: 0 days  2 hours 41 minutes 57 seconds
+epoch  7, iter 3701: loss: 0.05619622 | lr: 0.00009455  | spend time: 0 days  2 hours 42 minutes 39 seconds
+epoch  7, iter 3801: loss: 0.05390656 | lr: 0.00009455  | spend time: 0 days  2 hours 43 minutes 21 seconds
+epoch  7, iter 3901: loss: 0.05403602 | lr: 0.00009455  | spend time: 0 days  2 hours 44 minutes  3 seconds
+epoch  7, iter 4001: loss: 0.05519707 | lr: 0.00009455  | spend time: 0 days  2 hours 44 minutes 45 seconds
+epoch  7, iter 4101: loss: 0.05372830 | lr: 0.00009455  | spend time: 0 days  2 hours 45 minutes 27 seconds
+epoch  7, iter 4201: loss: 0.05578886 | lr: 0.00009455  | spend time: 0 days  2 hours 46 minutes 10 seconds
+epoch  7, iter 4301: loss: 0.05593044 | lr: 0.00009455  | spend time: 0 days  2 hours 46 minutes 52 seconds
+epoch  7, iter 4401: loss: 0.05646210 | lr: 0.00009455  | spend time: 0 days  2 hours 47 minutes 34 seconds
+epoch  7, iter 4501: loss: 0.05507791 | lr: 0.00009455  | spend time: 0 days  2 hours 48 minutes 16 seconds
+epoch  7, iter 4601: loss: 0.05497667 | lr: 0.00009455  | spend time: 0 days  2 hours 48 minutes 58 seconds
+epoch  7, iter 4701: loss: 0.05556631 | lr: 0.00009455  | spend time: 0 days  2 hours 49 minutes 40 seconds
+epoch  7, iter 4801: loss: 0.05567559 | lr: 0.00009455  | spend time: 0 days  2 hours 50 minutes 23 seconds
+epoch  7, iter 4901: loss: 0.05542234 | lr: 0.00009455  | spend time: 0 days  2 hours 51 minutes  5 seconds
+epoch  7, iter 5001: loss: 0.05543971 | lr: 0.00009455  | spend time: 0 days  2 hours 51 minutes 47 seconds
+epoch  7, iter 5101: loss: 0.05431637 | lr: 0.00009455  | spend time: 0 days  2 hours 52 minutes 29 seconds
+epoch  7, iter 5201: loss: 0.05536814 | lr: 0.00009455  | spend time: 0 days  2 hours 53 minutes 11 seconds
+epoch  7, iter 5301: loss: 0.05525155 | lr: 0.00009455  | spend time: 0 days  2 hours 53 minutes 53 seconds
+epoch  7, iter 5401: loss: 0.05569701 | lr: 0.00009455  | spend time: 0 days  2 hours 54 minutes 35 seconds
+epoch  7, iter 5501: loss: 0.05622899 | lr: 0.00009455  | spend time: 0 days  2 hours 55 minutes 17 seconds
+epoch  7, iter 5601: loss: 0.05393112 | lr: 0.00009455  | spend time: 0 days  2 hours 56 minutes  0 seconds
+epoch  7, iter 5701: loss: 0.05403833 | lr: 0.00009455  | spend time: 0 days  2 hours 56 minutes 42 seconds
+epoch  7, iter 5801: loss: 0.05624958 | lr: 0.00009455  | spend time: 0 days  2 hours 57 minutes 24 seconds
+epoch  7, iter 5901: loss: 0.05542957 | lr: 0.00009455  | spend time: 0 days  2 hours 58 minutes  6 seconds
+epoch  7, iter 6001: loss: 0.05873510 | lr: 0.00009455  | spend time: 0 days  2 hours 58 minutes 48 seconds
+epoch  7, iter 6101: loss: 0.05592678 | lr: 0.00009455  | spend time: 0 days  2 hours 59 minutes 30 seconds
+epoch  7, iter 6201: loss: 0.05497332 | lr: 0.00009455  | spend time: 0 days  3 hours  0 minutes 12 seconds
+epoch  7, iter 6301: loss: 0.05524731 | lr: 0.00009455  | spend time: 0 days  3 hours  0 minutes 55 seconds
+epoch  7, iter 6401: loss: 0.05521911 | lr: 0.00009455  | spend time: 0 days  3 hours  1 minutes 37 seconds
+epoch  7, iter 6501: loss: 0.05409133 | lr: 0.00009455  | spend time: 0 days  3 hours  2 minutes 19 seconds
+epoch  7, iter 6601: loss: 0.05525919 | lr: 0.00009455  | spend time: 0 days  3 hours  3 minutes  1 seconds
+epoch  7, iter 6701: loss: 0.05558138 | lr: 0.00009455  | spend time: 0 days  3 hours  3 minutes 43 seconds
+epoch  7, iter 6801: loss: 0.05620907 | lr: 0.00009455  | spend time: 0 days  3 hours  4 minutes 25 seconds
+epoch  7, iter 6901: loss: 0.05606292 | lr: 0.00009455  | spend time: 0 days  3 hours  5 minutes  7 seconds
+epoch  7, iter 7001: loss: 0.05555312 | lr: 0.00009455  | spend time: 0 days  3 hours  5 minutes 49 seconds
+epoch  7, iter 7101: loss: 0.05727175 | lr: 0.00009455  | spend time: 0 days  3 hours  6 minutes 31 seconds
+epoch  7, iter 7201: loss: 0.05554253 | lr: 0.00009455  | spend time: 0 days  3 hours  7 minutes 13 seconds
+epoch  7, iter 7301: loss: 0.05552270 | lr: 0.00009455  | spend time: 0 days  3 hours  7 minutes 55 seconds
+epoch  7, iter 7401: loss: 0.05565135 | lr: 0.00009455  | spend time: 0 days  3 hours  8 minutes 38 seconds
+epoch  7, iter 7501: loss: 0.05538991 | lr: 0.00009455  | spend time: 0 days  3 hours  9 minutes 20 seconds
+epoch  7, iter 7601: loss: 0.05556182 | lr: 0.00009455  | spend time: 0 days  3 hours 10 minutes  2 seconds
+epoch  7, iter 7701: loss: 0.05518655 | lr: 0.00009455  | spend time: 0 days  3 hours 10 minutes 44 seconds
+epoch  7, iter 7801: loss: 0.05514821 | lr: 0.00009455  | spend time: 0 days  3 hours 11 minutes 26 seconds
+epoch  7, iter 7901: loss: 0.05603923 | lr: 0.00009455  | spend time: 0 days  3 hours 12 minutes  9 seconds
+epoch  7, iter 8001: loss: 0.05514025 | lr: 0.00009455  | spend time: 0 days  3 hours 12 minutes 51 seconds
+epoch  7, iter 8101: loss: 0.05563347 | lr: 0.00009455  | spend time: 0 days  3 hours 13 minutes 33 seconds
+epoch  7, iter 8201: loss: 0.05504042 | lr: 0.00009455  | spend time: 0 days  3 hours 14 minutes 15 seconds
+epoch  7, iter 8301: loss: 0.05563144 | lr: 0.00009455  | spend time: 0 days  3 hours 14 minutes 57 seconds
+epoch  7, iter 8401: loss: 0.05708533 | lr: 0.00009455  | spend time: 0 days  3 hours 15 minutes 39 seconds
+epoch  7, iter 8501: loss: 0.05553785 | lr: 0.00009455  | spend time: 0 days  3 hours 16 minutes 21 seconds
+epoch  7, iter 8601: loss: 0.05506652 | lr: 0.00009455  | spend time: 0 days  3 hours 17 minutes  4 seconds
+epoch  7, iter 8701: loss: 0.05493910 | lr: 0.00009455  | spend time: 0 days  3 hours 17 minutes 46 seconds
+epoch  7, iter 8801: loss: 0.05551460 | lr: 0.00009455  | spend time: 0 days  3 hours 18 minutes 28 seconds
+epoch  7, iter 8901: loss: 0.05564575 | lr: 0.00009455  | spend time: 0 days  3 hours 19 minutes 10 seconds
+validing 7/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8332 | AP_pedestrian: 0.8181 | AP_cyclist: 0.8329 | AP_car: 0.8579 
+AR_total: 0.8940 | AR_pedestrian: 0.8885 | AR_cyclist: 0.8752 | AR_car: 0.9240 
+epoch  8, iter    1: loss: 0.05618929 | lr: 0.00009263  | spend time: 0 days  3 hours 22 minutes 38 seconds
+epoch  8, iter  101: loss: 0.05672729 | lr: 0.00009263  | spend time: 0 days  3 hours 23 minutes 21 seconds
+epoch  8, iter  201: loss: 0.05500706 | lr: 0.00009263  | spend time: 0 days  3 hours 24 minutes  4 seconds
+epoch  8, iter  301: loss: 0.05533058 | lr: 0.00009263  | spend time: 0 days  3 hours 24 minutes 47 seconds
+epoch  8, iter  401: loss: 0.05606892 | lr: 0.00009263  | spend time: 0 days  3 hours 25 minutes 30 seconds
+epoch  8, iter  501: loss: 0.05504331 | lr: 0.00009263  | spend time: 0 days  3 hours 26 minutes 13 seconds
+epoch  8, iter  601: loss: 0.05542730 | lr: 0.00009263  | spend time: 0 days  3 hours 26 minutes 56 seconds
+epoch  8, iter  701: loss: 0.05557130 | lr: 0.00009263  | spend time: 0 days  3 hours 27 minutes 39 seconds
+epoch  8, iter  801: loss: 0.05547328 | lr: 0.00009263  | spend time: 0 days  3 hours 28 minutes 22 seconds
+epoch  8, iter  901: loss: 0.05381446 | lr: 0.00009263  | spend time: 0 days  3 hours 29 minutes  5 seconds
+epoch  8, iter 1001: loss: 0.05739747 | lr: 0.00009263  | spend time: 0 days  3 hours 29 minutes 48 seconds
+epoch  8, iter 1101: loss: 0.05477648 | lr: 0.00009263  | spend time: 0 days  3 hours 30 minutes 31 seconds
+epoch  8, iter 1201: loss: 0.05515570 | lr: 0.00009263  | spend time: 0 days  3 hours 31 minutes 14 seconds
+epoch  8, iter 1301: loss: 0.05610797 | lr: 0.00009263  | spend time: 0 days  3 hours 31 minutes 56 seconds
+epoch  8, iter 1401: loss: 0.05373467 | lr: 0.00009263  | spend time: 0 days  3 hours 32 minutes 39 seconds
+epoch  8, iter 1501: loss: 0.05547022 | lr: 0.00009263  | spend time: 0 days  3 hours 33 minutes 22 seconds
+epoch  8, iter 1601: loss: 0.05494031 | lr: 0.00009263  | spend time: 0 days  3 hours 34 minutes  5 seconds
+epoch  8, iter 1701: loss: 0.05516145 | lr: 0.00009263  | spend time: 0 days  3 hours 34 minutes 48 seconds
+epoch  8, iter 1801: loss: 0.05528047 | lr: 0.00009263  | spend time: 0 days  3 hours 35 minutes 31 seconds
+epoch  8, iter 1901: loss: 0.05701517 | lr: 0.00009263  | spend time: 0 days  3 hours 36 minutes 14 seconds
+epoch  8, iter 2001: loss: 0.05546413 | lr: 0.00009263  | spend time: 0 days  3 hours 36 minutes 57 seconds
+epoch  8, iter 2101: loss: 0.05418370 | lr: 0.00009263  | spend time: 0 days  3 hours 37 minutes 40 seconds
+epoch  8, iter 2201: loss: 0.05462068 | lr: 0.00009263  | spend time: 0 days  3 hours 38 minutes 23 seconds
+epoch  8, iter 2301: loss: 0.05638055 | lr: 0.00009263  | spend time: 0 days  3 hours 39 minutes  5 seconds
+epoch  8, iter 2401: loss: 0.05439401 | lr: 0.00009263  | spend time: 0 days  3 hours 39 minutes 49 seconds
+epoch  8, iter 2501: loss: 0.05523275 | lr: 0.00009263  | spend time: 0 days  3 hours 40 minutes 31 seconds
+epoch  8, iter 2601: loss: 0.05535788 | lr: 0.00009263  | spend time: 0 days  3 hours 41 minutes 14 seconds
+epoch  8, iter 2701: loss: 0.05560878 | lr: 0.00009263  | spend time: 0 days  3 hours 41 minutes 58 seconds
+epoch  8, iter 2801: loss: 0.05509853 | lr: 0.00009263  | spend time: 0 days  3 hours 42 minutes 41 seconds
+epoch  8, iter 2901: loss: 0.05618237 | lr: 0.00009263  | spend time: 0 days  3 hours 43 minutes 24 seconds
+epoch  8, iter 3001: loss: 0.05544475 | lr: 0.00009263  | spend time: 0 days  3 hours 44 minutes  7 seconds
+epoch  8, iter 3101: loss: 0.05386052 | lr: 0.00009263  | spend time: 0 days  3 hours 44 minutes 50 seconds
+epoch  8, iter 3201: loss: 0.05384344 | lr: 0.00009263  | spend time: 0 days  3 hours 45 minutes 32 seconds
+epoch  8, iter 3301: loss: 0.05636974 | lr: 0.00009263  | spend time: 0 days  3 hours 46 minutes 15 seconds
+epoch  8, iter 3401: loss: 0.05625464 | lr: 0.00009263  | spend time: 0 days  3 hours 46 minutes 58 seconds
+epoch  8, iter 3501: loss: 0.05521973 | lr: 0.00009263  | spend time: 0 days  3 hours 47 minutes 41 seconds
+epoch  8, iter 3601: loss: 0.05537793 | lr: 0.00009263  | spend time: 0 days  3 hours 48 minutes 24 seconds
+epoch  8, iter 3701: loss: 0.05556076 | lr: 0.00009263  | spend time: 0 days  3 hours 49 minutes  7 seconds
+epoch  8, iter 3801: loss: 0.05579077 | lr: 0.00009263  | spend time: 0 days  3 hours 49 minutes 50 seconds
+epoch  8, iter 3901: loss: 0.05503019 | lr: 0.00009263  | spend time: 0 days  3 hours 50 minutes 32 seconds
+epoch  8, iter 4001: loss: 0.05579576 | lr: 0.00009263  | spend time: 0 days  3 hours 51 minutes 15 seconds
+epoch  8, iter 4101: loss: 0.05559551 | lr: 0.00009263  | spend time: 0 days  3 hours 51 minutes 58 seconds
+epoch  8, iter 4201: loss: 0.05780772 | lr: 0.00009263  | spend time: 0 days  3 hours 52 minutes 41 seconds
+epoch  8, iter 4301: loss: 0.05556529 | lr: 0.00009263  | spend time: 0 days  3 hours 53 minutes 24 seconds
+epoch  8, iter 4401: loss: 0.05702776 | lr: 0.00009263  | spend time: 0 days  3 hours 54 minutes  7 seconds
+epoch  8, iter 4501: loss: 0.05524439 | lr: 0.00009263  | spend time: 0 days  3 hours 54 minutes 50 seconds
+epoch  8, iter 4601: loss: 0.05518385 | lr: 0.00009263  | spend time: 0 days  3 hours 55 minutes 33 seconds
+epoch  8, iter 4701: loss: 0.05595683 | lr: 0.00009263  | spend time: 0 days  3 hours 56 minutes 16 seconds
+epoch  8, iter 4801: loss: 0.05527689 | lr: 0.00009263  | spend time: 0 days  3 hours 56 minutes 58 seconds
+epoch  8, iter 4901: loss: 0.05457921 | lr: 0.00009263  | spend time: 0 days  3 hours 57 minutes 41 seconds
+epoch  8, iter 5001: loss: 0.05459506 | lr: 0.00009263  | spend time: 0 days  3 hours 58 minutes 24 seconds
+epoch  8, iter 5101: loss: 0.05522721 | lr: 0.00009263  | spend time: 0 days  3 hours 59 minutes  7 seconds
+epoch  8, iter 5201: loss: 0.05314288 | lr: 0.00009263  | spend time: 0 days  3 hours 59 minutes 50 seconds
+epoch  8, iter 5301: loss: 0.05509305 | lr: 0.00009263  | spend time: 0 days  4 hours  0 minutes 33 seconds
+epoch  8, iter 5401: loss: 0.05639868 | lr: 0.00009263  | spend time: 0 days  4 hours  1 minutes 15 seconds
+epoch  8, iter 5501: loss: 0.05600722 | lr: 0.00009263  | spend time: 0 days  4 hours  1 minutes 58 seconds
+epoch  8, iter 5601: loss: 0.05542080 | lr: 0.00009263  | spend time: 0 days  4 hours  2 minutes 42 seconds
+epoch  8, iter 5701: loss: 0.05541236 | lr: 0.00009263  | spend time: 0 days  4 hours  3 minutes 25 seconds
+epoch  8, iter 5801: loss: 0.05509306 | lr: 0.00009263  | spend time: 0 days  4 hours  4 minutes  8 seconds
+epoch  8, iter 5901: loss: 0.05615232 | lr: 0.00009263  | spend time: 0 days  4 hours  4 minutes 50 seconds
+epoch  8, iter 6001: loss: 0.05372566 | lr: 0.00009263  | spend time: 0 days  4 hours  5 minutes 33 seconds
+epoch  8, iter 6101: loss: 0.05415615 | lr: 0.00009263  | spend time: 0 days  4 hours  6 minutes 16 seconds
+epoch  8, iter 6201: loss: 0.05556712 | lr: 0.00009263  | spend time: 0 days  4 hours  6 minutes 59 seconds
+epoch  8, iter 6301: loss: 0.05501051 | lr: 0.00009263  | spend time: 0 days  4 hours  7 minutes 42 seconds
+epoch  8, iter 6401: loss: 0.05567846 | lr: 0.00009263  | spend time: 0 days  4 hours  8 minutes 25 seconds
+epoch  8, iter 6501: loss: 0.05576368 | lr: 0.00009263  | spend time: 0 days  4 hours  9 minutes  8 seconds
+epoch  8, iter 6601: loss: 0.05515763 | lr: 0.00009263  | spend time: 0 days  4 hours  9 minutes 51 seconds
+epoch  8, iter 6701: loss: 0.05461280 | lr: 0.00009263  | spend time: 0 days  4 hours 10 minutes 34 seconds
+epoch  8, iter 6801: loss: 0.05560431 | lr: 0.00009263  | spend time: 0 days  4 hours 11 minutes 17 seconds
+epoch  8, iter 6901: loss: 0.05718789 | lr: 0.00009263  | spend time: 0 days  4 hours 12 minutes  0 seconds
+epoch  8, iter 7001: loss: 0.05633113 | lr: 0.00009263  | spend time: 0 days  4 hours 12 minutes 42 seconds
+epoch  8, iter 7101: loss: 0.05541459 | lr: 0.00009263  | spend time: 0 days  4 hours 13 minutes 25 seconds
+epoch  8, iter 7201: loss: 0.05504052 | lr: 0.00009263  | spend time: 0 days  4 hours 14 minutes  8 seconds
+epoch  8, iter 7301: loss: 0.05602787 | lr: 0.00009263  | spend time: 0 days  4 hours 14 minutes 51 seconds
+epoch  8, iter 7401: loss: 0.05635738 | lr: 0.00009263  | spend time: 0 days  4 hours 15 minutes 34 seconds
+epoch  8, iter 7501: loss: 0.05836563 | lr: 0.00009263  | spend time: 0 days  4 hours 16 minutes 17 seconds
+epoch  8, iter 7601: loss: 0.05526859 | lr: 0.00009263  | spend time: 0 days  4 hours 17 minutes  0 seconds
+epoch  8, iter 7701: loss: 0.05573235 | lr: 0.00009263  | spend time: 0 days  4 hours 17 minutes 43 seconds
+epoch  8, iter 7801: loss: 0.05411931 | lr: 0.00009263  | spend time: 0 days  4 hours 18 minutes 26 seconds
+epoch  8, iter 7901: loss: 0.05547948 | lr: 0.00009263  | spend time: 0 days  4 hours 19 minutes  9 seconds
+epoch  8, iter 8001: loss: 0.05676839 | lr: 0.00009263  | spend time: 0 days  4 hours 19 minutes 52 seconds
+epoch  8, iter 8101: loss: 0.05827539 | lr: 0.00009263  | spend time: 0 days  4 hours 20 minutes 34 seconds
+epoch  8, iter 8201: loss: 0.05605789 | lr: 0.00009263  | spend time: 0 days  4 hours 21 minutes 17 seconds
+epoch  8, iter 8301: loss: 0.05548156 | lr: 0.00009263  | spend time: 0 days  4 hours 22 minutes  0 seconds
+epoch  8, iter 8401: loss: 0.05501678 | lr: 0.00009263  | spend time: 0 days  4 hours 22 minutes 43 seconds
+epoch  8, iter 8501: loss: 0.05560238 | lr: 0.00009263  | spend time: 0 days  4 hours 23 minutes 26 seconds
+epoch  8, iter 8601: loss: 0.05498431 | lr: 0.00009263  | spend time: 0 days  4 hours 24 minutes  9 seconds
+epoch  8, iter 8701: loss: 0.05535981 | lr: 0.00009263  | spend time: 0 days  4 hours 24 minutes 51 seconds
+epoch  8, iter 8801: loss: 0.05593502 | lr: 0.00009263  | spend time: 0 days  4 hours 25 minutes 34 seconds
+epoch  8, iter 8901: loss: 0.05554520 | lr: 0.00009263  | spend time: 0 days  4 hours 26 minutes 17 seconds
+validing 8/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8584 | AP_pedestrian: 0.8322 | AP_cyclist: 0.8843 | AP_car: 0.8718 
+AR_total: 0.8999 | AR_pedestrian: 0.8698 | AR_cyclist: 0.9218 | AR_car: 0.9244 
+epoch  9, iter    1: loss: 0.05629379 | lr: 0.00009045  | spend time: 0 days  4 hours 33 minutes 22 seconds
+epoch  9, iter  101: loss: 0.05550423 | lr: 0.00009045  | spend time: 0 days  4 hours 34 minutes  5 seconds
+epoch  9, iter  201: loss: 0.05538949 | lr: 0.00009045  | spend time: 0 days  4 hours 34 minutes 48 seconds
+epoch  9, iter  301: loss: 0.05358457 | lr: 0.00009045  | spend time: 0 days  4 hours 35 minutes 31 seconds
+epoch  9, iter  401: loss: 0.05526188 | lr: 0.00009045  | spend time: 0 days  4 hours 36 minutes 14 seconds
+epoch  9, iter  501: loss: 0.05658428 | lr: 0.00009045  | spend time: 0 days  4 hours 36 minutes 56 seconds
+epoch  9, iter  601: loss: 0.05489826 | lr: 0.00009045  | spend time: 0 days  4 hours 37 minutes 39 seconds
+epoch  9, iter  701: loss: 0.05506530 | lr: 0.00009045  | spend time: 0 days  4 hours 38 minutes 22 seconds
+epoch  9, iter  801: loss: 0.05769284 | lr: 0.00009045  | spend time: 0 days  4 hours 39 minutes  5 seconds
+epoch  9, iter  901: loss: 0.05541104 | lr: 0.00009045  | spend time: 0 days  4 hours 39 minutes 48 seconds
+epoch  9, iter 1001: loss: 0.05534182 | lr: 0.00009045  | spend time: 0 days  4 hours 40 minutes 31 seconds
+epoch  9, iter 1101: loss: 0.05503868 | lr: 0.00009045  | spend time: 0 days  4 hours 41 minutes 14 seconds
+epoch  9, iter 1201: loss: 0.05503131 | lr: 0.00009045  | spend time: 0 days  4 hours 41 minutes 56 seconds
+epoch  9, iter 1301: loss: 0.05548128 | lr: 0.00009045  | spend time: 0 days  4 hours 42 minutes 39 seconds
+epoch  9, iter 1401: loss: 0.05556556 | lr: 0.00009045  | spend time: 0 days  4 hours 43 minutes 22 seconds
+epoch  9, iter 1501: loss: 0.05541883 | lr: 0.00009045  | spend time: 0 days  4 hours 44 minutes  5 seconds
+epoch  9, iter 1601: loss: 0.05504320 | lr: 0.00009045  | spend time: 0 days  4 hours 44 minutes 48 seconds
+epoch  9, iter 1701: loss: 0.05585186 | lr: 0.00009045  | spend time: 0 days  4 hours 45 minutes 31 seconds
+epoch  9, iter 1801: loss: 0.05704654 | lr: 0.00009045  | spend time: 0 days  4 hours 46 minutes 14 seconds
+epoch  9, iter 1901: loss: 0.05576365 | lr: 0.00009045  | spend time: 0 days  4 hours 46 minutes 56 seconds
+epoch  9, iter 2001: loss: 0.05536984 | lr: 0.00009045  | spend time: 0 days  4 hours 47 minutes 39 seconds
+epoch  9, iter 2101: loss: 0.05534332 | lr: 0.00009045  | spend time: 0 days  4 hours 48 minutes 22 seconds
+epoch  9, iter 2201: loss: 0.05557521 | lr: 0.00009045  | spend time: 0 days  4 hours 49 minutes  5 seconds
+epoch  9, iter 2301: loss: 0.05510352 | lr: 0.00009045  | spend time: 0 days  4 hours 49 minutes 48 seconds
+epoch  9, iter 2401: loss: 0.05574580 | lr: 0.00009045  | spend time: 0 days  4 hours 50 minutes 30 seconds
+epoch  9, iter 2501: loss: 0.05500777 | lr: 0.00009045  | spend time: 0 days  4 hours 51 minutes 13 seconds
+epoch  9, iter 2601: loss: 0.05542503 | lr: 0.00009045  | spend time: 0 days  4 hours 51 minutes 56 seconds
+epoch  9, iter 2701: loss: 0.05621734 | lr: 0.00009045  | spend time: 0 days  4 hours 52 minutes 39 seconds
+epoch  9, iter 2801: loss: 0.05773889 | lr: 0.00009045  | spend time: 0 days  4 hours 53 minutes 22 seconds
+epoch  9, iter 2901: loss: 0.05619917 | lr: 0.00009045  | spend time: 0 days  4 hours 54 minutes  5 seconds
+epoch  9, iter 3001: loss: 0.05620462 | lr: 0.00009045  | spend time: 0 days  4 hours 54 minutes 47 seconds
+epoch  9, iter 3101: loss: 0.05583512 | lr: 0.00009045  | spend time: 0 days  4 hours 55 minutes 30 seconds
+epoch  9, iter 3201: loss: 0.05544508 | lr: 0.00009045  | spend time: 0 days  4 hours 56 minutes 13 seconds
+epoch  9, iter 3301: loss: 0.05546576 | lr: 0.00009045  | spend time: 0 days  4 hours 56 minutes 56 seconds
+epoch  9, iter 3401: loss: 0.05606165 | lr: 0.00009045  | spend time: 0 days  4 hours 57 minutes 39 seconds
+epoch  9, iter 3501: loss: 0.05620623 | lr: 0.00009045  | spend time: 0 days  4 hours 58 minutes 22 seconds
+epoch  9, iter 3601: loss: 0.05477241 | lr: 0.00009045  | spend time: 0 days  4 hours 59 minutes  5 seconds
+epoch  9, iter 3701: loss: 0.05595459 | lr: 0.00009045  | spend time: 0 days  4 hours 59 minutes 48 seconds
+epoch  9, iter 3801: loss: 0.05552700 | lr: 0.00009045  | spend time: 0 days  5 hours  0 minutes 30 seconds
+epoch  9, iter 3901: loss: 0.05540334 | lr: 0.00009045  | spend time: 0 days  5 hours  1 minutes 13 seconds
+epoch  9, iter 4001: loss: 0.05786461 | lr: 0.00009045  | spend time: 0 days  5 hours  1 minutes 56 seconds
+epoch  9, iter 4101: loss: 0.05628632 | lr: 0.00009045  | spend time: 0 days  5 hours  2 minutes 39 seconds
+epoch  9, iter 4201: loss: 0.05407851 | lr: 0.00009045  | spend time: 0 days  5 hours  3 minutes 22 seconds
+epoch  9, iter 4301: loss: 0.05497390 | lr: 0.00009045  | spend time: 0 days  5 hours  4 minutes  5 seconds
+epoch  9, iter 4401: loss: 0.05735802 | lr: 0.00009045  | spend time: 0 days  5 hours  4 minutes 48 seconds
+epoch  9, iter 4501: loss: 0.05605906 | lr: 0.00009045  | spend time: 0 days  5 hours  5 minutes 31 seconds
+epoch  9, iter 4601: loss: 0.05530982 | lr: 0.00009045  | spend time: 0 days  5 hours  6 minutes 14 seconds
+epoch  9, iter 4701: loss: 0.05581681 | lr: 0.00009045  | spend time: 0 days  5 hours  6 minutes 57 seconds
+epoch  9, iter 4801: loss: 0.05668523 | lr: 0.00009045  | spend time: 0 days  5 hours  7 minutes 40 seconds
+epoch  9, iter 4901: loss: 0.05380595 | lr: 0.00009045  | spend time: 0 days  5 hours  8 minutes 23 seconds
+epoch  9, iter 5001: loss: 0.05494253 | lr: 0.00009045  | spend time: 0 days  5 hours  9 minutes  6 seconds
+epoch  9, iter 5101: loss: 0.05494201 | lr: 0.00009045  | spend time: 0 days  5 hours  9 minutes 49 seconds
+epoch  9, iter 5201: loss: 0.05609318 | lr: 0.00009045  | spend time: 0 days  5 hours 10 minutes 32 seconds
+epoch  9, iter 5301: loss: 0.05742598 | lr: 0.00009045  | spend time: 0 days  5 hours 11 minutes 14 seconds
+epoch  9, iter 5401: loss: 0.05450860 | lr: 0.00009045  | spend time: 0 days  5 hours 11 minutes 57 seconds
+epoch  9, iter 5501: loss: 0.05497039 | lr: 0.00009045  | spend time: 0 days  5 hours 12 minutes 40 seconds
+epoch  9, iter 5601: loss: 0.05545732 | lr: 0.00009045  | spend time: 0 days  5 hours 13 minutes 23 seconds
+epoch  9, iter 5701: loss: 0.05505055 | lr: 0.00009045  | spend time: 0 days  5 hours 14 minutes  6 seconds
+epoch  9, iter 5801: loss: 0.05523386 | lr: 0.00009045  | spend time: 0 days  5 hours 14 minutes 49 seconds
+epoch  9, iter 5901: loss: 0.05522078 | lr: 0.00009045  | spend time: 0 days  5 hours 15 minutes 32 seconds
+epoch  9, iter 6001: loss: 0.05512939 | lr: 0.00009045  | spend time: 0 days  5 hours 16 minutes 15 seconds
+epoch  9, iter 6101: loss: 0.05584690 | lr: 0.00009045  | spend time: 0 days  5 hours 16 minutes 58 seconds
+epoch  9, iter 6201: loss: 0.05538228 | lr: 0.00009045  | spend time: 0 days  5 hours 17 minutes 41 seconds
+epoch  9, iter 6301: loss: 0.05709862 | lr: 0.00009045  | spend time: 0 days  5 hours 18 minutes 24 seconds
+epoch  9, iter 6401: loss: 0.05583107 | lr: 0.00009045  | spend time: 0 days  5 hours 19 minutes  7 seconds
+epoch  9, iter 6501: loss: 0.05530250 | lr: 0.00009045  | spend time: 0 days  5 hours 19 minutes 50 seconds
+epoch  9, iter 6601: loss: 0.05337035 | lr: 0.00009045  | spend time: 0 days  5 hours 20 minutes 32 seconds
+epoch  9, iter 6701: loss: 0.05492711 | lr: 0.00009045  | spend time: 0 days  5 hours 21 minutes 16 seconds
+epoch  9, iter 6801: loss: 0.05390742 | lr: 0.00009045  | spend time: 0 days  5 hours 21 minutes 58 seconds
+epoch  9, iter 6901: loss: 0.05482876 | lr: 0.00009045  | spend time: 0 days  5 hours 22 minutes 41 seconds
+epoch  9, iter 7001: loss: 0.05498092 | lr: 0.00009045  | spend time: 0 days  5 hours 23 minutes 24 seconds
+epoch  9, iter 7101: loss: 0.05332506 | lr: 0.00009045  | spend time: 0 days  5 hours 24 minutes  7 seconds
+epoch  9, iter 7201: loss: 0.05509742 | lr: 0.00009045  | spend time: 0 days  5 hours 24 minutes 50 seconds
+epoch  9, iter 7301: loss: 0.05635192 | lr: 0.00009045  | spend time: 0 days  5 hours 25 minutes 33 seconds
+epoch  9, iter 7401: loss: 0.05557680 | lr: 0.00009045  | spend time: 0 days  5 hours 26 minutes 16 seconds
+epoch  9, iter 7501: loss: 0.05460319 | lr: 0.00009045  | spend time: 0 days  5 hours 26 minutes 59 seconds
+epoch  9, iter 7601: loss: 0.05534318 | lr: 0.00009045  | spend time: 0 days  5 hours 27 minutes 41 seconds
+epoch  9, iter 7701: loss: 0.05550245 | lr: 0.00009045  | spend time: 0 days  5 hours 28 minutes 24 seconds
+epoch  9, iter 7801: loss: 0.05618046 | lr: 0.00009045  | spend time: 0 days  5 hours 29 minutes  7 seconds
+epoch  9, iter 7901: loss: 0.05530979 | lr: 0.00009045  | spend time: 0 days  5 hours 29 minutes 50 seconds
+epoch  9, iter 8001: loss: 0.05535144 | lr: 0.00009045  | spend time: 0 days  5 hours 30 minutes 33 seconds
+epoch  9, iter 8101: loss: 0.05555150 | lr: 0.00009045  | spend time: 0 days  5 hours 31 minutes 16 seconds
+epoch  9, iter 8201: loss: 0.05508676 | lr: 0.00009045  | spend time: 0 days  5 hours 31 minutes 58 seconds
+epoch  9, iter 8301: loss: 0.05604783 | lr: 0.00009045  | spend time: 0 days  5 hours 32 minutes 41 seconds
+epoch  9, iter 8401: loss: 0.05569593 | lr: 0.00009045  | spend time: 0 days  5 hours 33 minutes 24 seconds
+epoch  9, iter 8501: loss: 0.05633381 | lr: 0.00009045  | spend time: 0 days  5 hours 34 minutes  7 seconds
+epoch  9, iter 8601: loss: 0.05506758 | lr: 0.00009045  | spend time: 0 days  5 hours 34 minutes 50 seconds
+epoch  9, iter 8701: loss: 0.05523530 | lr: 0.00009045  | spend time: 0 days  5 hours 35 minutes 33 seconds
+epoch  9, iter 8801: loss: 0.05623391 | lr: 0.00009045  | spend time: 0 days  5 hours 36 minutes 16 seconds
+epoch  9, iter 8901: loss: 0.05483733 | lr: 0.00009045  | spend time: 0 days  5 hours 36 minutes 58 seconds
+validing 9/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8540 | AP_pedestrian: 0.8368 | AP_cyclist: 0.8522 | AP_car: 0.8838 
+AR_total: 0.8958 | AR_pedestrian: 0.8783 | AR_cyclist: 0.8870 | AR_car: 0.9340 
+epoch 10, iter    1: loss: 0.05487661 | lr: 0.00008802  | spend time: 0 days  5 hours 40 minutes 38 seconds
+epoch 10, iter  101: loss: 0.05524953 | lr: 0.00008802  | spend time: 0 days  5 hours 41 minutes 21 seconds
+epoch 10, iter  201: loss: 0.05525847 | lr: 0.00008802  | spend time: 0 days  5 hours 42 minutes  4 seconds
+epoch 10, iter  301: loss: 0.05710303 | lr: 0.00008802  | spend time: 0 days  5 hours 42 minutes 47 seconds
+epoch 10, iter  401: loss: 0.05363786 | lr: 0.00008802  | spend time: 0 days  5 hours 43 minutes 30 seconds
+epoch 10, iter  501: loss: 0.05624828 | lr: 0.00008802  | spend time: 0 days  5 hours 44 minutes 12 seconds
+epoch 10, iter  601: loss: 0.05529141 | lr: 0.00008802  | spend time: 0 days  5 hours 44 minutes 55 seconds
+epoch 10, iter  701: loss: 0.05541440 | lr: 0.00008802  | spend time: 0 days  5 hours 45 minutes 38 seconds
+epoch 10, iter  801: loss: 0.05612557 | lr: 0.00008802  | spend time: 0 days  5 hours 46 minutes 21 seconds
+epoch 10, iter  901: loss: 0.05505404 | lr: 0.00008802  | spend time: 0 days  5 hours 47 minutes  4 seconds
+epoch 10, iter 1001: loss: 0.05522387 | lr: 0.00008802  | spend time: 0 days  5 hours 47 minutes 47 seconds
+epoch 10, iter 1101: loss: 0.05593188 | lr: 0.00008802  | spend time: 0 days  5 hours 48 minutes 30 seconds
+epoch 10, iter 1201: loss: 0.05523618 | lr: 0.00008802  | spend time: 0 days  5 hours 49 minutes 13 seconds
+epoch 10, iter 1301: loss: 0.05759831 | lr: 0.00008802  | spend time: 0 days  5 hours 49 minutes 55 seconds
+epoch 10, iter 1401: loss: 0.05537091 | lr: 0.00008802  | spend time: 0 days  5 hours 50 minutes 38 seconds
+epoch 10, iter 1501: loss: 0.05556363 | lr: 0.00008802  | spend time: 0 days  5 hours 51 minutes 21 seconds
+epoch 10, iter 1601: loss: 0.05516397 | lr: 0.00008802  | spend time: 0 days  5 hours 52 minutes  4 seconds
+epoch 10, iter 1701: loss: 0.05459537 | lr: 0.00008802  | spend time: 0 days  5 hours 52 minutes 47 seconds
+epoch 10, iter 1801: loss: 0.05544138 | lr: 0.00008802  | spend time: 0 days  5 hours 53 minutes 30 seconds
+epoch 10, iter 1901: loss: 0.05545283 | lr: 0.00008802  | spend time: 0 days  5 hours 54 minutes 13 seconds
+epoch 10, iter 2001: loss: 0.05487922 | lr: 0.00008802  | spend time: 0 days  5 hours 54 minutes 56 seconds
+epoch 10, iter 2101: loss: 0.05479560 | lr: 0.00008802  | spend time: 0 days  5 hours 55 minutes 38 seconds
+epoch 10, iter 2201: loss: 0.05556878 | lr: 0.00008802  | spend time: 0 days  5 hours 56 minutes 21 seconds
+epoch 10, iter 2301: loss: 0.05575944 | lr: 0.00008802  | spend time: 0 days  5 hours 57 minutes  4 seconds
+epoch 10, iter 2401: loss: 0.05491950 | lr: 0.00008802  | spend time: 0 days  5 hours 57 minutes 47 seconds
+epoch 10, iter 2501: loss: 0.05546207 | lr: 0.00008802  | spend time: 0 days  5 hours 58 minutes 30 seconds
+epoch 10, iter 2601: loss: 0.05569308 | lr: 0.00008802  | spend time: 0 days  5 hours 59 minutes 13 seconds
+epoch 10, iter 2701: loss: 0.05545408 | lr: 0.00008802  | spend time: 0 days  5 hours 59 minutes 56 seconds
+epoch 10, iter 2801: loss: 0.05449593 | lr: 0.00008802  | spend time: 0 days  6 hours  0 minutes 38 seconds
+epoch 10, iter 2901: loss: 0.05634058 | lr: 0.00008802  | spend time: 0 days  6 hours  1 minutes 21 seconds
+epoch 10, iter 3001: loss: 0.05612196 | lr: 0.00008802  | spend time: 0 days  6 hours  2 minutes  4 seconds
+epoch 10, iter 3101: loss: 0.05544638 | lr: 0.00008802  | spend time: 0 days  6 hours  2 minutes 47 seconds
+epoch 10, iter 3201: loss: 0.05346407 | lr: 0.00008802  | spend time: 0 days  6 hours  3 minutes 30 seconds
+epoch 10, iter 3301: loss: 0.05397744 | lr: 0.00008802  | spend time: 0 days  6 hours  4 minutes 13 seconds
+epoch 10, iter 3401: loss: 0.05633764 | lr: 0.00008802  | spend time: 0 days  6 hours  4 minutes 56 seconds
+epoch 10, iter 3501: loss: 0.05391064 | lr: 0.00008802  | spend time: 0 days  6 hours  5 minutes 39 seconds
+epoch 10, iter 3601: loss: 0.05627109 | lr: 0.00008802  | spend time: 0 days  6 hours  6 minutes 22 seconds
+epoch 10, iter 3701: loss: 0.05631128 | lr: 0.00008802  | spend time: 0 days  6 hours  7 minutes  4 seconds
+epoch 10, iter 3801: loss: 0.05556806 | lr: 0.00008802  | spend time: 0 days  6 hours  7 minutes 47 seconds
+epoch 10, iter 3901: loss: 0.05544724 | lr: 0.00008802  | spend time: 0 days  6 hours  8 minutes 30 seconds
+epoch 10, iter 4001: loss: 0.05527193 | lr: 0.00008802  | spend time: 0 days  6 hours  9 minutes 13 seconds
+epoch 10, iter 4101: loss: 0.05563600 | lr: 0.00008802  | spend time: 0 days  6 hours  9 minutes 56 seconds
+epoch 10, iter 4201: loss: 0.05442017 | lr: 0.00008802  | spend time: 0 days  6 hours 10 minutes 39 seconds
+epoch 10, iter 4301: loss: 0.05523597 | lr: 0.00008802  | spend time: 0 days  6 hours 11 minutes 22 seconds
+epoch 10, iter 4401: loss: 0.05584362 | lr: 0.00008802  | spend time: 0 days  6 hours 12 minutes  4 seconds
+epoch 10, iter 4501: loss: 0.05613291 | lr: 0.00008802  | spend time: 0 days  6 hours 12 minutes 47 seconds
+epoch 10, iter 4601: loss: 0.05358585 | lr: 0.00008802  | spend time: 0 days  6 hours 13 minutes 30 seconds
+epoch 10, iter 4701: loss: 0.05488492 | lr: 0.00008802  | spend time: 0 days  6 hours 14 minutes 13 seconds
+epoch 10, iter 4801: loss: 0.05507646 | lr: 0.00008802  | spend time: 0 days  6 hours 14 minutes 56 seconds
+epoch 10, iter 4901: loss: 0.05536361 | lr: 0.00008802  | spend time: 0 days  6 hours 15 minutes 39 seconds
+epoch 10, iter 5001: loss: 0.05550564 | lr: 0.00008802  | spend time: 0 days  6 hours 16 minutes 21 seconds
+epoch 10, iter 5101: loss: 0.05507798 | lr: 0.00008802  | spend time: 0 days  6 hours 17 minutes  4 seconds
+epoch 10, iter 5201: loss: 0.05349690 | lr: 0.00008802  | spend time: 0 days  6 hours 17 minutes 47 seconds
+epoch 10, iter 5301: loss: 0.05581166 | lr: 0.00008802  | spend time: 0 days  6 hours 18 minutes 30 seconds
+epoch 10, iter 5401: loss: 0.05526065 | lr: 0.00008802  | spend time: 0 days  6 hours 19 minutes 13 seconds
+epoch 10, iter 5501: loss: 0.05568540 | lr: 0.00008802  | spend time: 0 days  6 hours 19 minutes 56 seconds
+epoch 10, iter 5601: loss: 0.05550227 | lr: 0.00008802  | spend time: 0 days  6 hours 20 minutes 39 seconds
+epoch 10, iter 5701: loss: 0.05514064 | lr: 0.00008802  | spend time: 0 days  6 hours 21 minutes 21 seconds
+epoch 10, iter 5801: loss: 0.05545472 | lr: 0.00008802  | spend time: 0 days  6 hours 22 minutes  4 seconds
+epoch 10, iter 5901: loss: 0.05507484 | lr: 0.00008802  | spend time: 0 days  6 hours 22 minutes 47 seconds
+epoch 10, iter 6001: loss: 0.05599415 | lr: 0.00008802  | spend time: 0 days  6 hours 23 minutes 30 seconds
+epoch 10, iter 6101: loss: 0.05617076 | lr: 0.00008802  | spend time: 0 days  6 hours 24 minutes 13 seconds
+epoch 10, iter 6201: loss: 0.05588560 | lr: 0.00008802  | spend time: 0 days  6 hours 24 minutes 55 seconds
+epoch 10, iter 6301: loss: 0.05615785 | lr: 0.00008802  | spend time: 0 days  6 hours 25 minutes 38 seconds
+epoch 10, iter 6401: loss: 0.05533700 | lr: 0.00008802  | spend time: 0 days  6 hours 26 minutes 21 seconds
+epoch 10, iter 6501: loss: 0.05538065 | lr: 0.00008802  | spend time: 0 days  6 hours 27 minutes  4 seconds
+epoch 10, iter 6601: loss: 0.05510585 | lr: 0.00008802  | spend time: 0 days  6 hours 27 minutes 47 seconds
+epoch 10, iter 6701: loss: 0.05518805 | lr: 0.00008802  | spend time: 0 days  6 hours 28 minutes 30 seconds
+epoch 10, iter 6801: loss: 0.05654729 | lr: 0.00008802  | spend time: 0 days  6 hours 29 minutes 13 seconds
+epoch 10, iter 6901: loss: 0.05540789 | lr: 0.00008802  | spend time: 0 days  6 hours 29 minutes 55 seconds
+epoch 10, iter 7001: loss: 0.05535743 | lr: 0.00008802  | spend time: 0 days  6 hours 30 minutes 38 seconds
+epoch 10, iter 7101: loss: 0.05642873 | lr: 0.00008802  | spend time: 0 days  6 hours 31 minutes 21 seconds
+epoch 10, iter 7201: loss: 0.05388727 | lr: 0.00008802  | spend time: 0 days  6 hours 32 minutes  4 seconds
+epoch 10, iter 7301: loss: 0.05613338 | lr: 0.00008802  | spend time: 0 days  6 hours 32 minutes 47 seconds
+epoch 10, iter 7401: loss: 0.05530621 | lr: 0.00008802  | spend time: 0 days  6 hours 33 minutes 30 seconds
+epoch 10, iter 7501: loss: 0.05536019 | lr: 0.00008802  | spend time: 0 days  6 hours 34 minutes 13 seconds
+epoch 10, iter 7601: loss: 0.05446935 | lr: 0.00008802  | spend time: 0 days  6 hours 34 minutes 55 seconds
+epoch 10, iter 7701: loss: 0.05748377 | lr: 0.00008802  | spend time: 0 days  6 hours 35 minutes 38 seconds
+epoch 10, iter 7801: loss: 0.05544943 | lr: 0.00008802  | spend time: 0 days  6 hours 36 minutes 21 seconds
+epoch 10, iter 7901: loss: 0.05536545 | lr: 0.00008802  | spend time: 0 days  6 hours 37 minutes  4 seconds
+epoch 10, iter 8001: loss: 0.05553457 | lr: 0.00008802  | spend time: 0 days  6 hours 37 minutes 47 seconds
+epoch 10, iter 8101: loss: 0.05445975 | lr: 0.00008802  | spend time: 0 days  6 hours 38 minutes 30 seconds
+epoch 10, iter 8201: loss: 0.05565820 | lr: 0.00008802  | spend time: 0 days  6 hours 39 minutes 13 seconds
+epoch 10, iter 8301: loss: 0.05621070 | lr: 0.00008802  | spend time: 0 days  6 hours 39 minutes 56 seconds
+epoch 10, iter 8401: loss: 0.05623958 | lr: 0.00008802  | spend time: 0 days  6 hours 40 minutes 38 seconds
+epoch 10, iter 8501: loss: 0.05550526 | lr: 0.00008802  | spend time: 0 days  6 hours 41 minutes 21 seconds
+epoch 10, iter 8601: loss: 0.05536815 | lr: 0.00008802  | spend time: 0 days  6 hours 42 minutes  4 seconds
+epoch 10, iter 8701: loss: 0.05726952 | lr: 0.00008802  | spend time: 0 days  6 hours 42 minutes 47 seconds
+epoch 10, iter 8801: loss: 0.05601345 | lr: 0.00008802  | spend time: 0 days  6 hours 43 minutes 30 seconds
+epoch 10, iter 8901: loss: 0.05565135 | lr: 0.00008802  | spend time: 0 days  6 hours 44 minutes 12 seconds
+validing 10/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8575 | AP_pedestrian: 0.8383 | AP_cyclist: 0.8790 | AP_car: 0.8645 
+AR_total: 0.8968 | AR_pedestrian: 0.8709 | AR_cyclist: 0.9114 | AR_car: 0.9225 
+epoch 11, iter    1: loss: 0.05552672 | lr: 0.00008536  | spend time: 0 days  6 hours 48 minutes 57 seconds
+epoch 11, iter  101: loss: 0.05481621 | lr: 0.00008536  | spend time: 0 days  6 hours 49 minutes 40 seconds
+epoch 11, iter  201: loss: 0.05613508 | lr: 0.00008536  | spend time: 0 days  6 hours 50 minutes 23 seconds
+epoch 11, iter  301: loss: 0.05552829 | lr: 0.00008536  | spend time: 0 days  6 hours 51 minutes  7 seconds
+epoch 11, iter  401: loss: 0.05537876 | lr: 0.00008536  | spend time: 0 days  6 hours 51 minutes 50 seconds
+epoch 11, iter  501: loss: 0.05521384 | lr: 0.00008536  | spend time: 0 days  6 hours 52 minutes 32 seconds
+epoch 11, iter  601: loss: 0.05418906 | lr: 0.00008536  | spend time: 0 days  6 hours 53 minutes 15 seconds
+epoch 11, iter  701: loss: 0.05544978 | lr: 0.00008536  | spend time: 0 days  6 hours 53 minutes 58 seconds
+epoch 11, iter  801: loss: 0.05538650 | lr: 0.00008536  | spend time: 0 days  6 hours 54 minutes 41 seconds
+epoch 11, iter  901: loss: 0.05535104 | lr: 0.00008536  | spend time: 0 days  6 hours 55 minutes 24 seconds
+epoch 11, iter 1001: loss: 0.05382239 | lr: 0.00008536  | spend time: 0 days  6 hours 56 minutes  7 seconds
+epoch 11, iter 1101: loss: 0.05508753 | lr: 0.00008536  | spend time: 0 days  6 hours 56 minutes 50 seconds
+epoch 11, iter 1201: loss: 0.05513001 | lr: 0.00008536  | spend time: 0 days  6 hours 57 minutes 32 seconds
+epoch 11, iter 1301: loss: 0.05441479 | lr: 0.00008536  | spend time: 0 days  6 hours 58 minutes 15 seconds
+epoch 11, iter 1401: loss: 0.05515823 | lr: 0.00008536  | spend time: 0 days  6 hours 58 minutes 58 seconds
+epoch 11, iter 1501: loss: 0.05521449 | lr: 0.00008536  | spend time: 0 days  6 hours 59 minutes 41 seconds
+epoch 11, iter 1601: loss: 0.05529613 | lr: 0.00008536  | spend time: 0 days  7 hours  0 minutes 24 seconds
+epoch 11, iter 1701: loss: 0.05650625 | lr: 0.00008536  | spend time: 0 days  7 hours  1 minutes  7 seconds
+epoch 11, iter 1801: loss: 0.05525882 | lr: 0.00008536  | spend time: 0 days  7 hours  1 minutes 50 seconds
+epoch 11, iter 1901: loss: 0.05505050 | lr: 0.00008536  | spend time: 0 days  7 hours  2 minutes 32 seconds
+epoch 11, iter 2001: loss: 0.05656661 | lr: 0.00008536  | spend time: 0 days  7 hours  3 minutes 15 seconds
+epoch 11, iter 2101: loss: 0.05474762 | lr: 0.00008536  | spend time: 0 days  7 hours  3 minutes 58 seconds
+epoch 11, iter 2201: loss: 0.05557097 | lr: 0.00008536  | spend time: 0 days  7 hours  4 minutes 41 seconds
+epoch 11, iter 2301: loss: 0.05696880 | lr: 0.00008536  | spend time: 0 days  7 hours  5 minutes 24 seconds
+epoch 11, iter 2401: loss: 0.05398347 | lr: 0.00008536  | spend time: 0 days  7 hours  6 minutes  7 seconds
+epoch 11, iter 2501: loss: 0.05540776 | lr: 0.00008536  | spend time: 0 days  7 hours  6 minutes 49 seconds
+epoch 11, iter 2601: loss: 0.05493830 | lr: 0.00008536  | spend time: 0 days  7 hours  7 minutes 32 seconds
+epoch 11, iter 2701: loss: 0.05698558 | lr: 0.00008536  | spend time: 0 days  7 hours  8 minutes 15 seconds
+epoch 11, iter 2801: loss: 0.05530385 | lr: 0.00008536  | spend time: 0 days  7 hours  8 minutes 58 seconds
+epoch 11, iter 2901: loss: 0.05553852 | lr: 0.00008536  | spend time: 0 days  7 hours  9 minutes 41 seconds
+epoch 11, iter 3001: loss: 0.05583907 | lr: 0.00008536  | spend time: 0 days  7 hours 10 minutes 24 seconds
+epoch 11, iter 3101: loss: 0.05367515 | lr: 0.00008536  | spend time: 0 days  7 hours 11 minutes  6 seconds
+epoch 11, iter 3201: loss: 0.05698352 | lr: 0.00008536  | spend time: 0 days  7 hours 11 minutes 49 seconds
+epoch 11, iter 3301: loss: 0.05505091 | lr: 0.00008536  | spend time: 0 days  7 hours 12 minutes 32 seconds
+epoch 11, iter 3401: loss: 0.05556548 | lr: 0.00008536  | spend time: 0 days  7 hours 13 minutes 15 seconds
+epoch 11, iter 3501: loss: 0.05524863 | lr: 0.00008536  | spend time: 0 days  7 hours 13 minutes 58 seconds
+epoch 11, iter 3601: loss: 0.05460624 | lr: 0.00008536  | spend time: 0 days  7 hours 14 minutes 41 seconds
+epoch 11, iter 3701: loss: 0.05524991 | lr: 0.00008536  | spend time: 0 days  7 hours 15 minutes 24 seconds
+epoch 11, iter 3801: loss: 0.05617976 | lr: 0.00008536  | spend time: 0 days  7 hours 16 minutes  7 seconds
+epoch 11, iter 3901: loss: 0.05739576 | lr: 0.00008536  | spend time: 0 days  7 hours 16 minutes 49 seconds
+epoch 11, iter 4001: loss: 0.05537846 | lr: 0.00008536  | spend time: 0 days  7 hours 17 minutes 32 seconds
+epoch 11, iter 4101: loss: 0.05518628 | lr: 0.00008536  | spend time: 0 days  7 hours 18 minutes 15 seconds
+epoch 11, iter 4201: loss: 0.05596763 | lr: 0.00008536  | spend time: 0 days  7 hours 18 minutes 58 seconds
+epoch 11, iter 4301: loss: 0.05552010 | lr: 0.00008536  | spend time: 0 days  7 hours 19 minutes 41 seconds
+epoch 11, iter 4401: loss: 0.05552299 | lr: 0.00008536  | spend time: 0 days  7 hours 20 minutes 24 seconds
+epoch 11, iter 4501: loss: 0.05570095 | lr: 0.00008536  | spend time: 0 days  7 hours 21 minutes  7 seconds
+epoch 11, iter 4601: loss: 0.05522271 | lr: 0.00008536  | spend time: 0 days  7 hours 21 minutes 50 seconds
+epoch 11, iter 4701: loss: 0.05281905 | lr: 0.00008536  | spend time: 0 days  7 hours 22 minutes 33 seconds
+epoch 11, iter 4801: loss: 0.05513030 | lr: 0.00008536  | spend time: 0 days  7 hours 23 minutes 16 seconds
+epoch 11, iter 4901: loss: 0.05537501 | lr: 0.00008536  | spend time: 0 days  7 hours 23 minutes 58 seconds
+epoch 11, iter 5001: loss: 0.05524962 | lr: 0.00008536  | spend time: 0 days  7 hours 24 minutes 41 seconds
+epoch 11, iter 5101: loss: 0.05534763 | lr: 0.00008536  | spend time: 0 days  7 hours 25 minutes 24 seconds
+epoch 11, iter 5201: loss: 0.05686463 | lr: 0.00008536  | spend time: 0 days  7 hours 26 minutes  7 seconds
+epoch 11, iter 5301: loss: 0.05541942 | lr: 0.00008536  | spend time: 0 days  7 hours 26 minutes 50 seconds
+epoch 11, iter 5401: loss: 0.05521821 | lr: 0.00008536  | spend time: 0 days  7 hours 27 minutes 33 seconds
+epoch 11, iter 5501: loss: 0.05514180 | lr: 0.00008536  | spend time: 0 days  7 hours 28 minutes 15 seconds
+epoch 11, iter 5601: loss: 0.05383058 | lr: 0.00008536  | spend time: 0 days  7 hours 28 minutes 58 seconds
+epoch 11, iter 5701: loss: 0.05641336 | lr: 0.00008536  | spend time: 0 days  7 hours 29 minutes 41 seconds
+epoch 11, iter 5801: loss: 0.05554453 | lr: 0.00008536  | spend time: 0 days  7 hours 30 minutes 24 seconds
+epoch 11, iter 5901: loss: 0.05529557 | lr: 0.00008536  | spend time: 0 days  7 hours 31 minutes  7 seconds
+epoch 11, iter 6001: loss: 0.05678944 | lr: 0.00008536  | spend time: 0 days  7 hours 31 minutes 50 seconds
+epoch 11, iter 6101: loss: 0.05535948 | lr: 0.00008536  | spend time: 0 days  7 hours 32 minutes 33 seconds
+epoch 11, iter 6201: loss: 0.05558513 | lr: 0.00008536  | spend time: 0 days  7 hours 33 minutes 16 seconds
+epoch 11, iter 6301: loss: 0.05546107 | lr: 0.00008536  | spend time: 0 days  7 hours 33 minutes 58 seconds
+epoch 11, iter 6401: loss: 0.05710515 | lr: 0.00008536  | spend time: 0 days  7 hours 34 minutes 41 seconds
+epoch 11, iter 6501: loss: 0.05517704 | lr: 0.00008536  | spend time: 0 days  7 hours 35 minutes 24 seconds
+epoch 11, iter 6601: loss: 0.05464040 | lr: 0.00008536  | spend time: 0 days  7 hours 36 minutes  7 seconds
+epoch 11, iter 6701: loss: 0.05468210 | lr: 0.00008536  | spend time: 0 days  7 hours 36 minutes 50 seconds
+epoch 11, iter 6801: loss: 0.05406582 | lr: 0.00008536  | spend time: 0 days  7 hours 37 minutes 33 seconds
+epoch 11, iter 6901: loss: 0.05429110 | lr: 0.00008536  | spend time: 0 days  7 hours 38 minutes 16 seconds
+epoch 11, iter 7001: loss: 0.05591179 | lr: 0.00008536  | spend time: 0 days  7 hours 38 minutes 59 seconds
+epoch 11, iter 7101: loss: 0.05511621 | lr: 0.00008536  | spend time: 0 days  7 hours 39 minutes 42 seconds
+epoch 11, iter 7201: loss: 0.05540877 | lr: 0.00008536  | spend time: 0 days  7 hours 40 minutes 25 seconds
+epoch 11, iter 7301: loss: 0.05546548 | lr: 0.00008536  | spend time: 0 days  7 hours 41 minutes  8 seconds
+epoch 11, iter 7401: loss: 0.05579127 | lr: 0.00008536  | spend time: 0 days  7 hours 41 minutes 50 seconds
+epoch 11, iter 7501: loss: 0.05798004 | lr: 0.00008536  | spend time: 0 days  7 hours 42 minutes 33 seconds
+epoch 11, iter 7601: loss: 0.05586717 | lr: 0.00008536  | spend time: 0 days  7 hours 43 minutes 16 seconds
+epoch 11, iter 7701: loss: 0.05554725 | lr: 0.00008536  | spend time: 0 days  7 hours 43 minutes 59 seconds
+epoch 11, iter 7801: loss: 0.05522274 | lr: 0.00008536  | spend time: 0 days  7 hours 44 minutes 42 seconds
+epoch 11, iter 7901: loss: 0.05616121 | lr: 0.00008536  | spend time: 0 days  7 hours 45 minutes 24 seconds
+epoch 11, iter 8001: loss: 0.05536632 | lr: 0.00008536  | spend time: 0 days  7 hours 46 minutes  7 seconds
+epoch 11, iter 8101: loss: 0.05537118 | lr: 0.00008536  | spend time: 0 days  7 hours 46 minutes 50 seconds
+epoch 11, iter 8201: loss: 0.05548121 | lr: 0.00008536  | spend time: 0 days  7 hours 47 minutes 33 seconds
+epoch 11, iter 8301: loss: 0.05511934 | lr: 0.00008536  | spend time: 0 days  7 hours 48 minutes 16 seconds
+epoch 11, iter 8401: loss: 0.05885367 | lr: 0.00008536  | spend time: 0 days  7 hours 48 minutes 59 seconds
+epoch 11, iter 8501: loss: 0.05555553 | lr: 0.00008536  | spend time: 0 days  7 hours 49 minutes 42 seconds
+epoch 11, iter 8601: loss: 0.05560130 | lr: 0.00008536  | spend time: 0 days  7 hours 50 minutes 24 seconds
+epoch 11, iter 8701: loss: 0.05718210 | lr: 0.00008536  | spend time: 0 days  7 hours 51 minutes  7 seconds
+epoch 11, iter 8801: loss: 0.05616044 | lr: 0.00008536  | spend time: 0 days  7 hours 51 minutes 50 seconds
+epoch 11, iter 8901: loss: 0.05528727 | lr: 0.00008536  | spend time: 0 days  7 hours 52 minutes 33 seconds
+validing 11/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8609 | AP_pedestrian: 0.8353 | AP_cyclist: 0.8651 | AP_car: 0.8978 
+AR_total: 0.8998 | AR_pedestrian: 0.8735 | AR_cyclist: 0.8978 | AR_car: 0.9448 
+epoch 12, iter    1: loss: 0.05521009 | lr: 0.00008247  | spend time: 0 days  7 hours 55 minutes 49 seconds
+epoch 12, iter  101: loss: 0.05551808 | lr: 0.00008247  | spend time: 0 days  7 hours 56 minutes 32 seconds
+epoch 12, iter  201: loss: 0.05467429 | lr: 0.00008247  | spend time: 0 days  7 hours 57 minutes 15 seconds
+epoch 12, iter  301: loss: 0.05527792 | lr: 0.00008247  | spend time: 0 days  7 hours 57 minutes 58 seconds
+epoch 12, iter  401: loss: 0.05541809 | lr: 0.00008247  | spend time: 0 days  7 hours 58 minutes 40 seconds
+epoch 12, iter  501: loss: 0.05322846 | lr: 0.00008247  | spend time: 0 days  7 hours 59 minutes 24 seconds
+epoch 12, iter  601: loss: 0.05785445 | lr: 0.00008247  | spend time: 0 days  8 hours  0 minutes  6 seconds
+epoch 12, iter  701: loss: 0.05444064 | lr: 0.00008247  | spend time: 0 days  8 hours  0 minutes 49 seconds
+epoch 12, iter  801: loss: 0.05507100 | lr: 0.00008247  | spend time: 0 days  8 hours  1 minutes 33 seconds
+epoch 12, iter  901: loss: 0.05626289 | lr: 0.00008247  | spend time: 0 days  8 hours  2 minutes 16 seconds
+epoch 12, iter 1001: loss: 0.05556799 | lr: 0.00008247  | spend time: 0 days  8 hours  2 minutes 59 seconds
+epoch 12, iter 1101: loss: 0.05498809 | lr: 0.00008247  | spend time: 0 days  8 hours  3 minutes 42 seconds
+epoch 12, iter 1201: loss: 0.05531016 | lr: 0.00008247  | spend time: 0 days  8 hours  4 minutes 25 seconds
+epoch 12, iter 1301: loss: 0.05604059 | lr: 0.00008247  | spend time: 0 days  8 hours  5 minutes  8 seconds
+epoch 12, iter 1401: loss: 0.05539478 | lr: 0.00008247  | spend time: 0 days  8 hours  5 minutes 51 seconds
+epoch 12, iter 1501: loss: 0.05516849 | lr: 0.00008247  | spend time: 0 days  8 hours  6 minutes 34 seconds
+epoch 12, iter 1601: loss: 0.05538572 | lr: 0.00008247  | spend time: 0 days  8 hours  7 minutes 17 seconds
+epoch 12, iter 1701: loss: 0.05576866 | lr: 0.00008247  | spend time: 0 days  8 hours  8 minutes  0 seconds
+epoch 12, iter 1801: loss: 0.05498660 | lr: 0.00008247  | spend time: 0 days  8 hours  8 minutes 42 seconds
+epoch 12, iter 1901: loss: 0.05552622 | lr: 0.00008247  | spend time: 0 days  8 hours  9 minutes 25 seconds
+epoch 12, iter 2001: loss: 0.05548865 | lr: 0.00008247  | spend time: 0 days  8 hours 10 minutes  8 seconds
+epoch 12, iter 2101: loss: 0.05544431 | lr: 0.00008247  | spend time: 0 days  8 hours 10 minutes 51 seconds
+epoch 12, iter 2201: loss: 0.05615661 | lr: 0.00008247  | spend time: 0 days  8 hours 11 minutes 34 seconds
+epoch 12, iter 2301: loss: 0.05526687 | lr: 0.00008247  | spend time: 0 days  8 hours 12 minutes 17 seconds
+epoch 12, iter 2401: loss: 0.05489212 | lr: 0.00008247  | spend time: 0 days  8 hours 13 minutes  0 seconds
+epoch 12, iter 2501: loss: 0.05613783 | lr: 0.00008247  | spend time: 0 days  8 hours 13 minutes 43 seconds
+epoch 12, iter 2601: loss: 0.05535458 | lr: 0.00008247  | spend time: 0 days  8 hours 14 minutes 26 seconds
+epoch 12, iter 2701: loss: 0.05528302 | lr: 0.00008247  | spend time: 0 days  8 hours 15 minutes  9 seconds
+epoch 12, iter 2801: loss: 0.05536890 | lr: 0.00008247  | spend time: 0 days  8 hours 15 minutes 52 seconds
+epoch 12, iter 2901: loss: 0.05251706 | lr: 0.00008247  | spend time: 0 days  8 hours 16 minutes 35 seconds
+epoch 12, iter 3001: loss: 0.05635291 | lr: 0.00008247  | spend time: 0 days  8 hours 17 minutes 18 seconds
+epoch 12, iter 3101: loss: 0.05541184 | lr: 0.00008247  | spend time: 0 days  8 hours 18 minutes  1 seconds
+epoch 12, iter 3201: loss: 0.05591715 | lr: 0.00008247  | spend time: 0 days  8 hours 18 minutes 44 seconds
+epoch 12, iter 3301: loss: 0.05528656 | lr: 0.00008247  | spend time: 0 days  8 hours 19 minutes 26 seconds
+epoch 12, iter 3401: loss: 0.05605699 | lr: 0.00008247  | spend time: 0 days  8 hours 20 minutes  9 seconds
+epoch 12, iter 3501: loss: 0.05530148 | lr: 0.00008247  | spend time: 0 days  8 hours 20 minutes 52 seconds
+epoch 12, iter 3601: loss: 0.05548501 | lr: 0.00008247  | spend time: 0 days  8 hours 21 minutes 35 seconds
+epoch 12, iter 3701: loss: 0.05710036 | lr: 0.00008247  | spend time: 0 days  8 hours 22 minutes 18 seconds
+epoch 12, iter 3801: loss: 0.05492744 | lr: 0.00008247  | spend time: 0 days  8 hours 23 minutes  1 seconds
+epoch 12, iter 3901: loss: 0.05512423 | lr: 0.00008247  | spend time: 0 days  8 hours 23 minutes 44 seconds
+epoch 12, iter 4001: loss: 0.05620598 | lr: 0.00008247  | spend time: 0 days  8 hours 24 minutes 27 seconds
+epoch 12, iter 4101: loss: 0.05536886 | lr: 0.00008247  | spend time: 0 days  8 hours 25 minutes 10 seconds
+epoch 12, iter 4201: loss: 0.05612144 | lr: 0.00008247  | spend time: 0 days  8 hours 25 minutes 52 seconds
+epoch 12, iter 4301: loss: 0.05523100 | lr: 0.00008247  | spend time: 0 days  8 hours 26 minutes 35 seconds
+epoch 12, iter 4401: loss: 0.05534960 | lr: 0.00008247  | spend time: 0 days  8 hours 27 minutes 18 seconds
+epoch 12, iter 4501: loss: 0.05543823 | lr: 0.00008247  | spend time: 0 days  8 hours 28 minutes  1 seconds
+epoch 12, iter 4601: loss: 0.05460928 | lr: 0.00008247  | spend time: 0 days  8 hours 28 minutes 44 seconds
+epoch 12, iter 4701: loss: 0.05518823 | lr: 0.00008247  | spend time: 0 days  8 hours 29 minutes 27 seconds
+epoch 12, iter 4801: loss: 0.05443234 | lr: 0.00008247  | spend time: 0 days  8 hours 30 minutes 10 seconds
+epoch 12, iter 4901: loss: 0.05623436 | lr: 0.00008247  | spend time: 0 days  8 hours 30 minutes 53 seconds
+epoch 12, iter 5001: loss: 0.05590257 | lr: 0.00008247  | spend time: 0 days  8 hours 31 minutes 36 seconds
+epoch 12, iter 5101: loss: 0.05524691 | lr: 0.00008247  | spend time: 0 days  8 hours 32 minutes 19 seconds
+epoch 12, iter 5201: loss: 0.05513384 | lr: 0.00008247  | spend time: 0 days  8 hours 33 minutes  2 seconds
+epoch 12, iter 5301: loss: 0.05466613 | lr: 0.00008247  | spend time: 0 days  8 hours 33 minutes 44 seconds
+epoch 12, iter 5401: loss: 0.05563107 | lr: 0.00008247  | spend time: 0 days  8 hours 34 minutes 27 seconds
+epoch 12, iter 5501: loss: 0.05466458 | lr: 0.00008247  | spend time: 0 days  8 hours 35 minutes 10 seconds
+epoch 12, iter 5601: loss: 0.05615699 | lr: 0.00008247  | spend time: 0 days  8 hours 35 minutes 53 seconds
+epoch 12, iter 5701: loss: 0.05613285 | lr: 0.00008247  | spend time: 0 days  8 hours 36 minutes 36 seconds
+epoch 12, iter 5801: loss: 0.05458641 | lr: 0.00008247  | spend time: 0 days  8 hours 37 minutes 19 seconds
+epoch 12, iter 5901: loss: 0.05789554 | lr: 0.00008247  | spend time: 0 days  8 hours 38 minutes  2 seconds
+epoch 12, iter 6001: loss: 0.05525217 | lr: 0.00008247  | spend time: 0 days  8 hours 38 minutes 45 seconds
+epoch 12, iter 6101: loss: 0.05810060 | lr: 0.00008247  | spend time: 0 days  8 hours 39 minutes 28 seconds
+epoch 12, iter 6201: loss: 0.05615328 | lr: 0.00008247  | spend time: 0 days  8 hours 40 minutes 10 seconds
+epoch 12, iter 6301: loss: 0.05632370 | lr: 0.00008247  | spend time: 0 days  8 hours 40 minutes 54 seconds
+epoch 12, iter 6401: loss: 0.05544300 | lr: 0.00008247  | spend time: 0 days  8 hours 41 minutes 37 seconds
+epoch 12, iter 6501: loss: 0.05603855 | lr: 0.00008247  | spend time: 0 days  8 hours 42 minutes 20 seconds
+epoch 12, iter 6601: loss: 0.05608979 | lr: 0.00008247  | spend time: 0 days  8 hours 43 minutes  2 seconds
+epoch 12, iter 6701: loss: 0.05515219 | lr: 0.00008247  | spend time: 0 days  8 hours 43 minutes 45 seconds
+epoch 12, iter 6801: loss: 0.05469806 | lr: 0.00008247  | spend time: 0 days  8 hours 44 minutes 28 seconds
+epoch 12, iter 6901: loss: 0.05620176 | lr: 0.00008247  | spend time: 0 days  8 hours 45 minutes 11 seconds
+epoch 12, iter 7001: loss: 0.05483416 | lr: 0.00008247  | spend time: 0 days  8 hours 45 minutes 54 seconds
+epoch 12, iter 7101: loss: 0.05553409 | lr: 0.00008247  | spend time: 0 days  8 hours 46 minutes 37 seconds
+epoch 12, iter 7201: loss: 0.05514777 | lr: 0.00008247  | spend time: 0 days  8 hours 47 minutes 20 seconds
+epoch 12, iter 7301: loss: 0.05551238 | lr: 0.00008247  | spend time: 0 days  8 hours 48 minutes  3 seconds
+epoch 12, iter 7401: loss: 0.05569008 | lr: 0.00008247  | spend time: 0 days  8 hours 48 minutes 46 seconds
+epoch 12, iter 7501: loss: 0.05474948 | lr: 0.00008247  | spend time: 0 days  8 hours 49 minutes 29 seconds
+epoch 12, iter 7601: loss: 0.05432537 | lr: 0.00008247  | spend time: 0 days  8 hours 50 minutes 11 seconds
+epoch 12, iter 7701: loss: 0.05540603 | lr: 0.00008247  | spend time: 0 days  8 hours 50 minutes 54 seconds
+epoch 12, iter 7801: loss: 0.05419816 | lr: 0.00008247  | spend time: 0 days  8 hours 51 minutes 37 seconds
+epoch 12, iter 7901: loss: 0.05551674 | lr: 0.00008247  | spend time: 0 days  8 hours 52 minutes 20 seconds
+epoch 12, iter 8001: loss: 0.05530906 | lr: 0.00008247  | spend time: 0 days  8 hours 53 minutes  3 seconds
+epoch 12, iter 8101: loss: 0.05516706 | lr: 0.00008247  | spend time: 0 days  8 hours 53 minutes 46 seconds
+epoch 12, iter 8201: loss: 0.05481017 | lr: 0.00008247  | spend time: 0 days  8 hours 54 minutes 29 seconds
+epoch 12, iter 8301: loss: 0.05686741 | lr: 0.00008247  | spend time: 0 days  8 hours 55 minutes 12 seconds
+epoch 12, iter 8401: loss: 0.05531245 | lr: 0.00008247  | spend time: 0 days  8 hours 55 minutes 55 seconds
+epoch 12, iter 8501: loss: 0.05489239 | lr: 0.00008247  | spend time: 0 days  8 hours 56 minutes 38 seconds
+epoch 12, iter 8601: loss: 0.05521435 | lr: 0.00008247  | spend time: 0 days  8 hours 57 minutes 21 seconds
+epoch 12, iter 8701: loss: 0.05566172 | lr: 0.00008247  | spend time: 0 days  8 hours 58 minutes  3 seconds
+epoch 12, iter 8801: loss: 0.05319793 | lr: 0.00008247  | spend time: 0 days  8 hours 58 minutes 46 seconds
+epoch 12, iter 8901: loss: 0.05518113 | lr: 0.00008247  | spend time: 0 days  8 hours 59 minutes 29 seconds
+validing 12/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8580 | AP_pedestrian: 0.8420 | AP_cyclist: 0.8659 | AP_car: 0.8751 
+AR_total: 0.8978 | AR_pedestrian: 0.8872 | AR_cyclist: 0.8901 | AR_car: 0.9235 
+epoch 13, iter    1: loss: 0.05532384 | lr: 0.00007939  | spend time: 0 days  9 hours  2 minutes 53 seconds
+epoch 13, iter  101: loss: 0.05539191 | lr: 0.00007939  | spend time: 0 days  9 hours  3 minutes 36 seconds
+epoch 13, iter  201: loss: 0.05551685 | lr: 0.00007939  | spend time: 0 days  9 hours  4 minutes 19 seconds
+epoch 13, iter  301: loss: 0.05552037 | lr: 0.00007939  | spend time: 0 days  9 hours  5 minutes  2 seconds
+epoch 13, iter  401: loss: 0.05545742 | lr: 0.00007939  | spend time: 0 days  9 hours  5 minutes 44 seconds
+epoch 13, iter  501: loss: 0.05538963 | lr: 0.00007939  | spend time: 0 days  9 hours  6 minutes 27 seconds
+epoch 13, iter  601: loss: 0.05551530 | lr: 0.00007939  | spend time: 0 days  9 hours  7 minutes 10 seconds
+epoch 13, iter  701: loss: 0.05533505 | lr: 0.00007939  | spend time: 0 days  9 hours  7 minutes 53 seconds
+epoch 13, iter  801: loss: 0.05544627 | lr: 0.00007939  | spend time: 0 days  9 hours  8 minutes 36 seconds
+epoch 13, iter  901: loss: 0.05629526 | lr: 0.00007939  | spend time: 0 days  9 hours  9 minutes 19 seconds
+epoch 13, iter 1001: loss: 0.05523045 | lr: 0.00007939  | spend time: 0 days  9 hours 10 minutes  2 seconds
+epoch 13, iter 1101: loss: 0.05679026 | lr: 0.00007939  | spend time: 0 days  9 hours 10 minutes 44 seconds
+epoch 13, iter 1201: loss: 0.05592908 | lr: 0.00007939  | spend time: 0 days  9 hours 11 minutes 27 seconds
+epoch 13, iter 1301: loss: 0.05538276 | lr: 0.00007939  | spend time: 0 days  9 hours 12 minutes 10 seconds
+epoch 13, iter 1401: loss: 0.05546012 | lr: 0.00007939  | spend time: 0 days  9 hours 12 minutes 53 seconds
+epoch 13, iter 1501: loss: 0.05531262 | lr: 0.00007939  | spend time: 0 days  9 hours 13 minutes 36 seconds
+epoch 13, iter 1601: loss: 0.05649805 | lr: 0.00007939  | spend time: 0 days  9 hours 14 minutes 19 seconds
+epoch 13, iter 1701: loss: 0.05615156 | lr: 0.00007939  | spend time: 0 days  9 hours 15 minutes  2 seconds
+epoch 13, iter 1801: loss: 0.05552612 | lr: 0.00007939  | spend time: 0 days  9 hours 15 minutes 44 seconds
+epoch 13, iter 1901: loss: 0.05524662 | lr: 0.00007939  | spend time: 0 days  9 hours 16 minutes 27 seconds
+epoch 13, iter 2001: loss: 0.05548884 | lr: 0.00007939  | spend time: 0 days  9 hours 17 minutes 10 seconds
+epoch 13, iter 2101: loss: 0.05544774 | lr: 0.00007939  | spend time: 0 days  9 hours 17 minutes 53 seconds
+epoch 13, iter 2201: loss: 0.05485867 | lr: 0.00007939  | spend time: 0 days  9 hours 18 minutes 36 seconds
+epoch 13, iter 2301: loss: 0.05373659 | lr: 0.00007939  | spend time: 0 days  9 hours 19 minutes 19 seconds
+epoch 13, iter 2401: loss: 0.05503213 | lr: 0.00007939  | spend time: 0 days  9 hours 20 minutes  2 seconds
+epoch 13, iter 2501: loss: 0.05555333 | lr: 0.00007939  | spend time: 0 days  9 hours 20 minutes 45 seconds
+epoch 13, iter 2601: loss: 0.05516376 | lr: 0.00007939  | spend time: 0 days  9 hours 21 minutes 27 seconds
+epoch 13, iter 2701: loss: 0.05493935 | lr: 0.00007939  | spend time: 0 days  9 hours 22 minutes 10 seconds
+epoch 13, iter 2801: loss: 0.05684482 | lr: 0.00007939  | spend time: 0 days  9 hours 22 minutes 53 seconds
+epoch 13, iter 2901: loss: 0.05434024 | lr: 0.00007939  | spend time: 0 days  9 hours 23 minutes 36 seconds
+epoch 13, iter 3001: loss: 0.05502962 | lr: 0.00007939  | spend time: 0 days  9 hours 24 minutes 19 seconds
+epoch 13, iter 3101: loss: 0.05325503 | lr: 0.00007939  | spend time: 0 days  9 hours 25 minutes  2 seconds
+epoch 13, iter 3201: loss: 0.05451541 | lr: 0.00007939  | spend time: 0 days  9 hours 25 minutes 45 seconds
+epoch 13, iter 3301: loss: 0.05594055 | lr: 0.00007939  | spend time: 0 days  9 hours 26 minutes 28 seconds
+epoch 13, iter 3401: loss: 0.05338825 | lr: 0.00007939  | spend time: 0 days  9 hours 27 minutes 10 seconds
+epoch 13, iter 3501: loss: 0.05501612 | lr: 0.00007939  | spend time: 0 days  9 hours 27 minutes 53 seconds
+epoch 13, iter 3601: loss: 0.05491818 | lr: 0.00007939  | spend time: 0 days  9 hours 28 minutes 36 seconds
+epoch 13, iter 3701: loss: 0.05564569 | lr: 0.00007939  | spend time: 0 days  9 hours 29 minutes 19 seconds
+epoch 13, iter 3801: loss: 0.05695146 | lr: 0.00007939  | spend time: 0 days  9 hours 30 minutes  2 seconds
+epoch 13, iter 3901: loss: 0.05394849 | lr: 0.00007939  | spend time: 0 days  9 hours 30 minutes 45 seconds
+epoch 13, iter 4001: loss: 0.05528795 | lr: 0.00007939  | spend time: 0 days  9 hours 31 minutes 28 seconds
+epoch 13, iter 4101: loss: 0.05573956 | lr: 0.00007939  | spend time: 0 days  9 hours 32 minutes 11 seconds
+epoch 13, iter 4201: loss: 0.05843157 | lr: 0.00007939  | spend time: 0 days  9 hours 32 minutes 54 seconds
+epoch 13, iter 4301: loss: 0.05547386 | lr: 0.00007939  | spend time: 0 days  9 hours 33 minutes 36 seconds
+epoch 13, iter 4401: loss: 0.05532683 | lr: 0.00007939  | spend time: 0 days  9 hours 34 minutes 19 seconds
+epoch 13, iter 4501: loss: 0.05409653 | lr: 0.00007939  | spend time: 0 days  9 hours 35 minutes  2 seconds
+epoch 13, iter 4601: loss: 0.05684678 | lr: 0.00007939  | spend time: 0 days  9 hours 35 minutes 45 seconds
+epoch 13, iter 4701: loss: 0.05612210 | lr: 0.00007939  | spend time: 0 days  9 hours 36 minutes 28 seconds
+epoch 13, iter 4801: loss: 0.05685510 | lr: 0.00007939  | spend time: 0 days  9 hours 37 minutes 11 seconds
+epoch 13, iter 4901: loss: 0.05548939 | lr: 0.00007939  | spend time: 0 days  9 hours 37 minutes 53 seconds
+epoch 13, iter 5001: loss: 0.05612210 | lr: 0.00007939  | spend time: 0 days  9 hours 38 minutes 36 seconds
+epoch 13, iter 5101: loss: 0.05542624 | lr: 0.00007939  | spend time: 0 days  9 hours 39 minutes 19 seconds
+epoch 13, iter 5201: loss: 0.05408305 | lr: 0.00007939  | spend time: 0 days  9 hours 40 minutes  2 seconds
+epoch 13, iter 5301: loss: 0.05545239 | lr: 0.00007939  | spend time: 0 days  9 hours 40 minutes 45 seconds
+epoch 13, iter 5401: loss: 0.05614862 | lr: 0.00007939  | spend time: 0 days  9 hours 41 minutes 28 seconds
+epoch 13, iter 5501: loss: 0.05615561 | lr: 0.00007939  | spend time: 0 days  9 hours 42 minutes 11 seconds
+epoch 13, iter 5601: loss: 0.05480840 | lr: 0.00007939  | spend time: 0 days  9 hours 42 minutes 54 seconds
+epoch 13, iter 5701: loss: 0.05643739 | lr: 0.00007939  | spend time: 0 days  9 hours 43 minutes 37 seconds
+epoch 13, iter 5801: loss: 0.05437863 | lr: 0.00007939  | spend time: 0 days  9 hours 44 minutes 19 seconds
+epoch 13, iter 5901: loss: 0.05546486 | lr: 0.00007939  | spend time: 0 days  9 hours 45 minutes  2 seconds
+epoch 13, iter 6001: loss: 0.05525525 | lr: 0.00007939  | spend time: 0 days  9 hours 45 minutes 45 seconds
+epoch 13, iter 6101: loss: 0.05485617 | lr: 0.00007939  | spend time: 0 days  9 hours 46 minutes 28 seconds
+epoch 13, iter 6201: loss: 0.05335938 | lr: 0.00007939  | spend time: 0 days  9 hours 47 minutes 11 seconds
+epoch 13, iter 6301: loss: 0.05536534 | lr: 0.00007939  | spend time: 0 days  9 hours 47 minutes 54 seconds
+epoch 13, iter 6401: loss: 0.05566087 | lr: 0.00007939  | spend time: 0 days  9 hours 48 minutes 37 seconds
+epoch 13, iter 6501: loss: 0.05632708 | lr: 0.00007939  | spend time: 0 days  9 hours 49 minutes 20 seconds
+epoch 13, iter 6601: loss: 0.05535383 | lr: 0.00007939  | spend time: 0 days  9 hours 50 minutes  2 seconds
+epoch 13, iter 6701: loss: 0.05576407 | lr: 0.00007939  | spend time: 0 days  9 hours 50 minutes 45 seconds
+epoch 13, iter 6801: loss: 0.05577610 | lr: 0.00007939  | spend time: 0 days  9 hours 51 minutes 28 seconds
+epoch 13, iter 6901: loss: 0.05599646 | lr: 0.00007939  | spend time: 0 days  9 hours 52 minutes 11 seconds
+epoch 13, iter 7001: loss: 0.05199736 | lr: 0.00007939  | spend time: 0 days  9 hours 52 minutes 54 seconds
+epoch 13, iter 7101: loss: 0.05517505 | lr: 0.00007939  | spend time: 0 days  9 hours 53 minutes 37 seconds
+epoch 13, iter 7201: loss: 0.05534397 | lr: 0.00007939  | spend time: 0 days  9 hours 54 minutes 20 seconds
+epoch 13, iter 7301: loss: 0.05483411 | lr: 0.00007939  | spend time: 0 days  9 hours 55 minutes  3 seconds
+epoch 13, iter 7401: loss: 0.05527887 | lr: 0.00007939  | spend time: 0 days  9 hours 55 minutes 46 seconds
+epoch 13, iter 7501: loss: 0.05518316 | lr: 0.00007939  | spend time: 0 days  9 hours 56 minutes 29 seconds
+epoch 13, iter 7601: loss: 0.05582166 | lr: 0.00007939  | spend time: 0 days  9 hours 57 minutes 11 seconds
+epoch 13, iter 7701: loss: 0.05712121 | lr: 0.00007939  | spend time: 0 days  9 hours 57 minutes 54 seconds
+epoch 13, iter 7801: loss: 0.05578979 | lr: 0.00007939  | spend time: 0 days  9 hours 58 minutes 37 seconds
+epoch 13, iter 7901: loss: 0.05550516 | lr: 0.00007939  | spend time: 0 days  9 hours 59 minutes 20 seconds
+epoch 13, iter 8001: loss: 0.05458505 | lr: 0.00007939  | spend time: 0 days 10 hours  0 minutes  3 seconds
+epoch 13, iter 8101: loss: 0.05460020 | lr: 0.00007939  | spend time: 0 days 10 hours  0 minutes 46 seconds
+epoch 13, iter 8201: loss: 0.05615815 | lr: 0.00007939  | spend time: 0 days 10 hours  1 minutes 29 seconds
+epoch 13, iter 8301: loss: 0.05538982 | lr: 0.00007939  | spend time: 0 days 10 hours  2 minutes 12 seconds
+epoch 13, iter 8401: loss: 0.05530255 | lr: 0.00007939  | spend time: 0 days 10 hours  2 minutes 55 seconds
+epoch 13, iter 8501: loss: 0.05556366 | lr: 0.00007939  | spend time: 0 days 10 hours  3 minutes 38 seconds
+epoch 13, iter 8601: loss: 0.05547701 | lr: 0.00007939  | spend time: 0 days 10 hours  4 minutes 20 seconds
+epoch 13, iter 8701: loss: 0.05441830 | lr: 0.00007939  | spend time: 0 days 10 hours  5 minutes  3 seconds
+epoch 13, iter 8801: loss: 0.05554088 | lr: 0.00007939  | spend time: 0 days 10 hours  5 minutes 46 seconds
+epoch 13, iter 8901: loss: 0.05601906 | lr: 0.00007939  | spend time: 0 days 10 hours  6 minutes 28 seconds
+validing 13/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8703 | AP_pedestrian: 0.8516 | AP_cyclist: 0.8923 | AP_car: 0.8761 
+AR_total: 0.9137 | AR_pedestrian: 0.8941 | AR_cyclist: 0.9230 | AR_car: 0.9351 
+epoch 14, iter    1: loss: 0.05522432 | lr: 0.00007612  | spend time: 0 days 10 hours  9 minutes 45 seconds
+epoch 14, iter  101: loss: 0.05456400 | lr: 0.00007612  | spend time: 0 days 10 hours 10 minutes 28 seconds
+epoch 14, iter  201: loss: 0.05372170 | lr: 0.00007612  | spend time: 0 days 10 hours 11 minutes 11 seconds
+epoch 14, iter  301: loss: 0.05383262 | lr: 0.00007612  | spend time: 0 days 10 hours 11 minutes 54 seconds
+epoch 14, iter  401: loss: 0.05546399 | lr: 0.00007612  | spend time: 0 days 10 hours 12 minutes 37 seconds
+epoch 14, iter  501: loss: 0.05479916 | lr: 0.00007612  | spend time: 0 days 10 hours 13 minutes 20 seconds
+epoch 14, iter  601: loss: 0.05529988 | lr: 0.00007612  | spend time: 0 days 10 hours 14 minutes  2 seconds
+epoch 14, iter  701: loss: 0.05570308 | lr: 0.00007612  | spend time: 0 days 10 hours 14 minutes 45 seconds
+epoch 14, iter  801: loss: 0.05486728 | lr: 0.00007612  | spend time: 0 days 10 hours 15 minutes 28 seconds
+epoch 14, iter  901: loss: 0.05432779 | lr: 0.00007612  | spend time: 0 days 10 hours 16 minutes 11 seconds
+epoch 14, iter 1001: loss: 0.05536232 | lr: 0.00007612  | spend time: 0 days 10 hours 16 minutes 54 seconds
+epoch 14, iter 1101: loss: 0.05669564 | lr: 0.00007612  | spend time: 0 days 10 hours 17 minutes 37 seconds
+epoch 14, iter 1201: loss: 0.05501721 | lr: 0.00007612  | spend time: 0 days 10 hours 18 minutes 20 seconds
+epoch 14, iter 1301: loss: 0.05636190 | lr: 0.00007612  | spend time: 0 days 10 hours 19 minutes  3 seconds
+epoch 14, iter 1401: loss: 0.05548985 | lr: 0.00007612  | spend time: 0 days 10 hours 19 minutes 46 seconds
+epoch 14, iter 1501: loss: 0.05508354 | lr: 0.00007612  | spend time: 0 days 10 hours 20 minutes 28 seconds
+epoch 14, iter 1601: loss: 0.05562915 | lr: 0.00007612  | spend time: 0 days 10 hours 21 minutes 11 seconds
+epoch 14, iter 1701: loss: 0.05459963 | lr: 0.00007612  | spend time: 0 days 10 hours 21 minutes 54 seconds
+epoch 14, iter 1801: loss: 0.05342788 | lr: 0.00007612  | spend time: 0 days 10 hours 22 minutes 37 seconds
+epoch 14, iter 1901: loss: 0.05480951 | lr: 0.00007612  | spend time: 0 days 10 hours 23 minutes 20 seconds
+epoch 14, iter 2001: loss: 0.05323955 | lr: 0.00007612  | spend time: 0 days 10 hours 24 minutes  3 seconds
+epoch 14, iter 2101: loss: 0.05526812 | lr: 0.00007612  | spend time: 0 days 10 hours 24 minutes 46 seconds
+epoch 14, iter 2201: loss: 0.05554172 | lr: 0.00007612  | spend time: 0 days 10 hours 25 minutes 29 seconds
+epoch 14, iter 2301: loss: 0.05614263 | lr: 0.00007612  | spend time: 0 days 10 hours 26 minutes 11 seconds
+epoch 14, iter 2401: loss: 0.05598172 | lr: 0.00007612  | spend time: 0 days 10 hours 26 minutes 54 seconds
+epoch 14, iter 2501: loss: 0.05551047 | lr: 0.00007612  | spend time: 0 days 10 hours 27 minutes 37 seconds
+epoch 14, iter 2601: loss: 0.05615218 | lr: 0.00007612  | spend time: 0 days 10 hours 28 minutes 20 seconds
+epoch 14, iter 2701: loss: 0.05486814 | lr: 0.00007612  | spend time: 0 days 10 hours 29 minutes  3 seconds
+epoch 14, iter 2801: loss: 0.05519966 | lr: 0.00007612  | spend time: 0 days 10 hours 29 minutes 46 seconds
+epoch 14, iter 2901: loss: 0.05548650 | lr: 0.00007612  | spend time: 0 days 10 hours 30 minutes 28 seconds
+epoch 14, iter 3001: loss: 0.05552216 | lr: 0.00007612  | spend time: 0 days 10 hours 31 minutes 11 seconds
+epoch 14, iter 3101: loss: 0.05545896 | lr: 0.00007612  | spend time: 0 days 10 hours 31 minutes 54 seconds
+epoch 14, iter 3201: loss: 0.05538263 | lr: 0.00007612  | spend time: 0 days 10 hours 32 minutes 37 seconds
+epoch 14, iter 3301: loss: 0.05535048 | lr: 0.00007612  | spend time: 0 days 10 hours 33 minutes 20 seconds
+epoch 14, iter 3401: loss: 0.05287278 | lr: 0.00007612  | spend time: 0 days 10 hours 34 minutes  3 seconds
+epoch 14, iter 3501: loss: 0.05533412 | lr: 0.00007612  | spend time: 0 days 10 hours 34 minutes 46 seconds
+epoch 14, iter 3601: loss: 0.05482655 | lr: 0.00007612  | spend time: 0 days 10 hours 35 minutes 29 seconds
+epoch 14, iter 3701: loss: 0.05493750 | lr: 0.00007612  | spend time: 0 days 10 hours 36 minutes 12 seconds
+epoch 14, iter 3801: loss: 0.05366948 | lr: 0.00007612  | spend time: 0 days 10 hours 36 minutes 55 seconds
+epoch 14, iter 3901: loss: 0.05473418 | lr: 0.00007612  | spend time: 0 days 10 hours 37 minutes 38 seconds
+epoch 14, iter 4001: loss: 0.05542455 | lr: 0.00007612  | spend time: 0 days 10 hours 38 minutes 20 seconds
+epoch 14, iter 4101: loss: 0.05535695 | lr: 0.00007612  | spend time: 0 days 10 hours 39 minutes  3 seconds
+epoch 14, iter 4201: loss: 0.05623015 | lr: 0.00007612  | spend time: 0 days 10 hours 39 minutes 46 seconds
+epoch 14, iter 4301: loss: 0.05579038 | lr: 0.00007612  | spend time: 0 days 10 hours 40 minutes 29 seconds
+epoch 14, iter 4401: loss: 0.05503708 | lr: 0.00007612  | spend time: 0 days 10 hours 41 minutes 12 seconds
+epoch 14, iter 4501: loss: 0.05459492 | lr: 0.00007612  | spend time: 0 days 10 hours 41 minutes 55 seconds
+epoch 14, iter 4601: loss: 0.05508409 | lr: 0.00007612  | spend time: 0 days 10 hours 42 minutes 38 seconds
+epoch 14, iter 4701: loss: 0.05615173 | lr: 0.00007612  | spend time: 0 days 10 hours 43 minutes 20 seconds
+epoch 14, iter 4801: loss: 0.05414779 | lr: 0.00007612  | spend time: 0 days 10 hours 44 minutes  3 seconds
+epoch 14, iter 4901: loss: 0.05388379 | lr: 0.00007612  | spend time: 0 days 10 hours 44 minutes 46 seconds
+epoch 14, iter 5001: loss: 0.05706482 | lr: 0.00007612  | spend time: 0 days 10 hours 45 minutes 29 seconds
+epoch 14, iter 5101: loss: 0.05531033 | lr: 0.00007612  | spend time: 0 days 10 hours 46 minutes 12 seconds
+epoch 14, iter 5201: loss: 0.05532231 | lr: 0.00007612  | spend time: 0 days 10 hours 46 minutes 55 seconds
+epoch 14, iter 5301: loss: 0.05607100 | lr: 0.00007612  | spend time: 0 days 10 hours 47 minutes 37 seconds
+epoch 14, iter 5401: loss: 0.05445818 | lr: 0.00007612  | spend time: 0 days 10 hours 48 minutes 20 seconds
+epoch 14, iter 5501: loss: 0.05668679 | lr: 0.00007612  | spend time: 0 days 10 hours 49 minutes  3 seconds
+epoch 14, iter 5601: loss: 0.05498798 | lr: 0.00007612  | spend time: 0 days 10 hours 49 minutes 46 seconds
+epoch 14, iter 5701: loss: 0.05552470 | lr: 0.00007612  | spend time: 0 days 10 hours 50 minutes 29 seconds
+epoch 14, iter 5801: loss: 0.05486896 | lr: 0.00007612  | spend time: 0 days 10 hours 51 minutes 12 seconds
+epoch 14, iter 5901: loss: 0.05567690 | lr: 0.00007612  | spend time: 0 days 10 hours 51 minutes 54 seconds
+epoch 14, iter 6001: loss: 0.05395800 | lr: 0.00007612  | spend time: 0 days 10 hours 52 minutes 37 seconds
+epoch 14, iter 6101: loss: 0.05528617 | lr: 0.00007612  | spend time: 0 days 10 hours 53 minutes 20 seconds
+epoch 14, iter 6201: loss: 0.05546994 | lr: 0.00007612  | spend time: 0 days 10 hours 54 minutes  3 seconds
+epoch 14, iter 6301: loss: 0.05498315 | lr: 0.00007612  | spend time: 0 days 10 hours 54 minutes 45 seconds
+epoch 14, iter 6401: loss: 0.05523868 | lr: 0.00007612  | spend time: 0 days 10 hours 55 minutes 28 seconds
+epoch 14, iter 6501: loss: 0.05546628 | lr: 0.00007612  | spend time: 0 days 10 hours 56 minutes 11 seconds
+epoch 14, iter 6601: loss: 0.05527874 | lr: 0.00007612  | spend time: 0 days 10 hours 56 minutes 54 seconds
+epoch 14, iter 6701: loss: 0.05445587 | lr: 0.00007612  | spend time: 0 days 10 hours 57 minutes 37 seconds
+epoch 14, iter 6801: loss: 0.05519411 | lr: 0.00007612  | spend time: 0 days 10 hours 58 minutes 20 seconds
+epoch 14, iter 6901: loss: 0.05536989 | lr: 0.00007612  | spend time: 0 days 10 hours 59 minutes  3 seconds
+epoch 14, iter 7001: loss: 0.05544114 | lr: 0.00007612  | spend time: 0 days 10 hours 59 minutes 45 seconds
+epoch 14, iter 7101: loss: 0.05533605 | lr: 0.00007612  | spend time: 0 days 11 hours  0 minutes 27 seconds
+epoch 14, iter 7201: loss: 0.05504064 | lr: 0.00007612  | spend time: 0 days 11 hours  1 minutes 10 seconds
+epoch 14, iter 7301: loss: 0.05621586 | lr: 0.00007612  | spend time: 0 days 11 hours  1 minutes 52 seconds
+epoch 14, iter 7401: loss: 0.05525833 | lr: 0.00007612  | spend time: 0 days 11 hours  2 minutes 34 seconds
+epoch 14, iter 7501: loss: 0.05604984 | lr: 0.00007612  | spend time: 0 days 11 hours  3 minutes 16 seconds
+epoch 14, iter 7601: loss: 0.05638055 | lr: 0.00007612  | spend time: 0 days 11 hours  3 minutes 58 seconds
+epoch 14, iter 7701: loss: 0.05551679 | lr: 0.00007612  | spend time: 0 days 11 hours  4 minutes 40 seconds
+epoch 14, iter 7801: loss: 0.05745151 | lr: 0.00007612  | spend time: 0 days 11 hours  5 minutes 22 seconds
+epoch 14, iter 7901: loss: 0.05468823 | lr: 0.00007612  | spend time: 0 days 11 hours  6 minutes  4 seconds
+epoch 14, iter 8001: loss: 0.05533852 | lr: 0.00007612  | spend time: 0 days 11 hours  6 minutes 46 seconds
+epoch 14, iter 8101: loss: 0.05548438 | lr: 0.00007612  | spend time: 0 days 11 hours  7 minutes 29 seconds
+epoch 14, iter 8201: loss: 0.05594579 | lr: 0.00007612  | spend time: 0 days 11 hours  8 minutes 11 seconds
+epoch 14, iter 8301: loss: 0.05609476 | lr: 0.00007612  | spend time: 0 days 11 hours  8 minutes 53 seconds
+epoch 14, iter 8401: loss: 0.05558013 | lr: 0.00007612  | spend time: 0 days 11 hours  9 minutes 35 seconds
+epoch 14, iter 8501: loss: 0.05610844 | lr: 0.00007612  | spend time: 0 days 11 hours 10 minutes 17 seconds
+epoch 14, iter 8601: loss: 0.05574774 | lr: 0.00007612  | spend time: 0 days 11 hours 10 minutes 59 seconds
+epoch 14, iter 8701: loss: 0.05488893 | lr: 0.00007612  | spend time: 0 days 11 hours 11 minutes 41 seconds
+epoch 14, iter 8801: loss: 0.05689596 | lr: 0.00007612  | spend time: 0 days 11 hours 12 minutes 23 seconds
+epoch 14, iter 8901: loss: 0.05531665 | lr: 0.00007612  | spend time: 0 days 11 hours 13 minutes  5 seconds
+validing 14/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8775 | AP_pedestrian: 0.8580 | AP_cyclist: 0.8904 | AP_car: 0.8946 
+AR_total: 0.9113 | AR_pedestrian: 0.8956 | AR_cyclist: 0.9162 | AR_car: 0.9312 
+epoch 15, iter    1: loss: 0.05519499 | lr: 0.00007270  | spend time: 0 days 11 hours 18 minutes 41 seconds
+epoch 15, iter  101: loss: 0.05537638 | lr: 0.00007270  | spend time: 0 days 11 hours 19 minutes 24 seconds
+epoch 15, iter  201: loss: 0.05548264 | lr: 0.00007270  | spend time: 0 days 11 hours 20 minutes  6 seconds
+epoch 15, iter  301: loss: 0.05615784 | lr: 0.00007270  | spend time: 0 days 11 hours 20 minutes 48 seconds
+epoch 15, iter  401: loss: 0.05591805 | lr: 0.00007270  | spend time: 0 days 11 hours 21 minutes 30 seconds
+epoch 15, iter  501: loss: 0.05552272 | lr: 0.00007270  | spend time: 0 days 11 hours 22 minutes 12 seconds
+epoch 15, iter  601: loss: 0.05515355 | lr: 0.00007270  | spend time: 0 days 11 hours 22 minutes 55 seconds
+epoch 15, iter  701: loss: 0.05569855 | lr: 0.00007270  | spend time: 0 days 11 hours 23 minutes 37 seconds
+epoch 15, iter  801: loss: 0.05538539 | lr: 0.00007270  | spend time: 0 days 11 hours 24 minutes 19 seconds
+epoch 15, iter  901: loss: 0.05564158 | lr: 0.00007270  | spend time: 0 days 11 hours 25 minutes  1 seconds
+epoch 15, iter 1001: loss: 0.05465673 | lr: 0.00007270  | spend time: 0 days 11 hours 25 minutes 43 seconds
+epoch 15, iter 1101: loss: 0.05529442 | lr: 0.00007270  | spend time: 0 days 11 hours 26 minutes 25 seconds
+epoch 15, iter 1201: loss: 0.05495287 | lr: 0.00007270  | spend time: 0 days 11 hours 27 minutes  8 seconds
+epoch 15, iter 1301: loss: 0.05534184 | lr: 0.00007270  | spend time: 0 days 11 hours 27 minutes 50 seconds
+epoch 15, iter 1401: loss: 0.05526362 | lr: 0.00007270  | spend time: 0 days 11 hours 28 minutes 32 seconds
+epoch 15, iter 1501: loss: 0.05546768 | lr: 0.00007270  | spend time: 0 days 11 hours 29 minutes 14 seconds
+epoch 15, iter 1601: loss: 0.05591175 | lr: 0.00007270  | spend time: 0 days 11 hours 29 minutes 57 seconds
+epoch 15, iter 1701: loss: 0.05434547 | lr: 0.00007270  | spend time: 0 days 11 hours 30 minutes 39 seconds
+epoch 15, iter 1801: loss: 0.05742073 | lr: 0.00007270  | spend time: 0 days 11 hours 31 minutes 21 seconds
+epoch 15, iter 1901: loss: 0.05734126 | lr: 0.00007270  | spend time: 0 days 11 hours 32 minutes  3 seconds
+epoch 15, iter 2001: loss: 0.05496472 | lr: 0.00007270  | spend time: 0 days 11 hours 32 minutes 46 seconds
+epoch 15, iter 2101: loss: 0.05541318 | lr: 0.00007270  | spend time: 0 days 11 hours 33 minutes 28 seconds
+epoch 15, iter 2201: loss: 0.05353743 | lr: 0.00007270  | spend time: 0 days 11 hours 34 minutes 10 seconds
+epoch 15, iter 2301: loss: 0.05540567 | lr: 0.00007270  | spend time: 0 days 11 hours 34 minutes 52 seconds
+epoch 15, iter 2401: loss: 0.05534086 | lr: 0.00007270  | spend time: 0 days 11 hours 35 minutes 34 seconds
+epoch 15, iter 2501: loss: 0.05526251 | lr: 0.00007270  | spend time: 0 days 11 hours 36 minutes 17 seconds
+epoch 15, iter 2601: loss: 0.05449132 | lr: 0.00007270  | spend time: 0 days 11 hours 36 minutes 59 seconds
+epoch 15, iter 2701: loss: 0.05434309 | lr: 0.00007270  | spend time: 0 days 11 hours 37 minutes 41 seconds
+epoch 15, iter 2801: loss: 0.05490466 | lr: 0.00007270  | spend time: 0 days 11 hours 38 minutes 23 seconds
+epoch 15, iter 2901: loss: 0.05531855 | lr: 0.00007270  | spend time: 0 days 11 hours 39 minutes  5 seconds
+epoch 15, iter 3001: loss: 0.05483614 | lr: 0.00007270  | spend time: 0 days 11 hours 39 minutes 48 seconds
+epoch 15, iter 3101: loss: 0.05454580 | lr: 0.00007270  | spend time: 0 days 11 hours 40 minutes 30 seconds
+epoch 15, iter 3201: loss: 0.05548014 | lr: 0.00007270  | spend time: 0 days 11 hours 41 minutes 12 seconds
+epoch 15, iter 3301: loss: 0.05359752 | lr: 0.00007270  | spend time: 0 days 11 hours 41 minutes 54 seconds
+epoch 15, iter 3401: loss: 0.05576841 | lr: 0.00007270  | spend time: 0 days 11 hours 42 minutes 36 seconds
+epoch 15, iter 3501: loss: 0.05531367 | lr: 0.00007270  | spend time: 0 days 11 hours 43 minutes 19 seconds
+epoch 15, iter 3601: loss: 0.05572984 | lr: 0.00007270  | spend time: 0 days 11 hours 44 minutes  1 seconds
+epoch 15, iter 3701: loss: 0.05488387 | lr: 0.00007270  | spend time: 0 days 11 hours 44 minutes 43 seconds
+epoch 15, iter 3801: loss: 0.05484866 | lr: 0.00007270  | spend time: 0 days 11 hours 45 minutes 25 seconds
+epoch 15, iter 3901: loss: 0.05439479 | lr: 0.00007270  | spend time: 0 days 11 hours 46 minutes  7 seconds
+epoch 15, iter 4001: loss: 0.05387167 | lr: 0.00007270  | spend time: 0 days 11 hours 46 minutes 49 seconds
+epoch 15, iter 4101: loss: 0.05540304 | lr: 0.00007270  | spend time: 0 days 11 hours 47 minutes 32 seconds
+epoch 15, iter 4201: loss: 0.05354923 | lr: 0.00007270  | spend time: 0 days 11 hours 48 minutes 14 seconds
+epoch 15, iter 4301: loss: 0.05552169 | lr: 0.00007270  | spend time: 0 days 11 hours 48 minutes 56 seconds
+epoch 15, iter 4401: loss: 0.05575647 | lr: 0.00007270  | spend time: 0 days 11 hours 49 minutes 38 seconds
+epoch 15, iter 4501: loss: 0.05486607 | lr: 0.00007270  | spend time: 0 days 11 hours 50 minutes 20 seconds
+epoch 15, iter 4601: loss: 0.05357973 | lr: 0.00007270  | spend time: 0 days 11 hours 51 minutes  3 seconds
+epoch 15, iter 4701: loss: 0.05486765 | lr: 0.00007270  | spend time: 0 days 11 hours 51 minutes 45 seconds
+epoch 15, iter 4801: loss: 0.05611434 | lr: 0.00007270  | spend time: 0 days 11 hours 52 minutes 27 seconds
+epoch 15, iter 4901: loss: 0.05508421 | lr: 0.00007270  | spend time: 0 days 11 hours 53 minutes  9 seconds
+epoch 15, iter 5001: loss: 0.05552847 | lr: 0.00007270  | spend time: 0 days 11 hours 53 minutes 52 seconds
+epoch 15, iter 5101: loss: 0.05553464 | lr: 0.00007270  | spend time: 0 days 11 hours 54 minutes 34 seconds
+epoch 15, iter 5201: loss: 0.05659981 | lr: 0.00007270  | spend time: 0 days 11 hours 55 minutes 16 seconds
+epoch 15, iter 5301: loss: 0.05356249 | lr: 0.00007270  | spend time: 0 days 11 hours 55 minutes 58 seconds
+epoch 15, iter 5401: loss: 0.05459638 | lr: 0.00007270  | spend time: 0 days 11 hours 56 minutes 40 seconds
+epoch 15, iter 5501: loss: 0.05475326 | lr: 0.00007270  | spend time: 0 days 11 hours 57 minutes 22 seconds
+epoch 15, iter 5601: loss: 0.05480533 | lr: 0.00007270  | spend time: 0 days 11 hours 58 minutes  5 seconds
+epoch 15, iter 5701: loss: 0.05575505 | lr: 0.00007270  | spend time: 0 days 11 hours 58 minutes 47 seconds
+epoch 15, iter 5801: loss: 0.05555970 | lr: 0.00007270  | spend time: 0 days 11 hours 59 minutes 29 seconds
+epoch 15, iter 5901: loss: 0.05517320 | lr: 0.00007270  | spend time: 0 days 12 hours  0 minutes 11 seconds
+epoch 15, iter 6001: loss: 0.05617959 | lr: 0.00007270  | spend time: 0 days 12 hours  0 minutes 53 seconds
+epoch 15, iter 6101: loss: 0.05532076 | lr: 0.00007270  | spend time: 0 days 12 hours  1 minutes 35 seconds
+epoch 15, iter 6201: loss: 0.05598200 | lr: 0.00007270  | spend time: 0 days 12 hours  2 minutes 17 seconds
+epoch 15, iter 6301: loss: 0.05533810 | lr: 0.00007270  | spend time: 0 days 12 hours  3 minutes  0 seconds
+epoch 15, iter 6401: loss: 0.05548789 | lr: 0.00007270  | spend time: 0 days 12 hours  3 minutes 42 seconds
+epoch 15, iter 6501: loss: 0.05750174 | lr: 0.00007270  | spend time: 0 days 12 hours  4 minutes 24 seconds
+epoch 15, iter 6601: loss: 0.05586540 | lr: 0.00007270  | spend time: 0 days 12 hours  5 minutes  6 seconds
+epoch 15, iter 6701: loss: 0.05685694 | lr: 0.00007270  | spend time: 0 days 12 hours  5 minutes 48 seconds
+epoch 15, iter 6801: loss: 0.05547604 | lr: 0.00007270  | spend time: 0 days 12 hours  6 minutes 30 seconds
+epoch 15, iter 6901: loss: 0.05603596 | lr: 0.00007270  | spend time: 0 days 12 hours  7 minutes 12 seconds
+epoch 15, iter 7001: loss: 0.05539656 | lr: 0.00007270  | spend time: 0 days 12 hours  7 minutes 55 seconds
+epoch 15, iter 7101: loss: 0.05549702 | lr: 0.00007270  | spend time: 0 days 12 hours  8 minutes 37 seconds
+epoch 15, iter 7201: loss: 0.05638681 | lr: 0.00007270  | spend time: 0 days 12 hours  9 minutes 19 seconds
+epoch 15, iter 7301: loss: 0.05519893 | lr: 0.00007270  | spend time: 0 days 12 hours 10 minutes  1 seconds
+epoch 15, iter 7401: loss: 0.05407764 | lr: 0.00007270  | spend time: 0 days 12 hours 10 minutes 43 seconds
+epoch 15, iter 7501: loss: 0.05603829 | lr: 0.00007270  | spend time: 0 days 12 hours 11 minutes 25 seconds
+epoch 15, iter 7601: loss: 0.05520612 | lr: 0.00007270  | spend time: 0 days 12 hours 12 minutes  8 seconds
+epoch 15, iter 7701: loss: 0.05528153 | lr: 0.00007270  | spend time: 0 days 12 hours 12 minutes 50 seconds
+epoch 15, iter 7801: loss: 0.05525257 | lr: 0.00007270  | spend time: 0 days 12 hours 13 minutes 32 seconds
+epoch 15, iter 7901: loss: 0.05541217 | lr: 0.00007270  | spend time: 0 days 12 hours 14 minutes 14 seconds
+epoch 15, iter 8001: loss: 0.05538675 | lr: 0.00007270  | spend time: 0 days 12 hours 14 minutes 56 seconds
+epoch 15, iter 8101: loss: 0.05691590 | lr: 0.00007270  | spend time: 0 days 12 hours 15 minutes 39 seconds
+epoch 15, iter 8201: loss: 0.05534870 | lr: 0.00007270  | spend time: 0 days 12 hours 16 minutes 21 seconds
+epoch 15, iter 8301: loss: 0.05534310 | lr: 0.00007270  | spend time: 0 days 12 hours 17 minutes  3 seconds
+epoch 15, iter 8401: loss: 0.05523800 | lr: 0.00007270  | spend time: 0 days 12 hours 17 minutes 46 seconds
+epoch 15, iter 8501: loss: 0.05525370 | lr: 0.00007270  | spend time: 0 days 12 hours 18 minutes 28 seconds
+epoch 15, iter 8601: loss: 0.05639144 | lr: 0.00007270  | spend time: 0 days 12 hours 19 minutes 10 seconds
+epoch 15, iter 8701: loss: 0.05502925 | lr: 0.00007270  | spend time: 0 days 12 hours 19 minutes 52 seconds
+epoch 15, iter 8801: loss: 0.05533084 | lr: 0.00007270  | spend time: 0 days 12 hours 20 minutes 34 seconds
+epoch 15, iter 8901: loss: 0.05546220 | lr: 0.00007270  | spend time: 0 days 12 hours 21 minutes 16 seconds
+validing 15/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8534 | AP_pedestrian: 0.8294 | AP_cyclist: 0.8565 | AP_car: 0.8889 
+AR_total: 0.8907 | AR_pedestrian: 0.8676 | AR_cyclist: 0.8853 | AR_car: 0.9344 
+epoch 16, iter    1: loss: 0.05761200 | lr: 0.00006913  | spend time: 0 days 12 hours 24 minutes 32 seconds
+epoch 16, iter  101: loss: 0.05484498 | lr: 0.00006913  | spend time: 0 days 12 hours 25 minutes 15 seconds
+epoch 16, iter  201: loss: 0.05495192 | lr: 0.00006913  | spend time: 0 days 12 hours 25 minutes 57 seconds
+epoch 16, iter  301: loss: 0.05552904 | lr: 0.00006913  | spend time: 0 days 12 hours 26 minutes 39 seconds
+epoch 16, iter  401: loss: 0.05599528 | lr: 0.00006913  | spend time: 0 days 12 hours 27 minutes 22 seconds
+epoch 16, iter  501: loss: 0.05431869 | lr: 0.00006913  | spend time: 0 days 12 hours 28 minutes  4 seconds
+epoch 16, iter  601: loss: 0.05351134 | lr: 0.00006913  | spend time: 0 days 12 hours 28 minutes 46 seconds
+epoch 16, iter  701: loss: 0.05568805 | lr: 0.00006913  | spend time: 0 days 12 hours 29 minutes 28 seconds
+epoch 16, iter  801: loss: 0.05551400 | lr: 0.00006913  | spend time: 0 days 12 hours 30 minutes 10 seconds
+epoch 16, iter  901: loss: 0.05458617 | lr: 0.00006913  | spend time: 0 days 12 hours 30 minutes 52 seconds
+epoch 16, iter 1001: loss: 0.05443033 | lr: 0.00006913  | spend time: 0 days 12 hours 31 minutes 35 seconds
+epoch 16, iter 1101: loss: 0.05534832 | lr: 0.00006913  | spend time: 0 days 12 hours 32 minutes 17 seconds
+epoch 16, iter 1201: loss: 0.05526783 | lr: 0.00006913  | spend time: 0 days 12 hours 32 minutes 59 seconds
+epoch 16, iter 1301: loss: 0.05332361 | lr: 0.00006913  | spend time: 0 days 12 hours 33 minutes 41 seconds
+epoch 16, iter 1401: loss: 0.05536791 | lr: 0.00006913  | spend time: 0 days 12 hours 34 minutes 23 seconds
+epoch 16, iter 1501: loss: 0.05600959 | lr: 0.00006913  | spend time: 0 days 12 hours 35 minutes  6 seconds
+epoch 16, iter 1601: loss: 0.05545796 | lr: 0.00006913  | spend time: 0 days 12 hours 35 minutes 48 seconds
+epoch 16, iter 1701: loss: 0.05531471 | lr: 0.00006913  | spend time: 0 days 12 hours 36 minutes 30 seconds
+epoch 16, iter 1801: loss: 0.05384360 | lr: 0.00006913  | spend time: 0 days 12 hours 37 minutes 12 seconds
+epoch 16, iter 1901: loss: 0.05542884 | lr: 0.00006913  | spend time: 0 days 12 hours 37 minutes 54 seconds
+epoch 16, iter 2001: loss: 0.05535702 | lr: 0.00006913  | spend time: 0 days 12 hours 38 minutes 36 seconds
+epoch 16, iter 2101: loss: 0.05683031 | lr: 0.00006913  | spend time: 0 days 12 hours 39 minutes 19 seconds
+epoch 16, iter 2201: loss: 0.05681840 | lr: 0.00006913  | spend time: 0 days 12 hours 40 minutes  1 seconds
+epoch 16, iter 2301: loss: 0.05448158 | lr: 0.00006913  | spend time: 0 days 12 hours 40 minutes 43 seconds
+epoch 16, iter 2401: loss: 0.05546632 | lr: 0.00006913  | spend time: 0 days 12 hours 41 minutes 25 seconds
+epoch 16, iter 2501: loss: 0.05659343 | lr: 0.00006913  | spend time: 0 days 12 hours 42 minutes  7 seconds
+epoch 16, iter 2601: loss: 0.05538628 | lr: 0.00006913  | spend time: 0 days 12 hours 42 minutes 50 seconds
+epoch 16, iter 2701: loss: 0.05397797 | lr: 0.00006913  | spend time: 0 days 12 hours 43 minutes 32 seconds
+epoch 16, iter 2801: loss: 0.05656363 | lr: 0.00006913  | spend time: 0 days 12 hours 44 minutes 14 seconds
+epoch 16, iter 2901: loss: 0.05526054 | lr: 0.00006913  | spend time: 0 days 12 hours 44 minutes 56 seconds
+epoch 16, iter 3001: loss: 0.05618950 | lr: 0.00006913  | spend time: 0 days 12 hours 45 minutes 38 seconds
+epoch 16, iter 3101: loss: 0.05521305 | lr: 0.00006913  | spend time: 0 days 12 hours 46 minutes 20 seconds
+epoch 16, iter 3201: loss: 0.05528048 | lr: 0.00006913  | spend time: 0 days 12 hours 47 minutes  2 seconds
+epoch 16, iter 3301: loss: 0.05521657 | lr: 0.00006913  | spend time: 0 days 12 hours 47 minutes 44 seconds
+epoch 16, iter 3401: loss: 0.05521304 | lr: 0.00006913  | spend time: 0 days 12 hours 48 minutes 27 seconds
+epoch 16, iter 3501: loss: 0.05548492 | lr: 0.00006913  | spend time: 0 days 12 hours 49 minutes  9 seconds
+epoch 16, iter 3601: loss: 0.05697871 | lr: 0.00006913  | spend time: 0 days 12 hours 49 minutes 51 seconds
+epoch 16, iter 3701: loss: 0.05440977 | lr: 0.00006913  | spend time: 0 days 12 hours 50 minutes 33 seconds
+epoch 16, iter 3801: loss: 0.05297359 | lr: 0.00006913  | spend time: 0 days 12 hours 51 minutes 15 seconds
+epoch 16, iter 3901: loss: 0.05530240 | lr: 0.00006913  | spend time: 0 days 12 hours 51 minutes 57 seconds
+epoch 16, iter 4001: loss: 0.05541903 | lr: 0.00006913  | spend time: 0 days 12 hours 52 minutes 39 seconds
+epoch 16, iter 4101: loss: 0.05597536 | lr: 0.00006913  | spend time: 0 days 12 hours 53 minutes 21 seconds
+epoch 16, iter 4201: loss: 0.05432341 | lr: 0.00006913  | spend time: 0 days 12 hours 54 minutes  3 seconds
+epoch 16, iter 4301: loss: 0.05552548 | lr: 0.00006913  | spend time: 0 days 12 hours 54 minutes 46 seconds
+epoch 16, iter 4401: loss: 0.05386331 | lr: 0.00006913  | spend time: 0 days 12 hours 55 minutes 28 seconds
+epoch 16, iter 4501: loss: 0.05413394 | lr: 0.00006913  | spend time: 0 days 12 hours 56 minutes 10 seconds
+epoch 16, iter 4601: loss: 0.05529910 | lr: 0.00006913  | spend time: 0 days 12 hours 56 minutes 52 seconds
+epoch 16, iter 4701: loss: 0.05548086 | lr: 0.00006913  | spend time: 0 days 12 hours 57 minutes 34 seconds
+epoch 16, iter 4801: loss: 0.05500366 | lr: 0.00006913  | spend time: 0 days 12 hours 58 minutes 16 seconds
+epoch 16, iter 4901: loss: 0.05621739 | lr: 0.00006913  | spend time: 0 days 12 hours 58 minutes 58 seconds
+epoch 16, iter 5001: loss: 0.05514641 | lr: 0.00006913  | spend time: 0 days 12 hours 59 minutes 40 seconds
+epoch 16, iter 5101: loss: 0.05533937 | lr: 0.00006913  | spend time: 0 days 13 hours  0 minutes 22 seconds
+epoch 16, iter 5201: loss: 0.05517811 | lr: 0.00006913  | spend time: 0 days 13 hours  1 minutes  4 seconds
+epoch 16, iter 5301: loss: 0.05603149 | lr: 0.00006913  | spend time: 0 days 13 hours  1 minutes 46 seconds
+epoch 16, iter 5401: loss: 0.05346451 | lr: 0.00006913  | spend time: 0 days 13 hours  2 minutes 29 seconds
+epoch 16, iter 5501: loss: 0.05544825 | lr: 0.00006913  | spend time: 0 days 13 hours  3 minutes 11 seconds
+epoch 16, iter 5601: loss: 0.05396565 | lr: 0.00006913  | spend time: 0 days 13 hours  3 minutes 53 seconds
+epoch 16, iter 5701: loss: 0.05540050 | lr: 0.00006913  | spend time: 0 days 13 hours  4 minutes 35 seconds
+epoch 16, iter 5801: loss: 0.05631159 | lr: 0.00006913  | spend time: 0 days 13 hours  5 minutes 17 seconds
+epoch 16, iter 5901: loss: 0.05613104 | lr: 0.00006913  | spend time: 0 days 13 hours  5 minutes 59 seconds
+epoch 16, iter 6001: loss: 0.05438766 | lr: 0.00006913  | spend time: 0 days 13 hours  6 minutes 41 seconds
+epoch 16, iter 6101: loss: 0.05473700 | lr: 0.00006913  | spend time: 0 days 13 hours  7 minutes 23 seconds
+epoch 16, iter 6201: loss: 0.05520638 | lr: 0.00006913  | spend time: 0 days 13 hours  8 minutes  5 seconds
+epoch 16, iter 6301: loss: 0.05532810 | lr: 0.00006913  | spend time: 0 days 13 hours  8 minutes 48 seconds
+epoch 16, iter 6401: loss: 0.05482469 | lr: 0.00006913  | spend time: 0 days 13 hours  9 minutes 30 seconds
+epoch 16, iter 6501: loss: 0.05546395 | lr: 0.00006913  | spend time: 0 days 13 hours 10 minutes 12 seconds
+epoch 16, iter 6601: loss: 0.05549366 | lr: 0.00006913  | spend time: 0 days 13 hours 10 minutes 54 seconds
+epoch 16, iter 6701: loss: 0.05551269 | lr: 0.00006913  | spend time: 0 days 13 hours 11 minutes 36 seconds
+epoch 16, iter 6801: loss: 0.05609211 | lr: 0.00006913  | spend time: 0 days 13 hours 12 minutes 18 seconds
+epoch 16, iter 6901: loss: 0.05479744 | lr: 0.00006913  | spend time: 0 days 13 hours 13 minutes  1 seconds
+epoch 16, iter 7001: loss: 0.05529939 | lr: 0.00006913  | spend time: 0 days 13 hours 13 minutes 43 seconds
+epoch 16, iter 7101: loss: 0.05530160 | lr: 0.00006913  | spend time: 0 days 13 hours 14 minutes 25 seconds
+epoch 16, iter 7201: loss: 0.05551143 | lr: 0.00006913  | spend time: 0 days 13 hours 15 minutes  7 seconds
+epoch 16, iter 7301: loss: 0.05781629 | lr: 0.00006913  | spend time: 0 days 13 hours 15 minutes 49 seconds
+epoch 16, iter 7401: loss: 0.05522686 | lr: 0.00006913  | spend time: 0 days 13 hours 16 minutes 31 seconds
+epoch 16, iter 7501: loss: 0.05532904 | lr: 0.00006913  | spend time: 0 days 13 hours 17 minutes 13 seconds
+epoch 16, iter 7601: loss: 0.05483820 | lr: 0.00006913  | spend time: 0 days 13 hours 17 minutes 55 seconds
+epoch 16, iter 7701: loss: 0.05561482 | lr: 0.00006913  | spend time: 0 days 13 hours 18 minutes 37 seconds
+epoch 16, iter 7801: loss: 0.05527223 | lr: 0.00006913  | spend time: 0 days 13 hours 19 minutes 20 seconds
+epoch 16, iter 7901: loss: 0.05531187 | lr: 0.00006913  | spend time: 0 days 13 hours 20 minutes  2 seconds
+epoch 16, iter 8001: loss: 0.05617913 | lr: 0.00006913  | spend time: 0 days 13 hours 20 minutes 44 seconds
+epoch 16, iter 8101: loss: 0.05534922 | lr: 0.00006913  | spend time: 0 days 13 hours 21 minutes 26 seconds
+epoch 16, iter 8201: loss: 0.05407838 | lr: 0.00006913  | spend time: 0 days 13 hours 22 minutes  8 seconds
+epoch 16, iter 8301: loss: 0.05349118 | lr: 0.00006913  | spend time: 0 days 13 hours 22 minutes 50 seconds
+epoch 16, iter 8401: loss: 0.05639397 | lr: 0.00006913  | spend time: 0 days 13 hours 23 minutes 32 seconds
+epoch 16, iter 8501: loss: 0.05619968 | lr: 0.00006913  | spend time: 0 days 13 hours 24 minutes 14 seconds
+epoch 16, iter 8601: loss: 0.05593787 | lr: 0.00006913  | spend time: 0 days 13 hours 24 minutes 56 seconds
+epoch 16, iter 8701: loss: 0.05517663 | lr: 0.00006913  | spend time: 0 days 13 hours 25 minutes 38 seconds
+epoch 16, iter 8801: loss: 0.05613629 | lr: 0.00006913  | spend time: 0 days 13 hours 26 minutes 20 seconds
+epoch 16, iter 8901: loss: 0.05583801 | lr: 0.00006913  | spend time: 0 days 13 hours 27 minutes  2 seconds
+validing 16/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8616 | AP_pedestrian: 0.8412 | AP_cyclist: 0.8672 | AP_car: 0.8887 
+AR_total: 0.8983 | AR_pedestrian: 0.8814 | AR_cyclist: 0.8910 | AR_car: 0.9340 
+epoch 17, iter    1: loss: 0.05507483 | lr: 0.00006545  | spend time: 0 days 13 hours 30 minutes 22 seconds
+epoch 17, iter  101: loss: 0.05518318 | lr: 0.00006545  | spend time: 0 days 13 hours 31 minutes  4 seconds
+epoch 17, iter  201: loss: 0.05463371 | lr: 0.00006545  | spend time: 0 days 13 hours 31 minutes 46 seconds
+epoch 17, iter  301: loss: 0.05535855 | lr: 0.00006545  | spend time: 0 days 13 hours 32 minutes 28 seconds
+epoch 17, iter  401: loss: 0.05546826 | lr: 0.00006545  | spend time: 0 days 13 hours 33 minutes 11 seconds
+epoch 17, iter  501: loss: 0.05550480 | lr: 0.00006545  | spend time: 0 days 13 hours 33 minutes 53 seconds
+epoch 17, iter  601: loss: 0.05379719 | lr: 0.00006545  | spend time: 0 days 13 hours 34 minutes 35 seconds
+epoch 17, iter  701: loss: 0.05551884 | lr: 0.00006545  | spend time: 0 days 13 hours 35 minutes 17 seconds
+epoch 17, iter  801: loss: 0.05506391 | lr: 0.00006545  | spend time: 0 days 13 hours 35 minutes 59 seconds
+epoch 17, iter  901: loss: 0.05407779 | lr: 0.00006545  | spend time: 0 days 13 hours 36 minutes 41 seconds
+epoch 17, iter 1001: loss: 0.05521627 | lr: 0.00006545  | spend time: 0 days 13 hours 37 minutes 24 seconds
+epoch 17, iter 1101: loss: 0.05326353 | lr: 0.00006545  | spend time: 0 days 13 hours 38 minutes  6 seconds
+epoch 17, iter 1201: loss: 0.05429260 | lr: 0.00006545  | spend time: 0 days 13 hours 38 minutes 48 seconds
+epoch 17, iter 1301: loss: 0.05799478 | lr: 0.00006545  | spend time: 0 days 13 hours 39 minutes 30 seconds
+epoch 17, iter 1401: loss: 0.05614543 | lr: 0.00006545  | spend time: 0 days 13 hours 40 minutes 12 seconds
+epoch 17, iter 1501: loss: 0.05332624 | lr: 0.00006545  | spend time: 0 days 13 hours 40 minutes 54 seconds
+epoch 17, iter 1601: loss: 0.05501051 | lr: 0.00006545  | spend time: 0 days 13 hours 41 minutes 36 seconds
+epoch 17, iter 1701: loss: 0.05653411 | lr: 0.00006545  | spend time: 0 days 13 hours 42 minutes 19 seconds
+epoch 17, iter 1801: loss: 0.05396543 | lr: 0.00006545  | spend time: 0 days 13 hours 43 minutes  1 seconds
+epoch 17, iter 1901: loss: 0.05529118 | lr: 0.00006545  | spend time: 0 days 13 hours 43 minutes 43 seconds
+epoch 17, iter 2001: loss: 0.05619905 | lr: 0.00006545  | spend time: 0 days 13 hours 44 minutes 25 seconds
+epoch 17, iter 2101: loss: 0.05562138 | lr: 0.00006545  | spend time: 0 days 13 hours 45 minutes  7 seconds
+epoch 17, iter 2201: loss: 0.05476220 | lr: 0.00006545  | spend time: 0 days 13 hours 45 minutes 50 seconds
+epoch 17, iter 2301: loss: 0.05532088 | lr: 0.00006545  | spend time: 0 days 13 hours 46 minutes 32 seconds
+epoch 17, iter 2401: loss: 0.05382923 | lr: 0.00006545  | spend time: 0 days 13 hours 47 minutes 14 seconds
+epoch 17, iter 2501: loss: 0.05535743 | lr: 0.00006545  | spend time: 0 days 13 hours 47 minutes 57 seconds
+epoch 17, iter 2601: loss: 0.05523135 | lr: 0.00006545  | spend time: 0 days 13 hours 48 minutes 39 seconds
+epoch 17, iter 2701: loss: 0.05414090 | lr: 0.00006545  | spend time: 0 days 13 hours 49 minutes 21 seconds
+epoch 17, iter 2801: loss: 0.05562561 | lr: 0.00006545  | spend time: 0 days 13 hours 50 minutes  3 seconds
+epoch 17, iter 2901: loss: 0.05496788 | lr: 0.00006545  | spend time: 0 days 13 hours 50 minutes 45 seconds
+epoch 17, iter 3001: loss: 0.05619504 | lr: 0.00006545  | spend time: 0 days 13 hours 51 minutes 28 seconds
+epoch 17, iter 3101: loss: 0.05515336 | lr: 0.00006545  | spend time: 0 days 13 hours 52 minutes 10 seconds
+epoch 17, iter 3201: loss: 0.05536604 | lr: 0.00006545  | spend time: 0 days 13 hours 52 minutes 52 seconds
+epoch 17, iter 3301: loss: 0.05678837 | lr: 0.00006545  | spend time: 0 days 13 hours 53 minutes 34 seconds
+epoch 17, iter 3401: loss: 0.05598447 | lr: 0.00006545  | spend time: 0 days 13 hours 54 minutes 16 seconds
+epoch 17, iter 3501: loss: 0.05653044 | lr: 0.00006545  | spend time: 0 days 13 hours 54 minutes 59 seconds
+epoch 17, iter 3601: loss: 0.05536645 | lr: 0.00006545  | spend time: 0 days 13 hours 55 minutes 41 seconds
+epoch 17, iter 3701: loss: 0.05334233 | lr: 0.00006545  | spend time: 0 days 13 hours 56 minutes 23 seconds
+epoch 17, iter 3801: loss: 0.05514791 | lr: 0.00006545  | spend time: 0 days 13 hours 57 minutes  5 seconds
+epoch 17, iter 3901: loss: 0.05513448 | lr: 0.00006545  | spend time: 0 days 13 hours 57 minutes 48 seconds
+epoch 17, iter 4001: loss: 0.05407156 | lr: 0.00006545  | spend time: 0 days 13 hours 58 minutes 30 seconds
+epoch 17, iter 4101: loss: 0.05597789 | lr: 0.00006545  | spend time: 0 days 13 hours 59 minutes 12 seconds
+epoch 17, iter 4201: loss: 0.05550222 | lr: 0.00006545  | spend time: 0 days 13 hours 59 minutes 54 seconds
+epoch 17, iter 4301: loss: 0.05446917 | lr: 0.00006545  | spend time: 0 days 14 hours  0 minutes 36 seconds
+epoch 17, iter 4401: loss: 0.05352436 | lr: 0.00006545  | spend time: 0 days 14 hours  1 minutes 18 seconds
+epoch 17, iter 4501: loss: 0.05589344 | lr: 0.00006545  | spend time: 0 days 14 hours  2 minutes  1 seconds
+epoch 17, iter 4601: loss: 0.05533663 | lr: 0.00006545  | spend time: 0 days 14 hours  2 minutes 43 seconds
+epoch 17, iter 4701: loss: 0.05590156 | lr: 0.00006545  | spend time: 0 days 14 hours  3 minutes 25 seconds
+epoch 17, iter 4801: loss: 0.05679704 | lr: 0.00006545  | spend time: 0 days 14 hours  4 minutes  7 seconds
+epoch 17, iter 4901: loss: 0.05437171 | lr: 0.00006545  | spend time: 0 days 14 hours  4 minutes 49 seconds
+epoch 17, iter 5001: loss: 0.05543867 | lr: 0.00006545  | spend time: 0 days 14 hours  5 minutes 32 seconds
+epoch 17, iter 5101: loss: 0.05541499 | lr: 0.00006545  | spend time: 0 days 14 hours  6 minutes 14 seconds
+epoch 17, iter 5201: loss: 0.05405316 | lr: 0.00006545  | spend time: 0 days 14 hours  6 minutes 56 seconds
+epoch 17, iter 5301: loss: 0.05551240 | lr: 0.00006545  | spend time: 0 days 14 hours  7 minutes 38 seconds
+epoch 17, iter 5401: loss: 0.05602234 | lr: 0.00006545  | spend time: 0 days 14 hours  8 minutes 20 seconds
+epoch 17, iter 5501: loss: 0.05538056 | lr: 0.00006545  | spend time: 0 days 14 hours  9 minutes  2 seconds
+epoch 17, iter 5601: loss: 0.05542712 | lr: 0.00006545  | spend time: 0 days 14 hours  9 minutes 45 seconds
+epoch 17, iter 5701: loss: 0.05519466 | lr: 0.00006545  | spend time: 0 days 14 hours 10 minutes 27 seconds
+epoch 17, iter 5801: loss: 0.05554143 | lr: 0.00006545  | spend time: 0 days 14 hours 11 minutes  9 seconds
+epoch 17, iter 5901: loss: 0.05502097 | lr: 0.00006545  | spend time: 0 days 14 hours 11 minutes 51 seconds
+epoch 17, iter 6001: loss: 0.05614249 | lr: 0.00006545  | spend time: 0 days 14 hours 12 minutes 34 seconds
+epoch 17, iter 6101: loss: 0.05598345 | lr: 0.00006545  | spend time: 0 days 14 hours 13 minutes 16 seconds
+epoch 17, iter 6201: loss: 0.05334985 | lr: 0.00006545  | spend time: 0 days 14 hours 13 minutes 58 seconds
+epoch 17, iter 6301: loss: 0.05496496 | lr: 0.00006545  | spend time: 0 days 14 hours 14 minutes 40 seconds
+epoch 17, iter 6401: loss: 0.05619384 | lr: 0.00006545  | spend time: 0 days 14 hours 15 minutes 22 seconds
+epoch 17, iter 6501: loss: 0.05502417 | lr: 0.00006545  | spend time: 0 days 14 hours 16 minutes  4 seconds
+epoch 17, iter 6601: loss: 0.05532012 | lr: 0.00006545  | spend time: 0 days 14 hours 16 minutes 46 seconds
+epoch 17, iter 6701: loss: 0.05470344 | lr: 0.00006545  | spend time: 0 days 14 hours 17 minutes 29 seconds
+epoch 17, iter 6801: loss: 0.05614108 | lr: 0.00006545  | spend time: 0 days 14 hours 18 minutes 11 seconds
+epoch 17, iter 6901: loss: 0.05541972 | lr: 0.00006545  | spend time: 0 days 14 hours 18 minutes 53 seconds
+epoch 17, iter 7001: loss: 0.05407246 | lr: 0.00006545  | spend time: 0 days 14 hours 19 minutes 35 seconds
+epoch 17, iter 7101: loss: 0.05392112 | lr: 0.00006545  | spend time: 0 days 14 hours 20 minutes 17 seconds
+epoch 17, iter 7201: loss: 0.05536752 | lr: 0.00006545  | spend time: 0 days 14 hours 20 minutes 59 seconds
+epoch 17, iter 7301: loss: 0.05523106 | lr: 0.00006545  | spend time: 0 days 14 hours 21 minutes 41 seconds
+epoch 17, iter 7401: loss: 0.05471803 | lr: 0.00006545  | spend time: 0 days 14 hours 22 minutes 24 seconds
+epoch 17, iter 7501: loss: 0.05338600 | lr: 0.00006545  | spend time: 0 days 14 hours 23 minutes  6 seconds
+epoch 17, iter 7601: loss: 0.05553869 | lr: 0.00006545  | spend time: 0 days 14 hours 23 minutes 48 seconds
+epoch 17, iter 7701: loss: 0.05386961 | lr: 0.00006545  | spend time: 0 days 14 hours 24 minutes 30 seconds
+epoch 17, iter 7801: loss: 0.05406833 | lr: 0.00006545  | spend time: 0 days 14 hours 25 minutes 12 seconds
+epoch 17, iter 7901: loss: 0.05615308 | lr: 0.00006545  | spend time: 0 days 14 hours 25 minutes 55 seconds
+epoch 17, iter 8001: loss: 0.05504693 | lr: 0.00006545  | spend time: 0 days 14 hours 26 minutes 37 seconds
+epoch 17, iter 8101: loss: 0.05446663 | lr: 0.00006545  | spend time: 0 days 14 hours 27 minutes 19 seconds
+epoch 17, iter 8201: loss: 0.05422886 | lr: 0.00006545  | spend time: 0 days 14 hours 28 minutes  1 seconds
+epoch 17, iter 8301: loss: 0.05348758 | lr: 0.00006545  | spend time: 0 days 14 hours 28 minutes 43 seconds
+epoch 17, iter 8401: loss: 0.05542511 | lr: 0.00006545  | spend time: 0 days 14 hours 29 minutes 25 seconds
+epoch 17, iter 8501: loss: 0.05574751 | lr: 0.00006545  | spend time: 0 days 14 hours 30 minutes  8 seconds
+epoch 17, iter 8601: loss: 0.05438704 | lr: 0.00006545  | spend time: 0 days 14 hours 30 minutes 50 seconds
+epoch 17, iter 8701: loss: 0.05544750 | lr: 0.00006545  | spend time: 0 days 14 hours 31 minutes 32 seconds
+epoch 17, iter 8801: loss: 0.05538703 | lr: 0.00006545  | spend time: 0 days 14 hours 32 minutes 14 seconds
+epoch 17, iter 8901: loss: 0.05565292 | lr: 0.00006545  | spend time: 0 days 14 hours 32 minutes 56 seconds
+validing 17/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8477 | AP_pedestrian: 0.8164 | AP_cyclist: 0.8518 | AP_car: 0.8939 
+AR_total: 0.8879 | AR_pedestrian: 0.8570 | AR_cyclist: 0.8872 | AR_car: 0.9387 
+epoch 18, iter    1: loss: 0.05493262 | lr: 0.00006167  | spend time: 0 days 14 hours 36 minutes 17 seconds
+epoch 18, iter  101: loss: 0.05557163 | lr: 0.00006167  | spend time: 0 days 14 hours 37 minutes  0 seconds
+epoch 18, iter  201: loss: 0.05348248 | lr: 0.00006167  | spend time: 0 days 14 hours 37 minutes 42 seconds
+epoch 18, iter  301: loss: 0.05544744 | lr: 0.00006167  | spend time: 0 days 14 hours 38 minutes 24 seconds
+epoch 18, iter  401: loss: 0.05569583 | lr: 0.00006167  | spend time: 0 days 14 hours 39 minutes  6 seconds
+epoch 18, iter  501: loss: 0.05590085 | lr: 0.00006167  | spend time: 0 days 14 hours 39 minutes 48 seconds
+epoch 18, iter  601: loss: 0.05529323 | lr: 0.00006167  | spend time: 0 days 14 hours 40 minutes 30 seconds
+epoch 18, iter  701: loss: 0.05552205 | lr: 0.00006167  | spend time: 0 days 14 hours 41 minutes 13 seconds
+epoch 18, iter  801: loss: 0.05585570 | lr: 0.00006167  | spend time: 0 days 14 hours 41 minutes 55 seconds
+epoch 18, iter  901: loss: 0.05519137 | lr: 0.00006167  | spend time: 0 days 14 hours 42 minutes 37 seconds
+epoch 18, iter 1001: loss: 0.05523986 | lr: 0.00006167  | spend time: 0 days 14 hours 43 minutes 20 seconds
+epoch 18, iter 1101: loss: 0.05493435 | lr: 0.00006167  | spend time: 0 days 14 hours 44 minutes  2 seconds
+epoch 18, iter 1201: loss: 0.05515162 | lr: 0.00006167  | spend time: 0 days 14 hours 44 minutes 44 seconds
+epoch 18, iter 1301: loss: 0.05465803 | lr: 0.00006167  | spend time: 0 days 14 hours 45 minutes 26 seconds
+epoch 18, iter 1401: loss: 0.05644361 | lr: 0.00006167  | spend time: 0 days 14 hours 46 minutes  8 seconds
+epoch 18, iter 1501: loss: 0.05193707 | lr: 0.00006167  | spend time: 0 days 14 hours 46 minutes 51 seconds
+epoch 18, iter 1601: loss: 0.05534859 | lr: 0.00006167  | spend time: 0 days 14 hours 47 minutes 33 seconds
+epoch 18, iter 1701: loss: 0.05614728 | lr: 0.00006167  | spend time: 0 days 14 hours 48 minutes 15 seconds
+epoch 18, iter 1801: loss: 0.05509005 | lr: 0.00006167  | spend time: 0 days 14 hours 48 minutes 57 seconds
+epoch 18, iter 1901: loss: 0.05569120 | lr: 0.00006167  | spend time: 0 days 14 hours 49 minutes 39 seconds
+epoch 18, iter 2001: loss: 0.05491070 | lr: 0.00006167  | spend time: 0 days 14 hours 50 minutes 22 seconds
+epoch 18, iter 2101: loss: 0.05503206 | lr: 0.00006167  | spend time: 0 days 14 hours 51 minutes  4 seconds
+epoch 18, iter 2201: loss: 0.05509933 | lr: 0.00006167  | spend time: 0 days 14 hours 51 minutes 46 seconds
+epoch 18, iter 2301: loss: 0.05410920 | lr: 0.00006167  | spend time: 0 days 14 hours 52 minutes 28 seconds
+epoch 18, iter 2401: loss: 0.05545991 | lr: 0.00006167  | spend time: 0 days 14 hours 53 minutes 10 seconds
+epoch 18, iter 2501: loss: 0.05546590 | lr: 0.00006167  | spend time: 0 days 14 hours 53 minutes 53 seconds
+epoch 18, iter 2601: loss: 0.05378925 | lr: 0.00006167  | spend time: 0 days 14 hours 54 minutes 35 seconds
+epoch 18, iter 2701: loss: 0.05467207 | lr: 0.00006167  | spend time: 0 days 14 hours 55 minutes 17 seconds
+epoch 18, iter 2801: loss: 0.05487693 | lr: 0.00006167  | spend time: 0 days 14 hours 55 minutes 59 seconds
+epoch 18, iter 2901: loss: 0.05549891 | lr: 0.00006167  | spend time: 0 days 14 hours 56 minutes 41 seconds
+epoch 18, iter 3001: loss: 0.05598794 | lr: 0.00006167  | spend time: 0 days 14 hours 57 minutes 24 seconds
+epoch 18, iter 3101: loss: 0.05523505 | lr: 0.00006167  | spend time: 0 days 14 hours 58 minutes  6 seconds
+epoch 18, iter 3201: loss: 0.05652523 | lr: 0.00006167  | spend time: 0 days 14 hours 58 minutes 48 seconds
+epoch 18, iter 3301: loss: 0.05537920 | lr: 0.00006167  | spend time: 0 days 14 hours 59 minutes 30 seconds
+epoch 18, iter 3401: loss: 0.05463368 | lr: 0.00006167  | spend time: 0 days 15 hours  0 minutes 12 seconds
+epoch 18, iter 3501: loss: 0.05537615 | lr: 0.00006167  | spend time: 0 days 15 hours  0 minutes 54 seconds
+epoch 18, iter 3601: loss: 0.05630582 | lr: 0.00006167  | spend time: 0 days 15 hours  1 minutes 37 seconds
+epoch 18, iter 3701: loss: 0.05370690 | lr: 0.00006167  | spend time: 0 days 15 hours  2 minutes 19 seconds
+epoch 18, iter 3801: loss: 0.05529693 | lr: 0.00006167  | spend time: 0 days 15 hours  3 minutes  1 seconds
+epoch 18, iter 3901: loss: 0.05539655 | lr: 0.00006167  | spend time: 0 days 15 hours  3 minutes 43 seconds
+epoch 18, iter 4001: loss: 0.05542408 | lr: 0.00006167  | spend time: 0 days 15 hours  4 minutes 25 seconds
+epoch 18, iter 4101: loss: 0.05507490 | lr: 0.00006167  | spend time: 0 days 15 hours  5 minutes  8 seconds
+epoch 18, iter 4201: loss: 0.05451149 | lr: 0.00006167  | spend time: 0 days 15 hours  5 minutes 50 seconds
+epoch 18, iter 4301: loss: 0.05444827 | lr: 0.00006167  | spend time: 0 days 15 hours  6 minutes 32 seconds
+epoch 18, iter 4401: loss: 0.05523409 | lr: 0.00006167  | spend time: 0 days 15 hours  7 minutes 14 seconds
+epoch 18, iter 4501: loss: 0.05596599 | lr: 0.00006167  | spend time: 0 days 15 hours  7 minutes 56 seconds
+epoch 18, iter 4601: loss: 0.05497909 | lr: 0.00006167  | spend time: 0 days 15 hours  8 minutes 39 seconds
+epoch 18, iter 4701: loss: 0.05439356 | lr: 0.00006167  | spend time: 0 days 15 hours  9 minutes 21 seconds
+epoch 18, iter 4801: loss: 0.05632528 | lr: 0.00006167  | spend time: 0 days 15 hours 10 minutes  3 seconds
+epoch 18, iter 4901: loss: 0.05551738 | lr: 0.00006167  | spend time: 0 days 15 hours 10 minutes 45 seconds
+epoch 18, iter 5001: loss: 0.05536927 | lr: 0.00006167  | spend time: 0 days 15 hours 11 minutes 28 seconds
+epoch 18, iter 5101: loss: 0.05526010 | lr: 0.00006167  | spend time: 0 days 15 hours 12 minutes 10 seconds
+epoch 18, iter 5201: loss: 0.05548217 | lr: 0.00006167  | spend time: 0 days 15 hours 12 minutes 52 seconds
+epoch 18, iter 5301: loss: 0.05553261 | lr: 0.00006167  | spend time: 0 days 15 hours 13 minutes 34 seconds
+epoch 18, iter 5401: loss: 0.05388170 | lr: 0.00006167  | spend time: 0 days 15 hours 14 minutes 16 seconds
+epoch 18, iter 5501: loss: 0.05524640 | lr: 0.00006167  | spend time: 0 days 15 hours 14 minutes 58 seconds
+epoch 18, iter 5601: loss: 0.05452540 | lr: 0.00006167  | spend time: 0 days 15 hours 15 minutes 40 seconds
+epoch 18, iter 5701: loss: 0.05550586 | lr: 0.00006167  | spend time: 0 days 15 hours 16 minutes 23 seconds
+epoch 18, iter 5801: loss: 0.05522986 | lr: 0.00006167  | spend time: 0 days 15 hours 17 minutes  5 seconds
+epoch 18, iter 5901: loss: 0.05468643 | lr: 0.00006167  | spend time: 0 days 15 hours 17 minutes 47 seconds
+epoch 18, iter 6001: loss: 0.05677599 | lr: 0.00006167  | spend time: 0 days 15 hours 18 minutes 29 seconds
+epoch 18, iter 6101: loss: 0.05548721 | lr: 0.00006167  | spend time: 0 days 15 hours 19 minutes 11 seconds
+epoch 18, iter 6201: loss: 0.05381378 | lr: 0.00006167  | spend time: 0 days 15 hours 19 minutes 54 seconds
+epoch 18, iter 6301: loss: 0.05498800 | lr: 0.00006167  | spend time: 0 days 15 hours 20 minutes 36 seconds
+epoch 18, iter 6401: loss: 0.05543187 | lr: 0.00006167  | spend time: 0 days 15 hours 21 minutes 18 seconds
+epoch 18, iter 6501: loss: 0.05598202 | lr: 0.00006167  | spend time: 0 days 15 hours 22 minutes  0 seconds
+epoch 18, iter 6601: loss: 0.05560729 | lr: 0.00006167  | spend time: 0 days 15 hours 22 minutes 42 seconds
+epoch 18, iter 6701: loss: 0.05538229 | lr: 0.00006167  | spend time: 0 days 15 hours 23 minutes 25 seconds
+epoch 18, iter 6801: loss: 0.05571542 | lr: 0.00006167  | spend time: 0 days 15 hours 24 minutes  7 seconds
+epoch 18, iter 6901: loss: 0.05650835 | lr: 0.00006167  | spend time: 0 days 15 hours 24 minutes 49 seconds
+epoch 18, iter 7001: loss: 0.05478827 | lr: 0.00006167  | spend time: 0 days 15 hours 25 minutes 31 seconds
+epoch 18, iter 7101: loss: 0.05514445 | lr: 0.00006167  | spend time: 0 days 15 hours 26 minutes 13 seconds
+epoch 18, iter 7201: loss: 0.05644514 | lr: 0.00006167  | spend time: 0 days 15 hours 26 minutes 56 seconds
+epoch 18, iter 7301: loss: 0.05556937 | lr: 0.00006167  | spend time: 0 days 15 hours 27 minutes 38 seconds
+epoch 18, iter 7401: loss: 0.05527100 | lr: 0.00006167  | spend time: 0 days 15 hours 28 minutes 20 seconds
+epoch 18, iter 7501: loss: 0.05483105 | lr: 0.00006167  | spend time: 0 days 15 hours 29 minutes  2 seconds
+epoch 18, iter 7601: loss: 0.05590492 | lr: 0.00006167  | spend time: 0 days 15 hours 29 minutes 44 seconds
+epoch 18, iter 7701: loss: 0.05400432 | lr: 0.00006167  | spend time: 0 days 15 hours 30 minutes 27 seconds
+epoch 18, iter 7801: loss: 0.05348203 | lr: 0.00006167  | spend time: 0 days 15 hours 31 minutes  9 seconds
+epoch 18, iter 7901: loss: 0.05510344 | lr: 0.00006167  | spend time: 0 days 15 hours 31 minutes 51 seconds
+epoch 18, iter 8001: loss: 0.05536269 | lr: 0.00006167  | spend time: 0 days 15 hours 32 minutes 33 seconds
+epoch 18, iter 8101: loss: 0.05495162 | lr: 0.00006167  | spend time: 0 days 15 hours 33 minutes 15 seconds
+epoch 18, iter 8201: loss: 0.05518869 | lr: 0.00006167  | spend time: 0 days 15 hours 33 minutes 57 seconds
+epoch 18, iter 8301: loss: 0.05504267 | lr: 0.00006167  | spend time: 0 days 15 hours 34 minutes 40 seconds
+epoch 18, iter 8401: loss: 0.05653305 | lr: 0.00006167  | spend time: 0 days 15 hours 35 minutes 22 seconds
+epoch 18, iter 8501: loss: 0.05477113 | lr: 0.00006167  | spend time: 0 days 15 hours 36 minutes  4 seconds
+epoch 18, iter 8601: loss: 0.05517600 | lr: 0.00006167  | spend time: 0 days 15 hours 36 minutes 46 seconds
+epoch 18, iter 8701: loss: 0.05537536 | lr: 0.00006167  | spend time: 0 days 15 hours 37 minutes 28 seconds
+epoch 18, iter 8801: loss: 0.05539533 | lr: 0.00006167  | spend time: 0 days 15 hours 38 minutes 11 seconds
+epoch 18, iter 8901: loss: 0.05577416 | lr: 0.00006167  | spend time: 0 days 15 hours 38 minutes 53 seconds
+validing 18/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8370 | AP_pedestrian: 0.8158 | AP_cyclist: 0.8322 | AP_car: 0.8768 
+AR_total: 0.8805 | AR_pedestrian: 0.8595 | AR_cyclist: 0.8724 | AR_car: 0.9236 
+epoch 19, iter    1: loss: 0.05613958 | lr: 0.00005782  | spend time: 0 days 15 hours 42 minutes 13 seconds
+epoch 19, iter  101: loss: 0.05546239 | lr: 0.00005782  | spend time: 0 days 15 hours 42 minutes 55 seconds
+epoch 19, iter  201: loss: 0.05535121 | lr: 0.00005782  | spend time: 0 days 15 hours 43 minutes 37 seconds
+epoch 19, iter  301: loss: 0.05509799 | lr: 0.00005782  | spend time: 0 days 15 hours 44 minutes 19 seconds
+epoch 19, iter  401: loss: 0.05499290 | lr: 0.00005782  | spend time: 0 days 15 hours 45 minutes  2 seconds
+epoch 19, iter  501: loss: 0.05618786 | lr: 0.00005782  | spend time: 0 days 15 hours 45 minutes 44 seconds
+epoch 19, iter  601: loss: 0.05477094 | lr: 0.00005782  | spend time: 0 days 15 hours 46 minutes 26 seconds
+epoch 19, iter  701: loss: 0.05519808 | lr: 0.00005782  | spend time: 0 days 15 hours 47 minutes  8 seconds
+epoch 19, iter  801: loss: 0.05613900 | lr: 0.00005782  | spend time: 0 days 15 hours 47 minutes 50 seconds
+epoch 19, iter  901: loss: 0.05540171 | lr: 0.00005782  | spend time: 0 days 15 hours 48 minutes 33 seconds
+epoch 19, iter 1001: loss: 0.05615192 | lr: 0.00005782  | spend time: 0 days 15 hours 49 minutes 15 seconds
+epoch 19, iter 1101: loss: 0.05654339 | lr: 0.00005782  | spend time: 0 days 15 hours 49 minutes 57 seconds
+epoch 19, iter 1201: loss: 0.05591143 | lr: 0.00005782  | spend time: 0 days 15 hours 50 minutes 39 seconds
+epoch 19, iter 1301: loss: 0.05639620 | lr: 0.00005782  | spend time: 0 days 15 hours 51 minutes 21 seconds
+epoch 19, iter 1401: loss: 0.05546394 | lr: 0.00005782  | spend time: 0 days 15 hours 52 minutes  3 seconds
+epoch 19, iter 1501: loss: 0.05487561 | lr: 0.00005782  | spend time: 0 days 15 hours 52 minutes 46 seconds
+epoch 19, iter 1601: loss: 0.05454607 | lr: 0.00005782  | spend time: 0 days 15 hours 53 minutes 28 seconds
+epoch 19, iter 1701: loss: 0.05493942 | lr: 0.00005782  | spend time: 0 days 15 hours 54 minutes 10 seconds
+epoch 19, iter 1801: loss: 0.05529738 | lr: 0.00005782  | spend time: 0 days 15 hours 54 minutes 52 seconds
+epoch 19, iter 1901: loss: 0.05492363 | lr: 0.00005782  | spend time: 0 days 15 hours 55 minutes 34 seconds
+epoch 19, iter 2001: loss: 0.05540396 | lr: 0.00005782  | spend time: 0 days 15 hours 56 minutes 17 seconds
+epoch 19, iter 2101: loss: 0.05652249 | lr: 0.00005782  | spend time: 0 days 15 hours 56 minutes 59 seconds
+epoch 19, iter 2201: loss: 0.05538157 | lr: 0.00005782  | spend time: 0 days 15 hours 57 minutes 41 seconds
+epoch 19, iter 2301: loss: 0.05516860 | lr: 0.00005782  | spend time: 0 days 15 hours 58 minutes 23 seconds
+epoch 19, iter 2401: loss: 0.05497953 | lr: 0.00005782  | spend time: 0 days 15 hours 59 minutes  5 seconds
+epoch 19, iter 2501: loss: 0.05324372 | lr: 0.00005782  | spend time: 0 days 15 hours 59 minutes 47 seconds
+epoch 19, iter 2601: loss: 0.05455191 | lr: 0.00005782  | spend time: 0 days 16 hours  0 minutes 30 seconds
+epoch 19, iter 2701: loss: 0.05500527 | lr: 0.00005782  | spend time: 0 days 16 hours  1 minutes 12 seconds
+epoch 19, iter 2801: loss: 0.05606449 | lr: 0.00005782  | spend time: 0 days 16 hours  1 minutes 54 seconds
+epoch 19, iter 2901: loss: 0.05531722 | lr: 0.00005782  | spend time: 0 days 16 hours  2 minutes 36 seconds
+epoch 19, iter 3001: loss: 0.05362862 | lr: 0.00005782  | spend time: 0 days 16 hours  3 minutes 18 seconds
+epoch 19, iter 3101: loss: 0.05434351 | lr: 0.00005782  | spend time: 0 days 16 hours  4 minutes  0 seconds
+epoch 19, iter 3201: loss: 0.05436323 | lr: 0.00005782  | spend time: 0 days 16 hours  4 minutes 43 seconds
+epoch 19, iter 3301: loss: 0.05478390 | lr: 0.00005782  | spend time: 0 days 16 hours  5 minutes 25 seconds
+epoch 19, iter 3401: loss: 0.05519322 | lr: 0.00005782  | spend time: 0 days 16 hours  6 minutes  7 seconds
+epoch 19, iter 3501: loss: 0.05485137 | lr: 0.00005782  | spend time: 0 days 16 hours  6 minutes 49 seconds
+epoch 19, iter 3601: loss: 0.05599484 | lr: 0.00005782  | spend time: 0 days 16 hours  7 minutes 31 seconds
+epoch 19, iter 3701: loss: 0.05535206 | lr: 0.00005782  | spend time: 0 days 16 hours  8 minutes 13 seconds
+epoch 19, iter 3801: loss: 0.05553147 | lr: 0.00005782  | spend time: 0 days 16 hours  8 minutes 55 seconds
+epoch 19, iter 3901: loss: 0.05547740 | lr: 0.00005782  | spend time: 0 days 16 hours  9 minutes 38 seconds
+epoch 19, iter 4001: loss: 0.05457602 | lr: 0.00005782  | spend time: 0 days 16 hours 10 minutes 20 seconds
+epoch 19, iter 4101: loss: 0.05505279 | lr: 0.00005782  | spend time: 0 days 16 hours 11 minutes  2 seconds
+epoch 19, iter 4201: loss: 0.05523873 | lr: 0.00005782  | spend time: 0 days 16 hours 11 minutes 44 seconds
+epoch 19, iter 4301: loss: 0.05519485 | lr: 0.00005782  | spend time: 0 days 16 hours 12 minutes 26 seconds
+epoch 19, iter 4401: loss: 0.05421441 | lr: 0.00005782  | spend time: 0 days 16 hours 13 minutes  8 seconds
+epoch 19, iter 4501: loss: 0.05614896 | lr: 0.00005782  | spend time: 0 days 16 hours 13 minutes 50 seconds
+epoch 19, iter 4601: loss: 0.05514687 | lr: 0.00005782  | spend time: 0 days 16 hours 14 minutes 33 seconds
+epoch 19, iter 4701: loss: 0.05468148 | lr: 0.00005782  | spend time: 0 days 16 hours 15 minutes 15 seconds
+epoch 19, iter 4801: loss: 0.05486910 | lr: 0.00005782  | spend time: 0 days 16 hours 15 minutes 57 seconds
+epoch 19, iter 4901: loss: 0.05515093 | lr: 0.00005782  | spend time: 0 days 16 hours 16 minutes 39 seconds
+epoch 19, iter 5001: loss: 0.05534145 | lr: 0.00005782  | spend time: 0 days 16 hours 17 minutes 21 seconds
+epoch 19, iter 5101: loss: 0.05545815 | lr: 0.00005782  | spend time: 0 days 16 hours 18 minutes  3 seconds
+epoch 19, iter 5201: loss: 0.05552000 | lr: 0.00005782  | spend time: 0 days 16 hours 18 minutes 45 seconds
+epoch 19, iter 5301: loss: 0.05599136 | lr: 0.00005782  | spend time: 0 days 16 hours 19 minutes 28 seconds
+epoch 19, iter 5401: loss: 0.05544090 | lr: 0.00005782  | spend time: 0 days 16 hours 20 minutes 10 seconds
+epoch 19, iter 5501: loss: 0.05533203 | lr: 0.00005782  | spend time: 0 days 16 hours 20 minutes 52 seconds
+epoch 19, iter 5601: loss: 0.05484706 | lr: 0.00005782  | spend time: 0 days 16 hours 21 minutes 34 seconds
+epoch 19, iter 5701: loss: 0.05480843 | lr: 0.00005782  | spend time: 0 days 16 hours 22 minutes 16 seconds
+epoch 19, iter 5801: loss: 0.05361237 | lr: 0.00005782  | spend time: 0 days 16 hours 22 minutes 58 seconds
+epoch 19, iter 5901: loss: 0.05543941 | lr: 0.00005782  | spend time: 0 days 16 hours 23 minutes 40 seconds
+epoch 19, iter 6001: loss: 0.05567598 | lr: 0.00005782  | spend time: 0 days 16 hours 24 minutes 22 seconds
+epoch 19, iter 6101: loss: 0.05665908 | lr: 0.00005782  | spend time: 0 days 16 hours 25 minutes  4 seconds
+epoch 19, iter 6201: loss: 0.05520606 | lr: 0.00005782  | spend time: 0 days 16 hours 25 minutes 47 seconds
+epoch 19, iter 6301: loss: 0.05554779 | lr: 0.00005782  | spend time: 0 days 16 hours 26 minutes 29 seconds
+epoch 19, iter 6401: loss: 0.05562552 | lr: 0.00005782  | spend time: 0 days 16 hours 27 minutes 11 seconds
+epoch 19, iter 6501: loss: 0.05570691 | lr: 0.00005782  | spend time: 0 days 16 hours 27 minutes 53 seconds
+epoch 19, iter 6601: loss: 0.05528203 | lr: 0.00005782  | spend time: 0 days 16 hours 28 minutes 35 seconds
+epoch 19, iter 6701: loss: 0.05621170 | lr: 0.00005782  | spend time: 0 days 16 hours 29 minutes 17 seconds
+epoch 19, iter 6801: loss: 0.05522987 | lr: 0.00005782  | spend time: 0 days 16 hours 29 minutes 59 seconds
+epoch 19, iter 6901: loss: 0.05535525 | lr: 0.00005782  | spend time: 0 days 16 hours 30 minutes 41 seconds
+epoch 19, iter 7001: loss: 0.05656646 | lr: 0.00005782  | spend time: 0 days 16 hours 31 minutes 23 seconds
+epoch 19, iter 7101: loss: 0.05501177 | lr: 0.00005782  | spend time: 0 days 16 hours 32 minutes  6 seconds
+epoch 19, iter 7201: loss: 0.05671910 | lr: 0.00005782  | spend time: 0 days 16 hours 32 minutes 48 seconds
+epoch 19, iter 7301: loss: 0.05538734 | lr: 0.00005782  | spend time: 0 days 16 hours 33 minutes 30 seconds
+epoch 19, iter 7401: loss: 0.05526561 | lr: 0.00005782  | spend time: 0 days 16 hours 34 minutes 12 seconds
+epoch 19, iter 7501: loss: 0.05610201 | lr: 0.00005782  | spend time: 0 days 16 hours 34 minutes 54 seconds
+epoch 19, iter 7601: loss: 0.05505817 | lr: 0.00005782  | spend time: 0 days 16 hours 35 minutes 37 seconds
+epoch 19, iter 7701: loss: 0.05518759 | lr: 0.00005782  | spend time: 0 days 16 hours 36 minutes 19 seconds
+epoch 19, iter 7801: loss: 0.05530613 | lr: 0.00005782  | spend time: 0 days 16 hours 37 minutes  1 seconds
+epoch 19, iter 7901: loss: 0.05322007 | lr: 0.00005782  | spend time: 0 days 16 hours 37 minutes 43 seconds
+epoch 19, iter 8001: loss: 0.05499881 | lr: 0.00005782  | spend time: 0 days 16 hours 38 minutes 26 seconds
+epoch 19, iter 8101: loss: 0.05521115 | lr: 0.00005782  | spend time: 0 days 16 hours 39 minutes  8 seconds
+epoch 19, iter 8201: loss: 0.05520802 | lr: 0.00005782  | spend time: 0 days 16 hours 39 minutes 50 seconds
+epoch 19, iter 8301: loss: 0.05487960 | lr: 0.00005782  | spend time: 0 days 16 hours 40 minutes 32 seconds
+epoch 19, iter 8401: loss: 0.05498988 | lr: 0.00005782  | spend time: 0 days 16 hours 41 minutes 14 seconds
+epoch 19, iter 8501: loss: 0.05539102 | lr: 0.00005782  | spend time: 0 days 16 hours 41 minutes 56 seconds
+epoch 19, iter 8601: loss: 0.05537557 | lr: 0.00005782  | spend time: 0 days 16 hours 42 minutes 38 seconds
+epoch 19, iter 8701: loss: 0.05480793 | lr: 0.00005782  | spend time: 0 days 16 hours 43 minutes 21 seconds
+epoch 19, iter 8801: loss: 0.05551366 | lr: 0.00005782  | spend time: 0 days 16 hours 44 minutes  3 seconds
+epoch 19, iter 8901: loss: 0.05535890 | lr: 0.00005782  | spend time: 0 days 16 hours 44 minutes 44 seconds
+validing 19/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8523 | AP_pedestrian: 0.8145 | AP_cyclist: 0.8619 | AP_car: 0.9029 
+AR_total: 0.8904 | AR_pedestrian: 0.8512 | AR_cyclist: 0.9040 | AR_car: 0.9390 
+epoch 20, iter    1: loss: 0.05552182 | lr: 0.00005392  | spend time: 0 days 16 hours 48 minutes  1 seconds
+epoch 20, iter  101: loss: 0.05551796 | lr: 0.00005392  | spend time: 0 days 16 hours 48 minutes 43 seconds
+epoch 20, iter  201: loss: 0.05497674 | lr: 0.00005392  | spend time: 0 days 16 hours 49 minutes 25 seconds
+epoch 20, iter  301: loss: 0.05521088 | lr: 0.00005392  | spend time: 0 days 16 hours 50 minutes  7 seconds
+epoch 20, iter  401: loss: 0.05533829 | lr: 0.00005392  | spend time: 0 days 16 hours 50 minutes 49 seconds
+epoch 20, iter  501: loss: 0.05558684 | lr: 0.00005392  | spend time: 0 days 16 hours 51 minutes 31 seconds
+epoch 20, iter  601: loss: 0.05617732 | lr: 0.00005392  | spend time: 0 days 16 hours 52 minutes 14 seconds
+epoch 20, iter  701: loss: 0.05469129 | lr: 0.00005392  | spend time: 0 days 16 hours 52 minutes 56 seconds
+epoch 20, iter  801: loss: 0.05530415 | lr: 0.00005392  | spend time: 0 days 16 hours 53 minutes 38 seconds
+epoch 20, iter  901: loss: 0.05487501 | lr: 0.00005392  | spend time: 0 days 16 hours 54 minutes 20 seconds
+epoch 20, iter 1001: loss: 0.05599868 | lr: 0.00005392  | spend time: 0 days 16 hours 55 minutes  2 seconds
+epoch 20, iter 1101: loss: 0.05361323 | lr: 0.00005392  | spend time: 0 days 16 hours 55 minutes 44 seconds
+epoch 20, iter 1201: loss: 0.05540772 | lr: 0.00005392  | spend time: 0 days 16 hours 56 minutes 27 seconds
+epoch 20, iter 1301: loss: 0.05531206 | lr: 0.00005392  | spend time: 0 days 16 hours 57 minutes  9 seconds
+epoch 20, iter 1401: loss: 0.05511085 | lr: 0.00005392  | spend time: 0 days 16 hours 57 minutes 51 seconds
+epoch 20, iter 1501: loss: 0.05551159 | lr: 0.00005392  | spend time: 0 days 16 hours 58 minutes 33 seconds
+epoch 20, iter 1601: loss: 0.05520148 | lr: 0.00005392  | spend time: 0 days 16 hours 59 minutes 15 seconds
+epoch 20, iter 1701: loss: 0.05570580 | lr: 0.00005392  | spend time: 0 days 16 hours 59 minutes 57 seconds
+epoch 20, iter 1801: loss: 0.05552726 | lr: 0.00005392  | spend time: 0 days 17 hours  0 minutes 40 seconds
+epoch 20, iter 1901: loss: 0.05526299 | lr: 0.00005392  | spend time: 0 days 17 hours  1 minutes 22 seconds
+epoch 20, iter 2001: loss: 0.05528325 | lr: 0.00005392  | spend time: 0 days 17 hours  2 minutes  4 seconds
+epoch 20, iter 2101: loss: 0.05467780 | lr: 0.00005392  | spend time: 0 days 17 hours  2 minutes 46 seconds
+epoch 20, iter 2201: loss: 0.05538997 | lr: 0.00005392  | spend time: 0 days 17 hours  3 minutes 29 seconds
+epoch 20, iter 2301: loss: 0.05531057 | lr: 0.00005392  | spend time: 0 days 17 hours  4 minutes 11 seconds
+epoch 20, iter 2401: loss: 0.05511134 | lr: 0.00005392  | spend time: 0 days 17 hours  4 minutes 53 seconds
+epoch 20, iter 2501: loss: 0.05540785 | lr: 0.00005392  | spend time: 0 days 17 hours  5 minutes 35 seconds
+epoch 20, iter 2601: loss: 0.05528053 | lr: 0.00005392  | spend time: 0 days 17 hours  6 minutes 18 seconds
+epoch 20, iter 2701: loss: 0.05552179 | lr: 0.00005392  | spend time: 0 days 17 hours  7 minutes  0 seconds
+epoch 20, iter 2801: loss: 0.05532715 | lr: 0.00005392  | spend time: 0 days 17 hours  7 minutes 42 seconds
+epoch 20, iter 2901: loss: 0.05501978 | lr: 0.00005392  | spend time: 0 days 17 hours  8 minutes 24 seconds
+epoch 20, iter 3001: loss: 0.05524693 | lr: 0.00005392  | spend time: 0 days 17 hours  9 minutes  6 seconds
+epoch 20, iter 3101: loss: 0.05314251 | lr: 0.00005392  | spend time: 0 days 17 hours  9 minutes 48 seconds
+epoch 20, iter 3201: loss: 0.05535417 | lr: 0.00005392  | spend time: 0 days 17 hours 10 minutes 31 seconds
+epoch 20, iter 3301: loss: 0.05519829 | lr: 0.00005392  | spend time: 0 days 17 hours 11 minutes 13 seconds
+epoch 20, iter 3401: loss: 0.05468133 | lr: 0.00005392  | spend time: 0 days 17 hours 11 minutes 55 seconds
+epoch 20, iter 3501: loss: 0.05307097 | lr: 0.00005392  | spend time: 0 days 17 hours 12 minutes 37 seconds
+epoch 20, iter 3601: loss: 0.05450300 | lr: 0.00005392  | spend time: 0 days 17 hours 13 minutes 19 seconds
+epoch 20, iter 3701: loss: 0.05206832 | lr: 0.00005392  | spend time: 0 days 17 hours 14 minutes  1 seconds
+epoch 20, iter 3801: loss: 0.05409547 | lr: 0.00005392  | spend time: 0 days 17 hours 14 minutes 43 seconds
+epoch 20, iter 3901: loss: 0.05613111 | lr: 0.00005392  | spend time: 0 days 17 hours 15 minutes 25 seconds
+epoch 20, iter 4001: loss: 0.05421143 | lr: 0.00005392  | spend time: 0 days 17 hours 16 minutes  7 seconds
+epoch 20, iter 4101: loss: 0.05663814 | lr: 0.00005392  | spend time: 0 days 17 hours 16 minutes 50 seconds
+epoch 20, iter 4201: loss: 0.05498193 | lr: 0.00005392  | spend time: 0 days 17 hours 17 minutes 32 seconds
+epoch 20, iter 4301: loss: 0.05551562 | lr: 0.00005392  | spend time: 0 days 17 hours 18 minutes 14 seconds
+epoch 20, iter 4401: loss: 0.05541518 | lr: 0.00005392  | spend time: 0 days 17 hours 18 minutes 56 seconds
+epoch 20, iter 4501: loss: 0.05521440 | lr: 0.00005392  | spend time: 0 days 17 hours 19 minutes 38 seconds
+epoch 20, iter 4601: loss: 0.05435359 | lr: 0.00005392  | spend time: 0 days 17 hours 20 minutes 20 seconds
+epoch 20, iter 4701: loss: 0.05478784 | lr: 0.00005392  | spend time: 0 days 17 hours 21 minutes  2 seconds
+epoch 20, iter 4801: loss: 0.05485180 | lr: 0.00005392  | spend time: 0 days 17 hours 21 minutes 45 seconds
+epoch 20, iter 4901: loss: 0.05618970 | lr: 0.00005392  | spend time: 0 days 17 hours 22 minutes 27 seconds
+epoch 20, iter 5001: loss: 0.05523397 | lr: 0.00005392  | spend time: 0 days 17 hours 23 minutes  9 seconds
+epoch 20, iter 5101: loss: 0.05600071 | lr: 0.00005392  | spend time: 0 days 17 hours 23 minutes 51 seconds
+epoch 20, iter 5201: loss: 0.05606504 | lr: 0.00005392  | spend time: 0 days 17 hours 24 minutes 33 seconds
+epoch 20, iter 5301: loss: 0.05613709 | lr: 0.00005392  | spend time: 0 days 17 hours 25 minutes 15 seconds
+epoch 20, iter 5401: loss: 0.05609737 | lr: 0.00005392  | spend time: 0 days 17 hours 25 minutes 58 seconds
+epoch 20, iter 5501: loss: 0.05616587 | lr: 0.00005392  | spend time: 0 days 17 hours 26 minutes 40 seconds
+epoch 20, iter 5601: loss: 0.05530018 | lr: 0.00005392  | spend time: 0 days 17 hours 27 minutes 22 seconds
+epoch 20, iter 5701: loss: 0.05436406 | lr: 0.00005392  | spend time: 0 days 17 hours 28 minutes  5 seconds
+epoch 20, iter 5801: loss: 0.05525906 | lr: 0.00005392  | spend time: 0 days 17 hours 28 minutes 47 seconds
+epoch 20, iter 5901: loss: 0.05553515 | lr: 0.00005392  | spend time: 0 days 17 hours 29 minutes 29 seconds
+epoch 20, iter 6001: loss: 0.05452565 | lr: 0.00005392  | spend time: 0 days 17 hours 30 minutes 11 seconds
+epoch 20, iter 6101: loss: 0.05588396 | lr: 0.00005392  | spend time: 0 days 17 hours 30 minutes 53 seconds
+epoch 20, iter 6201: loss: 0.05536612 | lr: 0.00005392  | spend time: 0 days 17 hours 31 minutes 35 seconds
+epoch 20, iter 6301: loss: 0.05519332 | lr: 0.00005392  | spend time: 0 days 17 hours 32 minutes 18 seconds
+epoch 20, iter 6401: loss: 0.05475702 | lr: 0.00005392  | spend time: 0 days 17 hours 33 minutes  0 seconds
+epoch 20, iter 6501: loss: 0.05303891 | lr: 0.00005392  | spend time: 0 days 17 hours 33 minutes 42 seconds
+epoch 20, iter 6601: loss: 0.05511187 | lr: 0.00005392  | spend time: 0 days 17 hours 34 minutes 24 seconds
+epoch 20, iter 6701: loss: 0.05365366 | lr: 0.00005392  | spend time: 0 days 17 hours 35 minutes  6 seconds
+epoch 20, iter 6801: loss: 0.05555625 | lr: 0.00005392  | spend time: 0 days 17 hours 35 minutes 49 seconds
+epoch 20, iter 6901: loss: 0.05451598 | lr: 0.00005392  | spend time: 0 days 17 hours 36 minutes 31 seconds
+epoch 20, iter 7001: loss: 0.05515013 | lr: 0.00005392  | spend time: 0 days 17 hours 37 minutes 13 seconds
+epoch 20, iter 7101: loss: 0.05545038 | lr: 0.00005392  | spend time: 0 days 17 hours 37 minutes 55 seconds
+epoch 20, iter 7201: loss: 0.05562518 | lr: 0.00005392  | spend time: 0 days 17 hours 38 minutes 37 seconds
+epoch 20, iter 7301: loss: 0.05529312 | lr: 0.00005392  | spend time: 0 days 17 hours 39 minutes 19 seconds
+epoch 20, iter 7401: loss: 0.05443896 | lr: 0.00005392  | spend time: 0 days 17 hours 40 minutes  2 seconds
+epoch 20, iter 7501: loss: 0.05535526 | lr: 0.00005392  | spend time: 0 days 17 hours 40 minutes 44 seconds
+epoch 20, iter 7601: loss: 0.05407886 | lr: 0.00005392  | spend time: 0 days 17 hours 41 minutes 26 seconds
+epoch 20, iter 7701: loss: 0.05386804 | lr: 0.00005392  | spend time: 0 days 17 hours 42 minutes  8 seconds
+epoch 20, iter 7801: loss: 0.05539697 | lr: 0.00005392  | spend time: 0 days 17 hours 42 minutes 50 seconds
+epoch 20, iter 7901: loss: 0.05546140 | lr: 0.00005392  | spend time: 0 days 17 hours 43 minutes 32 seconds
+epoch 20, iter 8001: loss: 0.05421877 | lr: 0.00005392  | spend time: 0 days 17 hours 44 minutes 15 seconds
+epoch 20, iter 8101: loss: 0.05393593 | lr: 0.00005392  | spend time: 0 days 17 hours 44 minutes 57 seconds
+epoch 20, iter 8201: loss: 0.05554759 | lr: 0.00005392  | spend time: 0 days 17 hours 45 minutes 39 seconds
+epoch 20, iter 8301: loss: 0.05651723 | lr: 0.00005392  | spend time: 0 days 17 hours 46 minutes 21 seconds
+epoch 20, iter 8401: loss: 0.05604706 | lr: 0.00005392  | spend time: 0 days 17 hours 47 minutes  3 seconds
+epoch 20, iter 8501: loss: 0.05484755 | lr: 0.00005392  | spend time: 0 days 17 hours 47 minutes 45 seconds
+epoch 20, iter 8601: loss: 0.05526148 | lr: 0.00005392  | spend time: 0 days 17 hours 48 minutes 27 seconds
+epoch 20, iter 8701: loss: 0.05509750 | lr: 0.00005392  | spend time: 0 days 17 hours 49 minutes  9 seconds
+epoch 20, iter 8801: loss: 0.05516431 | lr: 0.00005392  | spend time: 0 days 17 hours 49 minutes 52 seconds
+epoch 20, iter 8901: loss: 0.05534296 | lr: 0.00005392  | spend time: 0 days 17 hours 50 minutes 34 seconds
+validing 20/20 model ...
+Avg Loss: 0.056
+AP_total: 0.8445 | AP_pedestrian: 0.8158 | AP_cyclist: 0.8397 | AP_car: 0.8966 
+AR_total: 0.8875 | AR_pedestrian: 0.8615 | AR_cyclist: 0.8793 | AR_car: 0.9390 
+
+
+
+
+
+Building training set...
+Reading annotation for 2019_09_29_ONRD013: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 36/36 [00:46<00:00,  1.29s/it]
+Building validate set...
+Reading annotation for 2019_09_29_ONRD005: 100%|███████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:05<00:00,  1.41s/it]
+Resuming training from epoch 4
+mRadNet_20251128_085306
+Train 5/20:   0%|                                                                                                                                   | 0/8958 [00:00<?, ?it/s]/home/user/anaconda3/envs/pytorch271/lib/python3.12/site-packages/torch/autograd/graph.py:824: UserWarning: Memory Efficient attention defaults to a non-deterministic algorithm. To explicitly enable determinism call torch.use_deterministic_algorithms(True, warn_only=False). (Triggered internally at /pytorch/aten/src/ATen/native/transformers/cuda/attention_backward.cu:752.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+/home/user/anaconda3/envs/pytorch271/lib/python3.12/site-packages/torch/autograd/graph.py:824: UserWarning: upsample_trilinear3d_backward_out_cuda does not have a deterministic implementation, but you set 'torch.use_deterministic_algorithms(True, warn_only=True)'. You can file an issue at https://github.com/pytorch/pytorch/issues to help us prioritize adding deterministic support for this operation. (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:93.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Train 5/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:51<00:00,  2.34it/s]
+Valid 5/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [05:59<00:00,  1.52it/s]
+class_thrs_AP =  [[0.80745697 0.9100047  0.89841919 0.8636329  0.76926265 0.51775016]
+                    [0.76886999 0.85397965 0.83046878 0.80382798 0.7347812  0.55785701]
+                    [0.8378393  0.91944626 0.90047403 0.87123705 0.8063638  0.63574954]
+                    [0.80402827 0.89576625 0.8786403  0.84777294 0.76885666 0.56126468]]
+class_thrs_AR =  [[0.88146181 0.95086321 0.94156707 0.91943338 0.85790173 0.68747233]
+                    [0.87234346 0.96020539 0.93196406 0.89730424 0.82991014 0.6970475 ]
+                    [0.91293234 0.97627606 0.95758447 0.93745507 0.89288282 0.7627606 ]
+                    [0.88713944 0.96044547 0.94297235 0.91762673 0.85887097 0.71044547]]
+Valid 5/20 - Avg Loss: 0.056
+AP_total: 0.8040 | AP_pedestrian: 0.8075 | AP_cyclist: 0.7689 | AP_car: 0.8378
+AR_total: 0.8871 | AR_pedestrian: 0.8815 | AR_cyclist: 0.8723 | AR_car: 0.9129
+Train 6/20:   0%|                                                                                                                                   | 0/8958 [00:00<?, ?it/s]/home/user/anaconda3/envs/pytorch271/lib/python3.12/site-packages/torch/autograd/graph.py:824: UserWarning: upsample_trilinear3d_backward_out_cuda does not have a deterministic implementation, but you set 'torch.use_deterministic_algorithms(True, warn_only=True)'. You can file an issue at https://github.com/pytorch/pytorch/issues to help us prioritize adding deterministic support for this operation. (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:93.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Train 6/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:01<00:00,  2.33it/s]
+Valid 6/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:47<00:00,  5.10it/s]
+class_thrs_AP =  [[0.83732222 0.89656673 0.89341096 0.87357166 0.82488844 0.63452175]
+                    [0.85600011 0.91398533 0.90372332 0.88148936 0.84259993 0.6899879 ]
+                    [0.8474056  0.93025333 0.91051247 0.87300624 0.8301676  0.63936963]
+                    [0.84560297 0.91077492 0.90106358 0.87578926 0.83159693 0.65240955]]
+class_thrs_AR =  [[0.88574099 0.92872953 0.92031873 0.90880921 0.87649402 0.75741479]
+                    [0.88846099 0.93260591 0.92169448 0.90693196 0.87483954 0.77021823]
+                    [0.91221344 0.9705248  0.95470884 0.93242272 0.90222861 0.7627606 ]
+                    [0.89362519 0.94105223 0.92991551 0.91455453 0.8828725  0.76267281]]
+Valid 6/20 - Avg Loss: 0.056
+AP_total: 0.8456 | AP_pedestrian: 0.8373 | AP_cyclist: 0.8560 | AP_car: 0.8474
+AR_total: 0.8936 | AR_pedestrian: 0.8857 | AR_cyclist: 0.8885 | AR_car: 0.9122
+Train 7/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:52<00:00,  2.34it/s]
+Valid 7/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:03<00:00,  4.43it/s]
+class_thrs_AP =  [[0.81814212 0.88536351 0.87621025 0.86476966 0.79879646 0.59228201]
+                    [0.83286733 0.89432432 0.88126763 0.86692256 0.80966024 0.65569458]
+                    [0.85789345 0.94068305 0.92292381 0.89678848 0.83527371 0.64726323]
+                    [0.83316439 0.90281943 0.89019988 0.87396559 0.81178909 0.62593709]]
+class_thrs_AR =  [[0.8884954  0.93359894 0.92695883 0.9189907  0.87383798 0.74856131]
+                    [0.87519612 0.93132221 0.91720154 0.89858793 0.84852375 0.74261874]
+                    [0.92395559 0.97483825 0.96261682 0.94967649 0.9108555  0.79007908]
+                    [0.89398788 0.94393241 0.93356375 0.92108295 0.87615207 0.7578725 ]]
+Valid 7/20 - Avg Loss: 0.056
+AP_total: 0.8332 | AP_pedestrian: 0.8181 | AP_cyclist: 0.8329 | AP_car: 0.8579
+AR_total: 0.8940 | AR_pedestrian: 0.8885 | AR_cyclist: 0.8752 | AR_car: 0.9240
+Train 8/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:05:02<00:00,  2.30it/s]
+Valid 8/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [05:41<00:00,  1.61it/s]
+class_thrs_AP =  [[0.83217244 0.88600269 0.88486897 0.87341852 0.82265906 0.62478645]
+                    [0.88432877 0.94505458 0.92799397 0.90646074 0.85891475 0.74117214]
+                    [0.87180897 0.93071178 0.91456241 0.89862334 0.8583421  0.7180908 ]
+                    [0.85836176 0.91560968 0.90570083 0.89003521 0.84303569 0.6845244 ]]
+class_thrs_AR =  [[0.86980473 0.91102258 0.90836653 0.89862771 0.86277114 0.72465693]
+                    [0.9217658  0.97368421 0.95956354 0.93774069 0.89922978 0.80937099]
+                    [0.92443486 0.96261682 0.95255212 0.94320633 0.91660676 0.81811646]
+                    [0.89994026 0.94354839 0.93548387 0.92223502 0.88805684 0.7749616 ]]
+Valid 8/20 - Avg Loss: 0.056
+AP_total: 0.8584 | AP_pedestrian: 0.8322 | AP_cyclist: 0.8843 | AP_car: 0.8718
+AR_total: 0.8999 | AR_pedestrian: 0.8698 | AR_cyclist: 0.9218 | AR_car: 0.9244
+Train 9/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:59<00:00,  2.30it/s]
+Valid 9/20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [02:14<00:00,  4.07it/s]
+class_thrs_AP =  [[0.83681862 0.89452066 0.88540072 0.87387988 0.82123953 0.67323848]
+                    [0.85217675 0.90555214 0.89027308 0.87453552 0.83609815 0.72812587]
+                    [0.88380561 0.96048019 0.93757364 0.91028219 0.85952333 0.71434429]
+                    [0.8539628  0.91543785 0.90079313 0.88379868 0.83590975 0.70063724]]
+class_thrs_AR =  [[0.87826472 0.92031873 0.91412129 0.90305445 0.86321381 0.76405489]
+                    [0.88703466 0.94544288 0.92490372 0.90564827 0.86007702 0.77727856]
+                    [0.93402029 0.98274623 0.9705248  0.95255212 0.9209202  0.81811646]
+                    [0.89578    0.94450845 0.93241167 0.91705069 0.87768817 0.78245008]]
+Valid 9/20 - Avg Loss: 0.056
+AP_total: 0.8540 | AP_pedestrian: 0.8368 | AP_cyclist: 0.8522 | AP_car: 0.8838
+AR_total: 0.8958 | AR_pedestrian: 0.8783 | AR_cyclist: 0.8870 | AR_car: 0.9340
+Train 10/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:57<00:00,  2.30it/s]
+Valid 10/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [03:18<00:00,  2.76it/s]
+class_thrs_AP =  [[0.83831327 0.88558434 0.88509333 0.87236243 0.82166751 0.67723971]
+                    [0.87898132 0.93871737 0.92082567 0.89871642 0.84893799 0.7520146 ]
+                    [0.86445995 0.94325289 0.9215305  0.88452781 0.83172593 0.69726267]
+                    [0.85746282 0.916882   0.90551482 0.8834956  0.83251211 0.70495692]]
+class_thrs_AR =  [[0.87093601 0.90925188 0.90748119 0.89065958 0.85391766 0.7622842 ]
+                    [0.91135359 0.96534018 0.94993582 0.92682927 0.88382542 0.80166881]
+                    [0.92251777 0.97483825 0.96117901 0.93889288 0.90150971 0.80445723]
+                    [0.89680406 0.94354839 0.93452381 0.91436252 0.87557604 0.78533026]]
+Valid 10/20 - Avg Loss: 0.056
+AP_total: 0.8575 | AP_pedestrian: 0.8383 | AP_cyclist: 0.8790 | AP_car: 0.8645
+AR_total: 0.8968 | AR_pedestrian: 0.8709 | AR_cyclist: 0.9114 | AR_car: 0.9225
+Train 11/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:59<00:00,  2.30it/s]
+Valid 11/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:49<00:00,  4.99it/s]
+class_thrs_AP =  [[0.83530136 0.88980028 0.880112   0.86793759 0.81278157 0.68442508]
+                    [0.8651332  0.91980876 0.91119767 0.88976194 0.83759316 0.71766858]
+                    [0.89778521 0.95513459 0.93981849 0.92115215 0.88332905 0.74912241]
+                    [0.86091446 0.91622755 0.90535839 0.88867949 0.83904655 0.71165   ]]
+class_thrs_AR =  [[0.87354287 0.91412129 0.90615317 0.89021691 0.85922975 0.77423639]
+                    [0.89780345 0.94415918 0.93709884 0.91078306 0.87676508 0.79139923]
+                    [0.9448039  0.98705967 0.97699497 0.96261682 0.93386053 0.83321352]
+                    [0.89983359 0.94258833 0.9343318  0.91570661 0.8844086  0.79512289]]
+Valid 11/20 - Avg Loss: 0.056
+AP_total: 0.8609 | AP_pedestrian: 0.8353 | AP_cyclist: 0.8651 | AP_car: 0.8978
+AR_total: 0.8998 | AR_pedestrian: 0.8735 | AR_cyclist: 0.8978 | AR_car: 0.9448
+Train 12/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:05:04<00:00,  2.29it/s]
+Valid 12/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:58<00:00,  4.61it/s]
+class_thrs_AP =  [[0.84198114 0.88403387 0.88264675 0.87342064 0.84137154 0.68618847]
+                    [0.86590637 0.92641095 0.90668449 0.88720186 0.83814933 0.72697349]
+                    [0.87512207 0.95171526 0.93715521 0.89084526 0.8470787  0.71303632]
+                    [0.85799008 0.91478815 0.90439638 0.88219729 0.84193192 0.70556029]]
+class_thrs_AR =  [[0.88721657 0.91810536 0.91456397 0.90792386 0.88401948 0.7875166 ]
+                    [0.89010127 0.94480103 0.92490372 0.90372272 0.86521181 0.77984596]
+                    [0.92347632 0.97555715 0.96405464 0.93386053 0.90150971 0.81524083]
+                    [0.89776412 0.94143625 0.93087558 0.91359447 0.88306452 0.79262673]]
+Valid 12/20 - Avg Loss: 0.056
+AP_total: 0.8580 | AP_pedestrian: 0.8420 | AP_cyclist: 0.8659 | AP_car: 0.8751
+AR_total: 0.8978 | AR_pedestrian: 0.8872 | AR_cyclist: 0.8901 | AR_car: 0.9235
+Train 13/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:59<00:00,  2.30it/s]
+Valid 13/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:51<00:00,  4.92it/s]
+class_thrs_AP =  [[0.85163602 0.89922851 0.89809399 0.89398573 0.83538616 0.67800636]
+                    [0.89226905 0.9505094  0.94333777 0.92032281 0.86544166 0.73318328]
+                    [0.87605243 0.94890281 0.93262605 0.90483329 0.84356836 0.70840768]
+                    [0.87031296 0.92783692 0.92085204 0.90476187 0.84656279 0.70263268]]
+class_thrs_AR =  [[0.89405342 0.92651616 0.92341744 0.92031873 0.8835768  0.78131917]
+                    [0.92304949 0.97304236 0.96534018 0.94030809 0.89666239 0.80038511]
+                    [0.93513859 0.9798706  0.96908699 0.95398994 0.92020129 0.82530554]
+                    [0.91370114 0.9546851  0.94815668 0.93529186 0.89727343 0.79877112]]
+Valid 13/20 - Avg Loss: 0.056
+AP_total: 0.8703 | AP_pedestrian: 0.8516 | AP_cyclist: 0.8923 | AP_car: 0.8761
+AR_total: 0.9137 | AR_pedestrian: 0.8941 | AR_cyclist: 0.9230 | AR_car: 0.9351
+Train 14/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:04:43<00:00,  2.31it/s]
+Valid 14/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [04:09<00:00,  2.19it/s]
+class_thrs_AP =  [[0.85801202 0.89928344 0.89734962 0.88771668 0.86166605 0.69796176]
+                    [0.89041327 0.95984592 0.94142795 0.92078067 0.86391832 0.72355818]
+                    [0.89463822 0.95631929 0.9392952  0.9130396  0.86710445 0.75931237]
+                    [0.87748748 0.93263467 0.92173909 0.90437142 0.86379236 0.72200514]]
+class_thrs_AR =  [[0.89562737 0.92872953 0.92164675 0.91810536 0.89641434 0.78574591]
+                    [0.91620311 0.97175866 0.957638   0.93902439 0.89602054 0.78369705]
+                    [0.93122454 0.98130841 0.9698059  0.94967649 0.90726096 0.81811646]
+                    [0.91129032 0.95564516 0.9452765  0.9327957  0.89919355 0.7937788 ]]
+Valid 14/20 - Avg Loss: 0.056
+AP_total: 0.8775 | AP_pedestrian: 0.8580 | AP_cyclist: 0.8904 | AP_car: 0.8946
+AR_total: 0.9113 | AR_pedestrian: 0.8956 | AR_cyclist: 0.9162 | AR_car: 0.9312
+Train 15/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:58<00:00,  2.33it/s]
+Valid 15/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:51<00:00,  4.93it/s]
+class_thrs_AP =  [[0.8294475  0.86774552 0.86679073 0.85821997 0.82995946 0.68787185]
+                    [0.85654901 0.91059948 0.90028609 0.88107845 0.82877205 0.72790718]
+                    [0.8888773  0.96347829 0.9426304  0.91737919 0.87567298 0.70760589]
+                    [0.8534281  0.90613468 0.89706699 0.88085899 0.84181382 0.70511937]]
+class_thrs_AR =  [[0.86759136 0.895529   0.89154493 0.88446215 0.86409916 0.77999115]
+                    [0.88532306 0.936457   0.92362003 0.90179718 0.85750963 0.77856226]
+                    [0.93441968 0.98562185 0.97124371 0.95327103 0.92595255 0.80733285]
+                    [0.89074501 0.93183564 0.92242704 0.90802611 0.87864823 0.78686636]]
+Valid 15/20 - Avg Loss: 0.056
+AP_total: 0.8534 | AP_pedestrian: 0.8294 | AP_cyclist: 0.8565 | AP_car: 0.8889
+AR_total: 0.8907 | AR_pedestrian: 0.8676 | AR_cyclist: 0.8853 | AR_car: 0.9344
+Train 16/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:54<00:00,  2.34it/s]
+Valid 16/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:53<00:00,  4.81it/s]
+class_thrs_AP =  [[0.84115694 0.88796688 0.88760156 0.87337674 0.8341302  0.67817979]
+                    [0.86716997 0.91726758 0.90689359 0.88587804 0.83801135 0.75338061]
+                    [0.88874656 0.96333448 0.94694098 0.90952624 0.85534955 0.73703686]
+                    [0.86164954 0.9168622  0.90922178 0.8867717  0.84095873 0.71639658]]
+class_thrs_AR =  [[0.88136344 0.91500664 0.91279327 0.9039398  0.87295263 0.77202302]
+                    [0.89102838 0.936457   0.92362003 0.90500642 0.86713736 0.79781772]
+                    [0.93402029 0.9899353  0.97915169 0.94967649 0.90941769 0.81739756]
+                    [0.89831883 0.94143625 0.93375576 0.91647465 0.88095238 0.79185868]]
+Valid 16/20 - Avg Loss: 0.056
+AP_total: 0.8616 | AP_pedestrian: 0.8412 | AP_cyclist: 0.8672 | AP_car: 0.8887
+AR_total: 0.8983 | AR_pedestrian: 0.8814 | AR_cyclist: 0.8910 | AR_car: 0.9340
+Train 17/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:59<00:00,  2.33it/s]
+Valid 17/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:56<00:00,  4.71it/s]
+class_thrs_AP =  [[0.81636933 0.86945101 0.86857482 0.85706959 0.80315677 0.64002004]
+                    [0.8517908  0.90672442 0.89369458 0.87523294 0.82552562 0.71993823]
+                    [0.89390431 0.9529103  0.94023729 0.9147669  0.87411478 0.75097426]
+                    [0.84767459 0.90289261 0.89522979 0.87791357 0.82880064 0.69356264]]
+class_thrs_AR =  [[0.85701638 0.89774236 0.89287295 0.88003541 0.84240815 0.74723329]
+                    [0.88724861 0.93838254 0.92105263 0.90757381 0.86585366 0.77599487]
+                    [0.93865325 0.98921639 0.97699497 0.95255212 0.92020129 0.82530554]
+                    [0.88786482 0.9343318  0.92377112 0.90764209 0.87019969 0.77668971]]
+Valid 17/20 - Avg Loss: 0.056
+AP_total: 0.8477 | AP_pedestrian: 0.8164 | AP_cyclist: 0.8518 | AP_car: 0.8939
+AR_total: 0.8879 | AR_pedestrian: 0.8570 | AR_cyclist: 0.8872 | AR_car: 0.9387
+Train 18/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:59<00:00,  2.33it/s]
+Valid 18/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:55<00:00,  4.73it/s]
+class_thrs_AP =  [[0.8157703  0.86823159 0.86729632 0.84320722 0.8096655  0.6419189 ]
+                    [0.83215592 0.88741324 0.87678763 0.8478832  0.80352387 0.7131672 ]
+                    [0.8767842  0.94342871 0.925491   0.89855937 0.85499862 0.72939457]
+                    [0.83696829 0.89405421 0.88567886 0.85939002 0.81993618 0.686597  ]]
+class_thrs_AR =  [[0.85947568 0.89331563 0.89021691 0.87959274 0.85524568 0.74900398]
+                    [0.87241478 0.92233633 0.91078306 0.88703466 0.84980745 0.76636714]
+                    [0.92363607 0.97340043 0.9604601  0.9410496  0.90582315 0.81020848]
+                    [0.88048302 0.9233871  0.91513057 0.89823349 0.8671275  0.77054531]]
+Valid 18/20 - Avg Loss: 0.056
+AP_total: 0.8370 | AP_pedestrian: 0.8158 | AP_cyclist: 0.8322 | AP_car: 0.8768
+AR_total: 0.8805 | AR_pedestrian: 0.8595 | AR_cyclist: 0.8724 | AR_car: 0.9236
+Train 19/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:55<00:00,  2.34it/s]
+Valid 19/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:50<00:00,  4.94it/s]
+class_thrs_AP =  [[0.81452483 0.86699017 0.86559281 0.84788079 0.79208225 0.65951705]
+                    [0.86188877 0.92760069 0.90174822 0.87882335 0.83754829 0.72846748]
+                    [0.90286564 0.96602802 0.94644957 0.92418662 0.88405342 0.75163684]
+                    [0.85228886 0.91157405 0.89800484 0.87751787 0.83024815 0.70474812]]
+class_thrs_AR =  [[0.85116325 0.88888889 0.88667552 0.87029659 0.83709606 0.74723329]
+                    [0.90400799 0.96084724 0.936457   0.91206675 0.88382542 0.79974326]
+                    [0.93897276 0.99065421 0.97483825 0.95398994 0.92163911 0.82314881]
+                    [0.89042499 0.93759601 0.92511521 0.90514593 0.87365591 0.78321813]]
+Valid 19/20 - Avg Loss: 0.056
+AP_total: 0.8523 | AP_pedestrian: 0.8145 | AP_cyclist: 0.8619 | AP_car: 0.9029
+AR_total: 0.8904 | AR_pedestrian: 0.8512 | AR_cyclist: 0.9040 | AR_car: 0.9390
+Train 20/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8958/8958 [1:03:57<00:00,  2.33it/s]
+Valid 20/20: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 548/548 [01:55<00:00,  4.75it/s]
+class_thrs_AP =  [[0.81579363 0.86864962 0.86797241 0.857462   0.8072105  0.62472837]
+                    [0.83969459 0.89462131 0.87658595 0.85694566 0.81050832 0.71834811]
+                    [0.89660463 0.95849211 0.94560346 0.9188228  0.88051142 0.74215598]
+                    [0.84452746 0.90041514 0.8912836  0.87369634 0.82777493 0.68409883]]
+class_thrs_AR =  [[0.8614923  0.89818504 0.89685702 0.88977424 0.85568836 0.73749447]
+                    [0.87933248 0.92747112 0.90821566 0.8915276  0.85815148 0.7830552 ]
+                    [0.93897276 0.98777858 0.97771387 0.95758447 0.92595255 0.81739756]
+                    [0.88752347 0.93087558 0.921851   0.90841014 0.87519201 0.77246544]]
+Valid 20/20 - Avg Loss: 0.056
+AP_total: 0.8445 | AP_pedestrian: 0.8158 | AP_cyclist: 0.8397 | AP_car: 0.8966
+AR_total: 0.8875 | AR_pedestrian: 0.8615 | AR_cyclist: 0.8793 | AR_car: 0.9390

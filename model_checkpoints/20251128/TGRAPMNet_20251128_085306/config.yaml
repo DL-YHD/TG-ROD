@@ -1,0 +1,97 @@
+dataset:
+  calc_all_window_size: false
+  chirps:
+  - 0
+  - 64
+  - 128
+  - 192
+  class_names:
+  - pedestrian
+  - cyclist
+  - car
+  class_sizes:
+    car: 24
+    cyclist: 18
+    pedestrian: 12
+  confamaps_save_path: confmaps
+  confmap:
+    conf_threshold: 0.01
+    lnms_threshold: 0.5
+  helper_object_config: object_config
+  helper_sensor_config: sensor_config_rod2021
+  input_range:
+  - 1.0
+  - 25.0
+  - -1.0472
+  - 1.0472
+  input_size:
+  - 128
+  - 128
+  is_random_chirp: true
+  root_path: /media/user/WDC10TB/code/YHD/data/ROD2021
+  test_list:
+  - 2019_05_28_CM1S013
+  - 2019_05_28_MLMS005
+  - 2019_05_28_PBMS006
+  - 2019_05_28_PCMS004
+  - 2019_05_28_PM2S012
+  - 2019_05_28_PM2S014
+  - 2019_09_18_ONRD004
+  - 2019_09_18_ONRD009
+  - 2019_09_29_ONRD012
+  - 2019_10_13_ONRD048
+  use_extra_information: true
+  valid_list:
+  - 2019_04_09_BMS1001
+  - 2019_04_30_MLMS001
+  - 2019_05_23_PM1S013
+  - 2019_09_29_ONRD005
+eval_tmp_dir: submit
+exp_dir: model_checkpoints
+model:
+  clip_model:
+    clip_vector: 512
+    model_path: ./Long_CLIP/checkpoints/longclip-B.pt
+    vector_length: 248
+  cls_uncertainty: false
+  decoder:
+    depths:
+    - 2
+    - 2
+    - 2
+    embed_dim: 64
+    out_channels: 64
+  encoder:
+    depths:
+    - 2
+    - 2
+    - 2
+    - 1
+    dims:
+    - 48
+    - 96
+    - 192
+    - 384
+    patch_size:
+    - 2
+    - 2
+    - 2
+  loss_weights: 0.001
+  max_dets: 5
+  mix3d: true
+  ols_thres: 0.3
+  output_size:
+  - 128
+  - 128
+  peak_thres: 0.6
+  segment_thres: 0
+  window_size: 16
+  window_step: 2
+name: TGRAPMNet
+seed: 0
+train:
+  batch_size: 2
+  learning_rate: 0.0001
+  log_step: 100
+  num_epochs: 20
+  weight_decay: 0

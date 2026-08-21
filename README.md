@@ -1,8 +1,8 @@
-# TG-RAPMN: A Text-Guided Short-Range Object Radar Detector
+# TG-ROD: A Text-Guided Short-Range Object Radar Detector
 
-This is the official implementation of TG-RAPMN from the paper [TG-ROD: A Text-Guided Radar Object Detector](https://arxiv.org/abs/).
+This is the official implementation of TG-ROD from the paper [TG-ROD: A Text-Guided Radar Object Detector](https://arxiv.org/abs/).
 
-![TG-RAPMN's archetecture](assets/architecture.png)
+![TG-ROD's archetecture](assets/architecture.png)
 
 ## Data Preparation
 * Download the CRUW ROD2021 dataset from https://www.cruwdataset.org/download. Download `TRAIN_RAD_H.zip` and `TRAIN_RAD_H_ANNO.zip`, the camera images and the testing set are not needed. Extract the zip files, and place the files as the following structure:
@@ -52,7 +52,7 @@ This is the official implementation of TG-RAPMN from the paper [TG-ROD: A Text-G
 * Extract the zip files, and place the files to the `root` directory ras the following structure:
 ```cpp
 ├─ config
-   └─TG-RAPMN.yaml
+   └─TG-ROD.yaml
 ├─ cruw                           // We have provided the modified cruw package to ensure that the code can run properly.
 |  └─ ...
 ├─ confmaps                       // When running the training script for the first time, '.pt' files will be automatically generated (a total of 40 files)
@@ -71,7 +71,7 @@ This is the official implementation of TG-RAPMN from the paper [TG-ROD: A Text-G
 
 ## Installation
 
-* Create a conda environment. TG-RAPMN was tested under Python 3.12, Pytorch 2.7.1 on Ubuntu with Nvidia RTX 4090 GPU.
+* Create a conda environment. TG-ROD was tested under Python 3.12, Pytorch 2.7.1 on Ubuntu with Nvidia RTX 4090 GPU.
 
 * You can configure the environment yourself based on the [requirements.txt](requirements.txt).
 ```
@@ -84,19 +84,19 @@ pip install torch==2.7.1 torchvision==0.22.1 torchaudio==2.7.1 --index-url https
 pip install -r requirements.txt
 ```
 
-* Edit the paths in [TG-RAPMN.yaml](config/TG-RAPMN.yaml) to your own paths.
+* Edit the paths in [TG-ROD.yaml](config/TG-ROD.yaml) to your own paths.
 
 ## Training
 ```sh
-python train.py -c config/TG-RAPMN.yaml 
+python train.py -c config/TG-ROD.yaml 
 ```
 ## Validating
 ```sh
-python test.py -i -f valid -c config/TG-RAPMN.yaml  -r checkpoint.pt
+python test.py -i -f valid -c config/TG-ROD.yaml  -r checkpoint.pt
 ```
 ## Testing
 ```sh
-python test.py -f test -c config/TG-RAPMN.yaml -r checkpoint.pt
+python test.py -f test -c config/TG-ROD.yaml -r checkpoint.pt
 ```
 * We have provided the results of online testing, as shown in the table below.
 

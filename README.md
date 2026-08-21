@@ -1,6 +1,6 @@
 # TG-RAPMN: A Text-Guided Short-Range Object Radar Detector
 
-This is the official implementation of TG-RAPMN from the paper [TG-RAPMN: A Text-Guided Short-Range Object Radar Detector](https://arxiv.org/abs/).
+This is the official implementation of TG-RAPMN from the paper [TG-ROD: A Text-Guided Radar Object Detector](https://arxiv.org/abs/).
 
 ![TG-RAPMN's archetecture](assets/architecture.png)
 
